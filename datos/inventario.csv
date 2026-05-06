@@ -1,0 +1,26 @@
+sku,producto,categoria,costo,precio,stock_actual,stock_minimo,stock_maximo,demanda_diaria_prom,dias_para_agotar,valor_inventario,necesita_reposicion
+LAP001,Laptop Pro 15,Electrónica,12000,15000,17,9,189,8,2.1,204000,False
+LAP002,Laptop Air 13,Electrónica,9000,11500,192,8,284,0,192.0,1728000,False
+MON001,Monitor 27 4K,Electrónica,5500,7200,123,10,220,2,61.5,676500,False
+MON002,Monitor 24 HD,Electrónica,2500,3400,90,28,236,0,90.0,225000,False
+TEC001,Teclado Mecánico,Periféricos,800,1400,60,10,75,6,10.0,48000,False
+TEC002,Teclado Inalámbrico,Periféricos,450,750,79,15,282,1,79.0,35550,False
+MOU001,Mouse Ergonómico,Periféricos,350,650,181,19,230,1,181.0,63350,False
+MOU002,Mouse Gamer,Periféricos,600,1100,124,5,141,2,62.0,74400,False
+AUD001,Audífonos Bluetooth,Audio,1200,2200,125,20,194,0,125.0,150000,False
+AUD002,Parlante Portátil,Audio,800,1500,133,19,154,6,22.2,106400,False
+AUD003,Micrófono USB,Audio,1500,2800,97,20,182,2,48.5,145500,False
+WEB001,Webcam HD,Cámaras,900,1700,113,25,184,0,113.0,101700,False
+WEB002,Cámara Seguridad,Cámaras,1800,3200,26,26,211,1,26.0,46800,False
+DIS001,SSD 1TB,Almacenamiento,1500,2500,114,9,235,2,57.0,171000,False
+DIS002,HDD 4TB,Almacenamiento,1200,1900,31,9,246,0,31.0,37200,False
+DIS003,USB 64GB,Almacenamiento,150,350,22,5,216,4,5.5,3300,False
+RED001,Router WiFi 6,Redes,1200,2100,194,23,266,6,32.3,232800,False
+RED002,Switch 8 puertos,Redes,600,1100,54,8,156,1,54.0,32400,False
+SOF001,Office 365 1 año,Software,900,1800,49,22,184,3,16.3,44100,False
+SOF002,Antivirus 3 equipos,Software,400,800,195,14,53,1,195.0,78000,False
+PAP001,Papel Bond 5000 hojas,Papelería,200,400,21,16,258,0,21.0,4200,False
+PAP002,Tinta Impresora,Papelería,250,500,48,20,282,0,48.0,12000,False
+MUE001,Silla Ergonómica,Muebles,3500,6500,149,12,159,0,149.0,521500,False
+MUE002,Escritorio Eléctrico,Muebles,4500,8500,117,24,280,0,117.0,526500,False
+MUE003,Lámpara LED,Muebles,300,600,80,12,156,1,80.0,24000,False

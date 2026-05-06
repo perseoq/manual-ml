@@ -1,0 +1,1331 @@
+fecha,sku,producto,categoria,sucursal,cliente,cantidad,precio_unitario,costo_unitario,ingreso,costo_total,margen,margen_pct,descuento,dia_semana,mes
+2024-01-01,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Comercial MX,8,14250.0,12000,114000.0,96000,18000.0,18.8,0.05,0,1
+2024-01-01,MON002,Monitor 24 HD,Electrónica,Sucursal Querétaro,Soluciones Inc,3,3230.0,2500,9690.0,7500,2190.0,29.2,0.05,0,1
+2024-01-01,TEC001,Teclado Mecánico,Periféricos,Sucursal Mérida,Distribuidora ABC,13,1400.0,800,18200.0,10400,7800.0,75.0,0.0,0,1
+2024-01-01,MOU001,Mouse Ergonómico,Periféricos,Sucursal Querétaro,Empresa Beta,2,650.0,350,1300.0,700,600.0,85.7,0.0,0,1
+2024-01-01,AUD002,Parlante Portátil,Audio,Sucursal Toluca,Empresa Beta,9,1500.0,800,13500.0,7200,6300.0,87.5,0.0,0,1
+2024-01-01,DIS002,HDD 4TB,Almacenamiento,Sucursal Toluca,Cliente Premium,2,1900.0,1200,3800.0,2400,1400.0,58.3,0.0,0,1
+2024-01-01,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Cliente Corp,3,332.5,150,997.5,450,547.5,121.7,0.05,0,1
+2024-01-01,MUE002,Escritorio Eléctrico,Muebles,Sucursal Monterrey,Empresa Beta,12,8500.0,4500,102000.0,54000,48000.0,88.9,0.0,0,1
+2024-01-02,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Comprador Final,3,380.0,200,1140.0,600,540.0,90.0,0.05,1,1
+2024-01-02,SOF001,Office 365 1 año,Software,Sucursal Cancún,Soluciones Inc,4,1800.0,900,7200.0,3600,3600.0,100.0,0.0,1,1
+2024-01-02,DIS002,HDD 4TB,Almacenamiento,Sucursal Puebla,Grupo Gamma,10,1900.0,1200,19000.0,12000,7000.0,58.3,0.0,1,1
+2024-01-02,LAP001,Laptop Pro 15,Electrónica,Sucursal Toluca,Soluciones Inc,9,12750.0,12000,114750.0,108000,6750.0,6.2,0.15,1,1
+2024-01-02,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Comercial MX,17,10925.0,9000,185725.0,153000,32725.0,21.4,0.05,1,1
+2024-01-02,AUD003,Micrófono USB,Audio,Sucursal Monterrey,Grupo Gamma,5,2800.0,1500,14000.0,7500,6500.0,86.7,0.0,1,1
+2024-01-03,SOF001,Office 365 1 año,Software,Sucursal Guadalajara,Mayorista JJ,5,1800.0,900,9000.0,4500,4500.0,100.0,0.0,2,1
+2024-01-03,MUE002,Escritorio Eléctrico,Muebles,Sucursal Toluca,Grupo Gamma,4,8500.0,4500,34000.0,18000,16000.0,88.9,0.0,2,1
+2024-01-03,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Empresa XYZ,16,360.0,200,5760.0,3200,2560.0,80.0,0.1,2,1
+2024-01-03,RED002,Switch 8 puertos,Redes,Sucursal Puebla,Grupo Gamma,15,1100.0,600,16500.0,9000,7500.0,83.3,0.0,2,1
+2024-01-03,AUD003,Micrófono USB,Audio,Sucursal Cancún,Distribuidora ABC,9,2520.0,1500,22680.0,13500,9180.0,68.0,0.1,2,1
+2024-01-03,AUD002,Parlante Portátil,Audio,Sucursal Cancún,Comprador Final,6,1425.0,800,8550.0,4800,3750.0,78.1,0.05,2,1
+2024-01-03,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Tijuana,Comercial MX,3,750.0,450,2250.0,1350,900.0,66.7,0.0,2,1
+2024-01-03,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Grupo Gamma,9,15000.0,12000,135000.0,108000,27000.0,25.0,0.0,2,1
+2024-01-03,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Distribuidora ABC,3,297.5,150,892.5,450,442.5,98.3,0.15,2,1
+2024-01-04,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Empresa Beta,11,3040.0,1800,33440.0,19800,13640.0,68.9,0.05,3,1
+2024-01-04,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Mérida,Distribuidora ABC,10,750.0,450,7500.0,4500,3000.0,66.7,0.0,3,1
+2024-01-04,MOU002,Mouse Gamer,Periféricos,Sucursal Tijuana,Grupo Gamma,3,1100.0,600,3300.0,1800,1500.0,83.3,0.0,3,1
+2024-01-04,AUD002,Parlante Portátil,Audio,Sucursal Toluca,Empresa Beta,6,1425.0,800,8550.0,4800,3750.0,78.1,0.05,3,1
+2024-01-04,WEB001,Webcam HD,Cámaras,Sucursal Cancún,Grupo Gamma,11,1530.0,900,16830.0,9900,6930.0,70.0,0.1,3,1
+2024-01-04,DIS002,HDD 4TB,Almacenamiento,Sucursal Mérida,Comprador Final,3,1900.0,1200,5700.0,3600,2100.0,58.3,0.0,3,1
+2024-01-04,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Mayorista JJ,10,315.0,150,3150.0,1500,1650.0,110.0,0.1,3,1
+2024-01-04,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Cliente Premium,12,800.0,400,9600.0,4800,4800.0,100.0,0.0,3,1
+2024-01-04,PAP002,Tinta Impresora,Papelería,Sucursal Querétaro,Comercial MX,6,500.0,250,3000.0,1500,1500.0,100.0,0.0,3,1
+2024-01-04,MUE001,Silla Ergonómica,Muebles,Sucursal Cancún,Cliente Corp,9,6500.0,3500,58500.0,31500,27000.0,85.7,0.0,3,1
+2024-01-04,MUE002,Escritorio Eléctrico,Muebles,Sucursal Cancún,Comercial MX,10,8500.0,4500,85000.0,45000,40000.0,88.9,0.0,3,1
+2024-01-05,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Puebla,Cliente Premium,1,400.0,200,400.0,200,200.0,100.0,0.0,4,1
+2024-01-05,SOF002,Antivirus 3 equipos,Software,Sucursal Puebla,Distribuidora ABC,5,720.0,400,3600.0,2000,1600.0,80.0,0.1,4,1
+2024-01-05,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Comprador Final,11,570.0,300,6270.0,3300,2970.0,90.0,0.05,4,1
+2024-01-05,WEB002,Cámara Seguridad,Cámaras,Matriz CDMX,Venta Mostrador,4,2720.0,1800,10880.0,7200,3680.0,51.1,0.15,4,1
+2024-01-05,SOF001,Office 365 1 año,Software,Sucursal Mérida,Comprador Final,3,1800.0,900,5400.0,2700,2700.0,100.0,0.0,4,1
+2024-01-05,MON001,Monitor 27 4K,Electrónica,Sucursal Guadalajara,Distribuidora ABC,8,6840.0,5500,54720.0,44000,10720.0,24.4,0.05,4,1
+2024-01-06,MOU002,Mouse Gamer,Periféricos,Sucursal Monterrey,Tienda 123,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,5,1
+2024-01-06,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Empresa XYZ,8,1700.0,900,13600.0,7200,6400.0,88.9,0.0,5,1
+2024-01-06,DIS002,HDD 4TB,Almacenamiento,Sucursal Guadalajara,Venta Mostrador,5,1900.0,1200,9500.0,6000,3500.0,58.3,0.0,5,1
+2024-01-06,RED002,Switch 8 puertos,Redes,Matriz CDMX,Soluciones Inc,1,1100.0,600,1100.0,600,500.0,83.3,0.0,5,1
+2024-01-06,SOF001,Office 365 1 año,Software,Sucursal Tijuana,Cliente Corp,6,1800.0,900,10800.0,5400,5400.0,100.0,0.0,5,1
+2024-01-06,PAP002,Tinta Impresora,Papelería,Sucursal Mérida,Soluciones Inc,7,500.0,250,3500.0,1750,1750.0,100.0,0.0,5,1
+2024-01-07,TEC001,Teclado Mecánico,Periféricos,Sucursal Puebla,Venta Mostrador,6,1120.0,800,6720.0,4800,1920.0,40.0,0.2,6,1
+2024-01-07,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Cliente Corp,5,380.0,200,1900.0,1000,900.0,90.0,0.05,6,1
+2024-01-07,RED001,Router WiFi 6,Redes,Sucursal Guadalajara,Venta Mostrador,3,2100.0,1200,6300.0,3600,2700.0,75.0,0.0,6,1
+2024-01-07,MON002,Monitor 24 HD,Electrónica,Sucursal Monterrey,Cliente Premium,9,3230.0,2500,29070.0,22500,6570.0,29.2,0.05,6,1
+2024-01-07,DIS002,HDD 4TB,Almacenamiento,Sucursal Monterrey,Mayorista JJ,1,1900.0,1200,1900.0,1200,700.0,58.3,0.0,6,1
+2024-01-07,DIS003,USB 64GB,Almacenamiento,Sucursal Mérida,Empresa XYZ,5,332.5,150,1662.5,750,912.5,121.7,0.05,6,1
+2024-01-08,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Cliente Corp,6,1805.0,1200,10830.0,7200,3630.0,50.4,0.05,0,1
+2024-01-08,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Empresa Beta,7,760.0,400,5320.0,2800,2520.0,90.0,0.05,0,1
+2024-01-08,RED002,Switch 8 puertos,Redes,Sucursal Toluca,Mayorista JJ,8,1045.0,600,8360.0,4800,3560.0,74.2,0.05,0,1
+2024-01-08,MUE003,Lámpara LED,Muebles,Sucursal Mérida,Empresa Beta,5,540.0,300,2700.0,1500,1200.0,80.0,0.1,0,1
+2024-01-08,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Mayorista JJ,8,3200.0,1800,25600.0,14400,11200.0,77.8,0.0,0,1
+2024-01-08,MOU001,Mouse Ergonómico,Periféricos,Sucursal Monterrey,Empresa Beta,5,650.0,350,3250.0,1750,1500.0,85.7,0.0,0,1
+2024-01-08,TEC001,Teclado Mecánico,Periféricos,Matriz CDMX,Cliente Corp,6,1330.0,800,7980.0,4800,3180.0,66.3,0.05,0,1
+2024-01-08,MON002,Monitor 24 HD,Electrónica,Sucursal Tijuana,Cliente Corp,7,3230.0,2500,22610.0,17500,5110.0,29.2,0.05,0,1
+2024-01-08,LAP002,Laptop Air 13,Electrónica,Sucursal Puebla,Empresa XYZ,5,10925.0,9000,54625.0,45000,9625.0,21.4,0.05,0,1
+2024-01-08,AUD001,Audífonos Bluetooth,Audio,Sucursal Toluca,Empresa Beta,7,2200.0,1200,15400.0,8400,7000.0,83.3,0.0,0,1
+2024-01-09,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Mayorista JJ,8,8500.0,4500,68000.0,36000,32000.0,88.9,0.0,1,1
+2024-01-09,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Distribuidora ABC,7,6175.0,3500,43225.0,24500,18725.0,76.4,0.05,1,1
+2024-01-09,SOF002,Antivirus 3 equipos,Software,Sucursal Monterrey,Grupo Gamma,8,760.0,400,6080.0,3200,2880.0,90.0,0.05,1,1
+2024-01-09,RED001,Router WiFi 6,Redes,Sucursal Puebla,Cliente Corp,5,1890.0,1200,9450.0,6000,3450.0,57.5,0.1,1,1
+2024-01-09,RED002,Switch 8 puertos,Redes,Sucursal Tijuana,Distribuidora ABC,2,1100.0,600,2200.0,1200,1000.0,83.3,0.0,1,1
+2024-01-09,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Monterrey,Comercial MX,12,675.0,450,8100.0,5400,2700.0,50.0,0.1,1,1
+2024-01-09,TEC001,Teclado Mecánico,Periféricos,Sucursal Mérida,Cliente Corp,5,1400.0,800,7000.0,4000,3000.0,75.0,0.0,1,1
+2024-01-09,MON001,Monitor 27 4K,Electrónica,Sucursal Tijuana,Soluciones Inc,5,6840.0,5500,34200.0,27500,6700.0,24.4,0.05,1,1
+2024-01-09,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Comercial MX,6,2090.0,1200,12540.0,7200,5340.0,74.2,0.05,1,1
+2024-01-10,LAP001,Laptop Pro 15,Electrónica,Sucursal Querétaro,Grupo Gamma,7,15000.0,12000,105000.0,84000,21000.0,25.0,0.0,2,1
+2024-01-10,MON001,Monitor 27 4K,Electrónica,Matriz CDMX,Grupo Gamma,7,6480.0,5500,45360.0,38500,6860.0,17.8,0.1,2,1
+2024-01-10,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Comercial MX,8,360.0,200,2880.0,1600,1280.0,80.0,0.1,2,1
+2024-01-10,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Soluciones Inc,10,500.0,250,5000.0,2500,2500.0,100.0,0.0,2,1
+2024-01-11,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Empresa XYZ,6,1805.0,1200,10830.0,7200,3630.0,50.4,0.05,3,1
+2024-01-11,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Distribuidora ABC,9,8075.0,4500,72675.0,40500,32175.0,79.4,0.05,3,1
+2024-01-11,SOF001,Office 365 1 año,Software,Sucursal Puebla,Comercial MX,5,1710.0,900,8550.0,4500,4050.0,90.0,0.05,3,1
+2024-01-11,WEB002,Cámara Seguridad,Cámaras,Sucursal Tijuana,Comprador Final,8,3200.0,1800,25600.0,14400,11200.0,77.8,0.0,3,1
+2024-01-11,DIS003,USB 64GB,Almacenamiento,Sucursal Guadalajara,Cliente Corp,9,280.0,150,2520.0,1350,1170.0,86.7,0.2,3,1
+2024-01-11,TEC001,Teclado Mecánico,Periféricos,Sucursal Guadalajara,Tienda 123,12,1330.0,800,15960.0,9600,6360.0,66.3,0.05,3,1
+2024-01-11,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Soluciones Inc,4,1530.0,900,6120.0,3600,2520.0,70.0,0.1,3,1
+2024-01-11,MON002,Monitor 24 HD,Electrónica,Sucursal Puebla,Venta Mostrador,6,3230.0,2500,19380.0,15000,4380.0,29.2,0.05,3,1
+2024-01-11,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Empresa XYZ,10,14250.0,12000,142500.0,120000,22500.0,18.8,0.05,3,1
+2024-01-12,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Distribuidora ABC,10,11500.0,9000,115000.0,90000,25000.0,27.8,0.0,4,1
+2024-01-12,AUD003,Micrófono USB,Audio,Sucursal Querétaro,Empresa Beta,4,2800.0,1500,11200.0,6000,5200.0,86.7,0.0,4,1
+2024-01-12,WEB001,Webcam HD,Cámaras,Sucursal Tijuana,Comercial MX,13,1700.0,900,22100.0,11700,10400.0,88.9,0.0,4,1
+2024-01-12,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Distribuidora ABC,3,1900.0,1200,5700.0,3600,2100.0,58.3,0.0,4,1
+2024-01-12,RED002,Switch 8 puertos,Redes,Sucursal Guadalajara,Cliente Corp,9,1100.0,600,9900.0,5400,4500.0,83.3,0.0,4,1
+2024-01-12,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Mérida,Empresa XYZ,10,400.0,200,4000.0,2000,2000.0,100.0,0.0,4,1
+2024-01-12,PAP002,Tinta Impresora,Papelería,Sucursal Guadalajara,Empresa Beta,5,500.0,250,2500.0,1250,1250.0,100.0,0.0,4,1
+2024-01-13,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Cliente Corp,2,6500.0,3500,13000.0,7000,6000.0,85.7,0.0,5,1
+2024-01-13,RED002,Switch 8 puertos,Redes,Sucursal Puebla,Mayorista JJ,12,1045.0,600,12540.0,7200,5340.0,74.2,0.05,5,1
+2024-01-13,RED001,Router WiFi 6,Redes,Sucursal Guadalajara,Venta Mostrador,7,1995.0,1200,13965.0,8400,5565.0,66.3,0.05,5,1
+2024-01-13,DIS001,SSD 1TB,Almacenamiento,Sucursal Cancún,Tienda 123,11,2375.0,1500,26125.0,16500,9625.0,58.3,0.05,5,1
+2024-01-13,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Comercial MX,6,800.0,400,4800.0,2400,2400.0,100.0,0.0,5,1
+2024-01-13,MOU001,Mouse Ergonómico,Periféricos,Sucursal Tijuana,Comprador Final,5,617.5,350,3087.5,1750,1337.5,76.4,0.05,5,1
+2024-01-13,MON001,Monitor 27 4K,Electrónica,Sucursal Guadalajara,Venta Mostrador,10,6840.0,5500,68400.0,55000,13400.0,24.4,0.05,5,1
+2024-01-13,LAP001,Laptop Pro 15,Electrónica,Sucursal Querétaro,Cliente Premium,5,13500.0,12000,67500.0,60000,7500.0,12.5,0.1,5,1
+2024-01-13,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Mayorista JJ,3,3200.0,1800,9600.0,5400,4200.0,77.8,0.0,5,1
+2024-01-14,MUE003,Lámpara LED,Muebles,Sucursal Monterrey,Cliente Corp,13,510.0,300,6630.0,3900,2730.0,70.0,0.15,6,1
+2024-01-14,PAP002,Tinta Impresora,Papelería,Sucursal Monterrey,Grupo Gamma,6,500.0,250,3000.0,1500,1500.0,100.0,0.0,6,1
+2024-01-14,AUD002,Parlante Portátil,Audio,Sucursal Querétaro,Cliente Premium,9,1200.0,800,10800.0,7200,3600.0,50.0,0.2,6,1
+2024-01-14,MOU001,Mouse Ergonómico,Periféricos,Sucursal Querétaro,Grupo Gamma,6,617.5,350,3705.0,2100,1605.0,76.4,0.05,6,1
+2024-01-14,RED001,Router WiFi 6,Redes,Sucursal Tijuana,Empresa XYZ,5,2100.0,1200,10500.0,6000,4500.0,75.0,0.0,6,1
+2024-01-14,MON002,Monitor 24 HD,Electrónica,Sucursal Tijuana,Cliente Premium,9,3060.0,2500,27540.0,22500,5040.0,22.4,0.1,6,1
+2024-01-14,MON001,Monitor 27 4K,Electrónica,Sucursal Puebla,Empresa Beta,4,6480.0,5500,25920.0,22000,3920.0,17.8,0.1,6,1
+2024-01-14,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Cliente Premium,2,14250.0,12000,28500.0,24000,4500.0,18.8,0.05,6,1
+2024-01-14,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Guadalajara,Tienda 123,7,637.5,450,4462.5,3150,1312.5,41.7,0.15,6,1
+2024-01-15,LAP001,Laptop Pro 15,Electrónica,Sucursal Toluca,Cliente Corp,5,14250.0,12000,71250.0,60000,11250.0,18.8,0.05,0,1
+2024-01-15,LAP002,Laptop Air 13,Electrónica,Sucursal Mérida,Empresa XYZ,16,11500.0,9000,184000.0,144000,40000.0,27.8,0.0,0,1
+2024-01-15,MON001,Monitor 27 4K,Electrónica,Sucursal Toluca,Venta Mostrador,20,7200.0,5500,144000.0,110000,34000.0,30.9,0.0,0,1
+2024-01-15,DIS003,USB 64GB,Almacenamiento,Sucursal Guadalajara,Distribuidora ABC,7,350.0,150,2450.0,1050,1400.0,133.3,0.0,0,1
+2024-01-15,SOF001,Office 365 1 año,Software,Sucursal Tijuana,Cliente Corp,5,1620.0,900,8100.0,4500,3600.0,80.0,0.1,0,1
+2024-01-16,RED001,Router WiFi 6,Redes,Sucursal Puebla,Venta Mostrador,14,2100.0,1200,29400.0,16800,12600.0,75.0,0.0,1,1
+2024-01-16,MUE003,Lámpara LED,Muebles,Sucursal Cancún,Comprador Final,10,600.0,300,6000.0,3000,3000.0,100.0,0.0,1,1
+2024-01-16,SOF001,Office 365 1 año,Software,Matriz CDMX,Soluciones Inc,3,1530.0,900,4590.0,2700,1890.0,70.0,0.15,1,1
+2024-01-16,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Cliente Premium,14,1805.0,1200,25270.0,16800,8470.0,50.4,0.05,1,1
+2024-01-16,MUE002,Escritorio Eléctrico,Muebles,Sucursal Cancún,Grupo Gamma,17,8075.0,4500,137275.0,76500,60775.0,79.4,0.05,1,1
+2024-01-16,WEB002,Cámara Seguridad,Cámaras,Sucursal Guadalajara,Distribuidora ABC,13,3040.0,1800,39520.0,23400,16120.0,68.9,0.05,1,1
+2024-01-16,MOU002,Mouse Gamer,Periféricos,Sucursal Monterrey,Comprador Final,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,1,1
+2024-01-16,DIS001,SSD 1TB,Almacenamiento,Sucursal Puebla,Venta Mostrador,12,2375.0,1500,28500.0,18000,10500.0,58.3,0.05,1,1
+2024-01-16,AUD001,Audífonos Bluetooth,Audio,Sucursal Monterrey,Grupo Gamma,3,2200.0,1200,6600.0,3600,3000.0,83.3,0.0,1,1
+2024-01-17,MUE003,Lámpara LED,Muebles,Matriz CDMX,Grupo Gamma,4,600.0,300,2400.0,1200,1200.0,100.0,0.0,2,1
+2024-01-17,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Cliente Premium,7,475.0,250,3325.0,1750,1575.0,90.0,0.05,2,1
+2024-01-17,WEB001,Webcam HD,Cámaras,Sucursal Querétaro,Cliente Corp,4,1615.0,900,6460.0,3600,2860.0,79.4,0.05,2,1
+2024-01-17,AUD003,Micrófono USB,Audio,Matriz CDMX,Tienda 123,13,2660.0,1500,34580.0,19500,15080.0,77.3,0.05,2,1
+2024-01-17,RED001,Router WiFi 6,Redes,Sucursal Puebla,Venta Mostrador,8,1890.0,1200,15120.0,9600,5520.0,57.5,0.1,2,1
+2024-01-17,MOU002,Mouse Gamer,Periféricos,Matriz CDMX,Venta Mostrador,5,1100.0,600,5500.0,3000,2500.0,83.3,0.0,2,1
+2024-01-17,TEC001,Teclado Mecánico,Periféricos,Sucursal Guadalajara,Comprador Final,10,1330.0,800,13300.0,8000,5300.0,66.3,0.05,2,1
+2024-01-17,LAP002,Laptop Air 13,Electrónica,Sucursal Puebla,Comercial MX,4,10350.0,9000,41400.0,36000,5400.0,15.0,0.1,2,1
+2024-01-17,AUD002,Parlante Portátil,Audio,Sucursal Tijuana,Cliente Corp,9,1425.0,800,12825.0,7200,5625.0,78.1,0.05,2,1
+2024-01-18,MOU001,Mouse Ergonómico,Periféricos,Sucursal Puebla,Cliente Premium,13,650.0,350,8450.0,4550,3900.0,85.7,0.0,3,1
+2024-01-18,AUD002,Parlante Portátil,Audio,Sucursal Guadalajara,Comercial MX,15,1500.0,800,22500.0,12000,10500.0,87.5,0.0,3,1
+2024-01-18,DIS002,HDD 4TB,Almacenamiento,Sucursal Cancún,Comercial MX,11,1805.0,1200,19855.0,13200,6655.0,50.4,0.05,3,1
+2024-01-18,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Cliente Corp,15,350.0,150,5250.0,2250,3000.0,133.3,0.0,3,1
+2024-01-18,PAP002,Tinta Impresora,Papelería,Sucursal Querétaro,Distribuidora ABC,22,500.0,250,11000.0,5500,5500.0,100.0,0.0,3,1
+2024-01-18,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Distribuidora ABC,14,8500.0,4500,119000.0,63000,56000.0,88.9,0.0,3,1
+2024-01-19,RED002,Switch 8 puertos,Redes,Sucursal Tijuana,Distribuidora ABC,6,1045.0,600,6270.0,3600,2670.0,74.2,0.05,4,1
+2024-01-19,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Cliente Corp,6,360.0,200,2160.0,1200,960.0,80.0,0.1,4,1
+2024-01-19,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Mayorista JJ,8,6500.0,3500,52000.0,28000,24000.0,85.7,0.0,4,1
+2024-01-19,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Cliente Premium,9,2090.0,1200,18810.0,10800,8010.0,74.2,0.05,4,1
+2024-01-19,TEC001,Teclado Mecánico,Periféricos,Sucursal Mérida,Cliente Corp,6,1330.0,800,7980.0,4800,3180.0,66.3,0.05,4,1
+2024-01-19,LAP002,Laptop Air 13,Electrónica,Sucursal Monterrey,Comprador Final,3,11500.0,9000,34500.0,27000,7500.0,27.8,0.0,4,1
+2024-01-19,DIS003,USB 64GB,Almacenamiento,Sucursal Toluca,Tienda 123,9,350.0,150,3150.0,1350,1800.0,133.3,0.0,4,1
+2024-01-20,PAP002,Tinta Impresora,Papelería,Sucursal Puebla,Cliente Corp,5,425.0,250,2125.0,1250,875.0,70.0,0.15,5,1
+2024-01-20,DIS003,USB 64GB,Almacenamiento,Sucursal Puebla,Grupo Gamma,5,332.5,150,1662.5,750,912.5,121.7,0.05,5,1
+2024-01-20,DIS002,HDD 4TB,Almacenamiento,Sucursal Guadalajara,Cliente Corp,9,1900.0,1200,17100.0,10800,6300.0,58.3,0.0,5,1
+2024-01-20,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Cliente Premium,4,8075.0,4500,32300.0,18000,14300.0,79.4,0.05,5,1
+2024-01-20,MOU002,Mouse Gamer,Periféricos,Sucursal Mérida,Venta Mostrador,2,1100.0,600,2200.0,1200,1000.0,83.3,0.0,5,1
+2024-01-20,TEC002,Teclado Inalámbrico,Periféricos,Matriz CDMX,Venta Mostrador,3,712.5,450,2137.5,1350,787.5,58.3,0.05,5,1
+2024-01-20,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Comprador Final,2,14250.0,12000,28500.0,24000,4500.0,18.8,0.05,5,1
+2024-01-20,AUD003,Micrófono USB,Audio,Matriz CDMX,Cliente Corp,6,2800.0,1500,16800.0,9000,7800.0,86.7,0.0,5,1
+2024-01-21,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Soluciones Inc,3,6840.0,5500,20520.0,16500,4020.0,24.4,0.05,6,1
+2024-01-21,AUD001,Audífonos Bluetooth,Audio,Sucursal Querétaro,Mayorista JJ,4,2090.0,1200,8360.0,4800,3560.0,74.2,0.05,6,1
+2024-01-21,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Empresa XYZ,10,3200.0,1800,32000.0,18000,14000.0,77.8,0.0,6,1
+2024-01-21,DIS002,HDD 4TB,Almacenamiento,Sucursal Mérida,Empresa XYZ,9,1900.0,1200,17100.0,10800,6300.0,58.3,0.0,6,1
+2024-01-21,RED001,Router WiFi 6,Redes,Sucursal Puebla,Empresa XYZ,3,1995.0,1200,5985.0,3600,2385.0,66.3,0.05,6,1
+2024-01-21,SOF001,Office 365 1 año,Software,Sucursal Monterrey,Cliente Premium,2,1710.0,900,3420.0,1800,1620.0,90.0,0.05,6,1
+2024-01-21,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Distribuidora ABC,15,800.0,400,12000.0,6000,6000.0,100.0,0.0,6,1
+2024-01-21,MUE002,Escritorio Eléctrico,Muebles,Sucursal Cancún,Empresa Beta,4,7650.0,4500,30600.0,18000,12600.0,70.0,0.1,6,1
+2024-01-22,DIS001,SSD 1TB,Almacenamiento,Sucursal Tijuana,Empresa XYZ,5,2375.0,1500,11875.0,7500,4375.0,58.3,0.05,0,1
+2024-01-22,WEB001,Webcam HD,Cámaras,Sucursal Cancún,Venta Mostrador,6,1615.0,900,9690.0,5400,4290.0,79.4,0.05,0,1
+2024-01-22,DIS003,USB 64GB,Almacenamiento,Sucursal Toluca,Grupo Gamma,4,332.5,150,1330.0,600,730.0,121.7,0.05,0,1
+2024-01-22,MON002,Monitor 24 HD,Electrónica,Sucursal Toluca,Comercial MX,9,3230.0,2500,29070.0,22500,6570.0,29.2,0.05,0,1
+2024-01-22,AUD002,Parlante Portátil,Audio,Sucursal Guadalajara,Cliente Premium,6,1425.0,800,8550.0,4800,3750.0,78.1,0.05,0,1
+2024-01-22,MON001,Monitor 27 4K,Electrónica,Sucursal Querétaro,Mayorista JJ,15,7200.0,5500,108000.0,82500,25500.0,30.9,0.0,0,1
+2024-01-23,LAP001,Laptop Pro 15,Electrónica,Sucursal Guadalajara,Comercial MX,6,14250.0,12000,85500.0,72000,13500.0,18.8,0.05,1,1
+2024-01-23,LAP002,Laptop Air 13,Electrónica,Sucursal Querétaro,Soluciones Inc,3,10350.0,9000,31050.0,27000,4050.0,15.0,0.1,1,1
+2024-01-23,TEC002,Teclado Inalámbrico,Periféricos,Matriz CDMX,Distribuidora ABC,6,712.5,450,4275.0,2700,1575.0,58.3,0.05,1,1
+2024-01-23,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Cliente Premium,9,1615.0,900,14535.0,8100,6435.0,79.4,0.05,1,1
+2024-01-23,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Comprador Final,7,3200.0,1800,22400.0,12600,9800.0,77.8,0.0,1,1
+2024-01-23,DIS001,SSD 1TB,Almacenamiento,Sucursal Tijuana,Tienda 123,2,2375.0,1500,4750.0,3000,1750.0,58.3,0.05,1,1
+2024-01-23,MUE001,Silla Ergonómica,Muebles,Sucursal Mérida,Distribuidora ABC,4,6500.0,3500,26000.0,14000,12000.0,85.7,0.0,1,1
+2024-01-23,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Comprador Final,5,8075.0,4500,40375.0,22500,17875.0,79.4,0.05,1,1
+2024-01-23,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Tienda 123,5,570.0,300,2850.0,1500,1350.0,90.0,0.05,1,1
+2024-01-24,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Comprador Final,5,6500.0,3500,32500.0,17500,15000.0,85.7,0.0,2,1
+2024-01-24,MUE003,Lámpara LED,Muebles,Sucursal Monterrey,Mayorista JJ,1,600.0,300,600.0,300,300.0,100.0,0.0,2,1
+2024-01-24,SOF002,Antivirus 3 equipos,Software,Matriz CDMX,Venta Mostrador,4,720.0,400,2880.0,1600,1280.0,80.0,0.1,2,1
+2024-01-24,RED002,Switch 8 puertos,Redes,Sucursal Cancún,Comprador Final,6,1045.0,600,6270.0,3600,2670.0,74.2,0.05,2,1
+2024-01-24,MON002,Monitor 24 HD,Electrónica,Sucursal Guadalajara,Grupo Gamma,19,3230.0,2500,61370.0,47500,13870.0,29.2,0.05,2,1
+2024-01-24,DIS002,HDD 4TB,Almacenamiento,Sucursal Guadalajara,Distribuidora ABC,14,1615.0,1200,22610.0,16800,5810.0,34.6,0.15,2,1
+2024-01-24,MOU002,Mouse Gamer,Periféricos,Sucursal Toluca,Venta Mostrador,10,935.0,600,9350.0,6000,3350.0,55.8,0.15,2,1
+2024-01-24,DIS003,USB 64GB,Almacenamiento,Sucursal Cancún,Venta Mostrador,4,350.0,150,1400.0,600,800.0,133.3,0.0,2,1
+2024-01-25,MUE003,Lámpara LED,Muebles,Sucursal Querétaro,Comprador Final,4,600.0,300,2400.0,1200,1200.0,100.0,0.0,3,1
+2024-01-25,PAP002,Tinta Impresora,Papelería,Sucursal Puebla,Cliente Corp,8,450.0,250,3600.0,2000,1600.0,80.0,0.1,3,1
+2024-01-25,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Mayorista JJ,4,380.0,200,1520.0,800,720.0,90.0,0.05,3,1
+2024-01-25,TEC001,Teclado Mecánico,Periféricos,Sucursal Guadalajara,Mayorista JJ,4,1400.0,800,5600.0,3200,2400.0,75.0,0.0,3,1
+2024-01-25,WEB001,Webcam HD,Cámaras,Matriz CDMX,Mayorista JJ,9,1700.0,900,15300.0,8100,7200.0,88.9,0.0,3,1
+2024-01-25,MOU002,Mouse Gamer,Periféricos,Sucursal Monterrey,Comercial MX,13,1100.0,600,14300.0,7800,6500.0,83.3,0.0,3,1
+2024-01-25,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Venta Mostrador,10,332.5,150,3325.0,1500,1825.0,121.7,0.05,3,1
+2024-01-26,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Comprador Final,7,500.0,250,3500.0,1750,1750.0,100.0,0.0,4,1
+2024-01-26,LAP002,Laptop Air 13,Electrónica,Sucursal Puebla,Distribuidora ABC,10,11500.0,9000,115000.0,90000,25000.0,27.8,0.0,4,1
+2024-01-26,MOU002,Mouse Gamer,Periféricos,Sucursal Toluca,Cliente Corp,2,880.0,600,1760.0,1200,560.0,46.7,0.2,4,1
+2024-01-26,AUD002,Parlante Portátil,Audio,Sucursal Querétaro,Comercial MX,10,1350.0,800,13500.0,8000,5500.0,68.8,0.1,4,1
+2024-01-26,DIS002,HDD 4TB,Almacenamiento,Sucursal Guadalajara,Comercial MX,6,1900.0,1200,11400.0,7200,4200.0,58.3,0.0,4,1
+2024-01-26,RED001,Router WiFi 6,Redes,Sucursal Querétaro,Distribuidora ABC,5,2100.0,1200,10500.0,6000,4500.0,75.0,0.0,4,1
+2024-01-26,SOF001,Office 365 1 año,Software,Sucursal Cancún,Cliente Premium,11,1800.0,900,19800.0,9900,9900.0,100.0,0.0,4,1
+2024-01-26,MUE001,Silla Ergonómica,Muebles,Sucursal Mérida,Empresa Beta,8,6500.0,3500,52000.0,28000,24000.0,85.7,0.0,4,1
+2024-01-27,MUE001,Silla Ergonómica,Muebles,Sucursal Puebla,Comercial MX,3,6500.0,3500,19500.0,10500,9000.0,85.7,0.0,5,1
+2024-01-27,RED002,Switch 8 puertos,Redes,Sucursal Puebla,Empresa XYZ,3,1100.0,600,3300.0,1800,1500.0,83.3,0.0,5,1
+2024-01-27,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Cliente Premium,9,8500.0,4500,76500.0,40500,36000.0,88.9,0.0,5,1
+2024-01-27,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Empresa XYZ,3,350.0,150,1050.0,450,600.0,133.3,0.0,5,1
+2024-01-27,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Grupo Gamma,4,640.0,400,2560.0,1600,960.0,60.0,0.2,5,1
+2024-01-27,MON001,Monitor 27 4K,Electrónica,Sucursal Toluca,Empresa Beta,4,7200.0,5500,28800.0,22000,6800.0,30.9,0.0,5,1
+2024-01-27,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Tienda 123,3,10925.0,9000,32775.0,27000,5775.0,21.4,0.05,5,1
+2024-01-27,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Venta Mostrador,4,13500.0,12000,54000.0,48000,6000.0,12.5,0.1,5,1
+2024-01-27,AUD002,Parlante Portátil,Audio,Sucursal Cancún,Comprador Final,10,1350.0,800,13500.0,8000,5500.0,68.8,0.1,5,1
+2024-01-28,LAP001,Laptop Pro 15,Electrónica,Sucursal Tijuana,Empresa Beta,10,15000.0,12000,150000.0,120000,30000.0,25.0,0.0,6,1
+2024-01-28,AUD001,Audífonos Bluetooth,Audio,Sucursal Guadalajara,Tienda 123,5,2090.0,1200,10450.0,6000,4450.0,74.2,0.05,6,1
+2024-01-28,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Empresa XYZ,11,1500.0,800,16500.0,8800,7700.0,87.5,0.0,6,1
+2024-01-28,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Mayorista JJ,5,3200.0,1800,16000.0,9000,7000.0,77.8,0.0,6,1
+2024-01-28,RED002,Switch 8 puertos,Redes,Sucursal Puebla,Empresa Beta,8,990.0,600,7920.0,4800,3120.0,65.0,0.1,6,1
+2024-01-28,MUE003,Lámpara LED,Muebles,Matriz CDMX,Tienda 123,12,570.0,300,6840.0,3600,3240.0,90.0,0.05,6,1
+2024-01-29,MUE002,Escritorio Eléctrico,Muebles,Sucursal Toluca,Comprador Final,6,6800.0,4500,40800.0,27000,13800.0,51.1,0.2,0,1
+2024-01-29,MUE001,Silla Ergonómica,Muebles,Matriz CDMX,Comercial MX,23,6500.0,3500,149500.0,80500,69000.0,85.7,0.0,0,1
+2024-01-29,RED001,Router WiFi 6,Redes,Sucursal Puebla,Cliente Premium,13,1890.0,1200,24570.0,15600,8970.0,57.5,0.1,0,1
+2024-01-29,DIS003,USB 64GB,Almacenamiento,Matriz CDMX,Tienda 123,11,315.0,150,3465.0,1650,1815.0,110.0,0.1,0,1
+2024-01-29,DIS001,SSD 1TB,Almacenamiento,Sucursal Puebla,Distribuidora ABC,4,2500.0,1500,10000.0,6000,4000.0,66.7,0.0,0,1
+2024-01-29,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Distribuidora ABC,13,6840.0,5500,88920.0,71500,17420.0,24.4,0.05,0,1
+2024-01-29,AUD003,Micrófono USB,Audio,Matriz CDMX,Grupo Gamma,7,2660.0,1500,18620.0,10500,8120.0,77.3,0.05,0,1
+2024-01-29,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Soluciones Inc,6,1870.0,1200,11220.0,7200,4020.0,55.8,0.15,0,1
+2024-01-29,LAP002,Laptop Air 13,Electrónica,Sucursal Cancún,Tienda 123,16,10925.0,9000,174800.0,144000,30800.0,21.4,0.05,0,1
+2024-01-29,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Distribuidora ABC,7,3200.0,1800,22400.0,12600,9800.0,77.8,0.0,0,1
+2024-01-30,MUE002,Escritorio Eléctrico,Muebles,Sucursal Toluca,Tienda 123,7,7225.0,4500,50575.0,31500,19075.0,60.6,0.15,1,1
+2024-01-30,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Venta Mostrador,15,400.0,200,6000.0,3000,3000.0,100.0,0.0,1,1
+2024-01-30,RED001,Router WiFi 6,Redes,Sucursal Mérida,Comercial MX,2,2100.0,1200,4200.0,2400,1800.0,75.0,0.0,1,1
+2024-01-30,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Toluca,Cliente Premium,12,750.0,450,9000.0,5400,3600.0,66.7,0.0,1,1
+2024-01-30,TEC001,Teclado Mecánico,Periféricos,Sucursal Tijuana,Comercial MX,18,1260.0,800,22680.0,14400,8280.0,57.5,0.1,1,1
+2024-01-30,DIS001,SSD 1TB,Almacenamiento,Sucursal Puebla,Empresa XYZ,17,2500.0,1500,42500.0,25500,17000.0,66.7,0.0,1,1
+2024-01-31,MUE002,Escritorio Eléctrico,Muebles,Matriz CDMX,Comprador Final,9,8075.0,4500,72675.0,40500,32175.0,79.4,0.05,2,1
+2024-01-31,SOF001,Office 365 1 año,Software,Sucursal Mérida,Venta Mostrador,9,1800.0,900,16200.0,8100,8100.0,100.0,0.0,2,1
+2024-01-31,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Tienda 123,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,2,1
+2024-01-31,DIS003,USB 64GB,Almacenamiento,Sucursal Cancún,Venta Mostrador,4,350.0,150,1400.0,600,800.0,133.3,0.0,2,1
+2024-01-31,PAP002,Tinta Impresora,Papelería,Sucursal Mérida,Soluciones Inc,5,500.0,250,2500.0,1250,1250.0,100.0,0.0,2,1
+2024-01-31,AUD001,Audífonos Bluetooth,Audio,Sucursal Guadalajara,Venta Mostrador,14,2090.0,1200,29260.0,16800,12460.0,74.2,0.05,2,1
+2024-01-31,MOU002,Mouse Gamer,Periféricos,Sucursal Puebla,Comercial MX,5,1100.0,600,5500.0,3000,2500.0,83.3,0.0,2,1
+2024-01-31,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Distribuidora ABC,12,1400.0,800,16800.0,9600,7200.0,75.0,0.0,2,1
+2024-01-31,AUD003,Micrófono USB,Audio,Sucursal Guadalajara,Cliente Corp,9,2800.0,1500,25200.0,13500,11700.0,86.7,0.0,2,1
+2024-02-01,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Cliente Premium,15,15000.0,12000,225000.0,180000,45000.0,25.0,0.0,3,2
+2024-02-01,MON002,Monitor 24 HD,Electrónica,Sucursal Querétaro,Empresa XYZ,7,3400.0,2500,23800.0,17500,6300.0,36.0,0.0,3,2
+2024-02-01,TEC001,Teclado Mecánico,Periféricos,Sucursal Querétaro,Comercial MX,3,1400.0,800,4200.0,2400,1800.0,75.0,0.0,3,2
+2024-02-01,MOU002,Mouse Gamer,Periféricos,Sucursal Puebla,Comercial MX,6,1100.0,600,6600.0,3600,3000.0,83.3,0.0,3,2
+2024-02-01,DIS001,SSD 1TB,Almacenamiento,Sucursal Tijuana,Empresa Beta,5,2500.0,1500,12500.0,7500,5000.0,66.7,0.0,3,2
+2024-02-01,PAP002,Tinta Impresora,Papelería,Sucursal Guadalajara,Distribuidora ABC,12,475.0,250,5700.0,3000,2700.0,90.0,0.05,3,2
+2024-02-02,SOF001,Office 365 1 año,Software,Sucursal Toluca,Comprador Final,13,1710.0,900,22230.0,11700,10530.0,90.0,0.05,4,2
+2024-02-02,MUE002,Escritorio Eléctrico,Muebles,Sucursal Mérida,Mayorista JJ,8,7225.0,4500,57800.0,36000,21800.0,60.6,0.15,4,2
+2024-02-02,RED001,Router WiFi 6,Redes,Sucursal Monterrey,Distribuidora ABC,11,1785.0,1200,19635.0,13200,6435.0,48.8,0.15,4,2
+2024-02-02,MON002,Monitor 24 HD,Electrónica,Matriz CDMX,Grupo Gamma,8,3060.0,2500,24480.0,20000,4480.0,22.4,0.1,4,2
+2024-02-02,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Comprador Final,7,10925.0,9000,76475.0,63000,13475.0,21.4,0.05,4,2
+2024-02-02,WEB001,Webcam HD,Cámaras,Sucursal Cancún,Mayorista JJ,8,1445.0,900,11560.0,7200,4360.0,60.6,0.15,4,2
+2024-02-03,MUE001,Silla Ergonómica,Muebles,Sucursal Mérida,Distribuidora ABC,1,6500.0,3500,6500.0,3500,3000.0,85.7,0.0,5,2
+2024-02-03,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Empresa XYZ,1,400.0,200,400.0,200,200.0,100.0,0.0,5,2
+2024-02-03,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Distribuidora ABC,3,800.0,400,2400.0,1200,1200.0,100.0,0.0,5,2
+2024-02-03,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Tienda 123,2,475.0,250,950.0,500,450.0,90.0,0.05,5,2
+2024-02-03,WEB001,Webcam HD,Cámaras,Matriz CDMX,Cliente Premium,4,1700.0,900,6800.0,3600,3200.0,88.9,0.0,5,2
+2024-02-03,TEC001,Teclado Mecánico,Periféricos,Sucursal Querétaro,Empresa Beta,2,1260.0,800,2520.0,1600,920.0,57.5,0.1,5,2
+2024-02-03,DIS003,USB 64GB,Almacenamiento,Sucursal Toluca,Mayorista JJ,7,332.5,150,2327.5,1050,1277.5,121.7,0.05,5,2
+2024-02-04,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Grupo Gamma,9,6480.0,5500,58320.0,49500,8820.0,17.8,0.1,6,2
+2024-02-04,AUD001,Audífonos Bluetooth,Audio,Matriz CDMX,Tienda 123,4,2090.0,1200,8360.0,4800,3560.0,74.2,0.05,6,2
+2024-02-04,WEB002,Cámara Seguridad,Cámaras,Sucursal Tijuana,Distribuidora ABC,5,2880.0,1800,14400.0,9000,5400.0,60.0,0.1,6,2
+2024-02-04,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Distribuidora ABC,6,380.0,200,2280.0,1200,1080.0,90.0,0.05,6,2
+2024-02-05,RED001,Router WiFi 6,Redes,Sucursal Cancún,Empresa Beta,8,2100.0,1200,16800.0,9600,7200.0,75.0,0.0,0,2
+2024-02-05,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Cliente Corp,15,6175.0,3500,92625.0,52500,40125.0,76.4,0.05,0,2
+2024-02-05,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Soluciones Inc,12,500.0,250,6000.0,3000,3000.0,100.0,0.0,0,2
+2024-02-05,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Comprador Final,6,3200.0,1800,19200.0,10800,8400.0,77.8,0.0,0,2
+2024-02-05,WEB001,Webcam HD,Cámaras,Sucursal Tijuana,Mayorista JJ,5,1700.0,900,8500.0,4500,4000.0,88.9,0.0,0,2
+2024-02-05,MOU001,Mouse Ergonómico,Periféricos,Sucursal Mérida,Comercial MX,8,617.5,350,4940.0,2800,2140.0,76.4,0.05,0,2
+2024-02-05,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Puebla,Empresa XYZ,9,750.0,450,6750.0,4050,2700.0,66.7,0.0,0,2
+2024-02-05,MON002,Monitor 24 HD,Electrónica,Sucursal Tijuana,Distribuidora ABC,3,3400.0,2500,10200.0,7500,2700.0,36.0,0.0,0,2
+2024-02-05,LAP001,Laptop Pro 15,Electrónica,Sucursal Puebla,Venta Mostrador,10,15000.0,12000,150000.0,120000,30000.0,25.0,0.0,0,2
+2024-02-05,AUD002,Parlante Portátil,Audio,Sucursal Monterrey,Cliente Premium,5,1350.0,800,6750.0,4000,2750.0,68.8,0.1,0,2
+2024-02-06,MUE003,Lámpara LED,Muebles,Sucursal Puebla,Venta Mostrador,4,540.0,300,2160.0,1200,960.0,80.0,0.1,1,2
+2024-02-06,MUE001,Silla Ergonómica,Muebles,Matriz CDMX,Soluciones Inc,15,6500.0,3500,97500.0,52500,45000.0,85.7,0.0,1,2
+2024-02-06,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Empresa XYZ,3,500.0,250,1500.0,750,750.0,100.0,0.0,1,2
+2024-02-06,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Comercial MX,12,1190.0,800,14280.0,9600,4680.0,48.8,0.15,1,2
+2024-02-06,LAP002,Laptop Air 13,Electrónica,Sucursal Mérida,Empresa XYZ,5,11500.0,9000,57500.0,45000,12500.0,27.8,0.0,1,2
+2024-02-06,SOF001,Office 365 1 año,Software,Matriz CDMX,Empresa Beta,3,1710.0,900,5130.0,2700,2430.0,90.0,0.05,1,2
+2024-02-07,PAP002,Tinta Impresora,Papelería,Sucursal Mérida,Tienda 123,8,450.0,250,3600.0,2000,1600.0,80.0,0.1,2,2
+2024-02-07,AUD002,Parlante Portátil,Audio,Sucursal Querétaro,Venta Mostrador,3,1500.0,800,4500.0,2400,2100.0,87.5,0.0,2,2
+2024-02-07,DIS001,SSD 1TB,Almacenamiento,Sucursal Mérida,Comprador Final,6,2375.0,1500,14250.0,9000,5250.0,58.3,0.05,2,2
+2024-02-07,DIS002,HDD 4TB,Almacenamiento,Sucursal Puebla,Cliente Corp,8,1900.0,1200,15200.0,9600,5600.0,58.3,0.0,2,2
+2024-02-07,RED001,Router WiFi 6,Redes,Sucursal Guadalajara,Cliente Corp,10,1680.0,1200,16800.0,12000,4800.0,40.0,0.2,2,2
+2024-02-07,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Empresa XYZ,5,400.0,200,2000.0,1000,1000.0,100.0,0.0,2,2
+2024-02-07,MUE001,Silla Ergonómica,Muebles,Sucursal Cancún,Grupo Gamma,8,6500.0,3500,52000.0,28000,24000.0,85.7,0.0,2,2
+2024-02-08,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Cliente Premium,7,360.0,200,2520.0,1400,1120.0,80.0,0.1,3,2
+2024-02-08,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Comercial MX,10,600.0,300,6000.0,3000,3000.0,100.0,0.0,3,2
+2024-02-08,SOF002,Antivirus 3 equipos,Software,Sucursal Cancún,Cliente Corp,7,800.0,400,5600.0,2800,2800.0,100.0,0.0,3,2
+2024-02-08,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Comercial MX,9,500.0,250,4500.0,2250,2250.0,100.0,0.0,3,2
+2024-02-08,WEB001,Webcam HD,Cámaras,Sucursal Querétaro,Venta Mostrador,10,1445.0,900,14450.0,9000,5450.0,60.6,0.15,3,2
+2024-02-08,TEC001,Teclado Mecánico,Periféricos,Sucursal Mérida,Distribuidora ABC,6,1330.0,800,7980.0,4800,3180.0,66.3,0.05,3,2
+2024-02-08,RED002,Switch 8 puertos,Redes,Sucursal Toluca,Venta Mostrador,5,1100.0,600,5500.0,3000,2500.0,83.3,0.0,3,2
+2024-02-09,LAP002,Laptop Air 13,Electrónica,Sucursal Cancún,Distribuidora ABC,13,11500.0,9000,149500.0,117000,32500.0,27.8,0.0,4,2
+2024-02-09,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Venta Mostrador,7,1400.0,800,9800.0,5600,4200.0,75.0,0.0,4,2
+2024-02-09,MOU002,Mouse Gamer,Periféricos,Matriz CDMX,Distribuidora ABC,3,1100.0,600,3300.0,1800,1500.0,83.3,0.0,4,2
+2024-02-09,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Empresa Beta,16,1980.0,1200,31680.0,19200,12480.0,65.0,0.1,4,2
+2024-02-09,DIS001,SSD 1TB,Almacenamiento,Matriz CDMX,Distribuidora ABC,15,2500.0,1500,37500.0,22500,15000.0,66.7,0.0,4,2
+2024-02-09,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Puebla,Mayorista JJ,7,400.0,200,2800.0,1400,1400.0,100.0,0.0,4,2
+2024-02-09,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Empresa XYZ,9,8500.0,4500,76500.0,40500,36000.0,88.9,0.0,4,2
+2024-02-10,DIS001,SSD 1TB,Almacenamiento,Sucursal Cancún,Comercial MX,3,2375.0,1500,7125.0,4500,2625.0,58.3,0.05,5,2
+2024-02-10,DIS003,USB 64GB,Almacenamiento,Sucursal Tijuana,Tienda 123,1,350.0,150,350.0,150,200.0,133.3,0.0,5,2
+2024-02-11,SOF001,Office 365 1 año,Software,Sucursal Querétaro,Venta Mostrador,4,1710.0,900,6840.0,3600,3240.0,90.0,0.05,6,2
+2024-02-11,RED001,Router WiFi 6,Redes,Sucursal Querétaro,Cliente Premium,1,1890.0,1200,1890.0,1200,690.0,57.5,0.1,6,2
+2024-02-11,DIS003,USB 64GB,Almacenamiento,Sucursal Cancún,Venta Mostrador,4,332.5,150,1330.0,600,730.0,121.7,0.05,6,2
+2024-02-11,WEB002,Cámara Seguridad,Cámaras,Sucursal Guadalajara,Venta Mostrador,3,2880.0,1800,8640.0,5400,3240.0,60.0,0.1,6,2
+2024-02-11,MON002,Monitor 24 HD,Electrónica,Sucursal Querétaro,Soluciones Inc,7,3400.0,2500,23800.0,17500,6300.0,36.0,0.0,6,2
+2024-02-11,AUD002,Parlante Portátil,Audio,Sucursal Tijuana,Distribuidora ABC,3,1500.0,800,4500.0,2400,2100.0,87.5,0.0,6,2
+2024-02-11,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Puebla,Mayorista JJ,7,750.0,450,5250.0,3150,2100.0,66.7,0.0,6,2
+2024-02-11,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Empresa XYZ,3,1400.0,800,4200.0,2400,1800.0,75.0,0.0,6,2
+2024-02-11,AUD003,Micrófono USB,Audio,Sucursal Cancún,Cliente Corp,6,2660.0,1500,15960.0,9000,6960.0,77.3,0.05,6,2
+2024-02-12,SOF001,Office 365 1 año,Software,Sucursal Tijuana,Cliente Premium,4,1710.0,900,6840.0,3600,3240.0,90.0,0.05,0,2
+2024-02-12,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Grupo Gamma,3,7650.0,4500,22950.0,13500,9450.0,70.0,0.1,0,2
+2024-02-12,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Venta Mostrador,11,500.0,250,5500.0,2750,2750.0,100.0,0.0,0,2
+2024-02-12,DIS003,USB 64GB,Almacenamiento,Sucursal Puebla,Cliente Premium,14,315.0,150,4410.0,2100,2310.0,110.0,0.1,0,2
+2024-02-12,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Empresa XYZ,12,6120.0,5500,73440.0,66000,7440.0,11.3,0.15,0,2
+2024-02-12,MOU002,Mouse Gamer,Periféricos,Sucursal Tijuana,Tienda 123,7,1100.0,600,7700.0,4200,3500.0,83.3,0.0,0,2
+2024-02-12,TEC001,Teclado Mecánico,Periféricos,Sucursal Cancún,Tienda 123,11,1190.0,800,13090.0,8800,4290.0,48.8,0.15,0,2
+2024-02-12,MON002,Monitor 24 HD,Electrónica,Sucursal Guadalajara,Comprador Final,15,2890.0,2500,43350.0,37500,5850.0,15.6,0.15,0,2
+2024-02-12,WEB001,Webcam HD,Cámaras,Matriz CDMX,Cliente Premium,8,1700.0,900,13600.0,7200,6400.0,88.9,0.0,0,2
+2024-02-13,RED002,Switch 8 puertos,Redes,Sucursal Tijuana,Comprador Final,9,1100.0,600,9900.0,5400,4500.0,83.3,0.0,1,2
+2024-02-13,RED001,Router WiFi 6,Redes,Sucursal Guadalajara,Grupo Gamma,7,1995.0,1200,13965.0,8400,5565.0,66.3,0.05,1,2
+2024-02-13,SOF001,Office 365 1 año,Software,Sucursal Tijuana,Cliente Premium,3,1710.0,900,5130.0,2700,2430.0,90.0,0.05,1,2
+2024-02-13,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Cliente Corp,11,15000.0,12000,165000.0,132000,33000.0,25.0,0.0,1,2
+2024-02-13,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Distribuidora ABC,4,1710.0,1200,6840.0,4800,2040.0,42.5,0.1,1,2
+2024-02-14,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Comercial MX,9,14250.0,12000,128250.0,108000,20250.0,18.8,0.05,2,2
+2024-02-14,MON002,Monitor 24 HD,Electrónica,Sucursal Mérida,Cliente Corp,2,3400.0,2500,6800.0,5000,1800.0,36.0,0.0,2,2
+2024-02-14,WEB001,Webcam HD,Cámaras,Sucursal Monterrey,Comercial MX,5,1700.0,900,8500.0,4500,4000.0,88.9,0.0,2,2
+2024-02-14,SOF002,Antivirus 3 equipos,Software,Matriz CDMX,Mayorista JJ,2,800.0,400,1600.0,800,800.0,100.0,0.0,2,2
+2024-02-14,MUE001,Silla Ergonómica,Muebles,Sucursal Toluca,Venta Mostrador,10,6175.0,3500,61750.0,35000,26750.0,76.4,0.05,2,2
+2024-02-14,MUE003,Lámpara LED,Muebles,Sucursal Mérida,Cliente Corp,4,570.0,300,2280.0,1200,1080.0,90.0,0.05,2,2
+2024-02-15,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Soluciones Inc,13,400.0,200,5200.0,2600,2600.0,100.0,0.0,3,2
+2024-02-15,MUE003,Lámpara LED,Muebles,Matriz CDMX,Soluciones Inc,9,570.0,300,5130.0,2700,2430.0,90.0,0.05,3,2
+2024-02-15,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Empresa XYZ,7,1045.0,600,7315.0,4200,3115.0,74.2,0.05,3,2
+2024-02-15,MON001,Monitor 27 4K,Electrónica,Sucursal Querétaro,Grupo Gamma,5,5760.0,5500,28800.0,27500,1300.0,4.7,0.2,3,2
+2024-02-15,AUD001,Audífonos Bluetooth,Audio,Matriz CDMX,Comprador Final,4,2200.0,1200,8800.0,4800,4000.0,83.3,0.0,3,2
+2024-02-15,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Toluca,Empresa XYZ,11,712.5,450,7837.5,4950,2887.5,58.3,0.05,3,2
+2024-02-15,AUD002,Parlante Portátil,Audio,Sucursal Tijuana,Mayorista JJ,12,1425.0,800,17100.0,9600,7500.0,78.1,0.05,3,2
+2024-02-16,SOF001,Office 365 1 año,Software,Sucursal Puebla,Cliente Corp,8,1800.0,900,14400.0,7200,7200.0,100.0,0.0,4,2
+2024-02-16,RED001,Router WiFi 6,Redes,Matriz CDMX,Venta Mostrador,7,1890.0,1200,13230.0,8400,4830.0,57.5,0.1,4,2
+2024-02-16,DIS002,HDD 4TB,Almacenamiento,Sucursal Mérida,Cliente Premium,8,1900.0,1200,15200.0,9600,5600.0,58.3,0.0,4,2
+2024-02-16,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Mérida,Cliente Corp,4,380.0,200,1520.0,800,720.0,90.0,0.05,4,2
+2024-02-16,AUD002,Parlante Portátil,Audio,Sucursal Monterrey,Cliente Premium,10,1350.0,800,13500.0,8000,5500.0,68.8,0.1,4,2
+2024-02-16,MOU002,Mouse Gamer,Periféricos,Sucursal Toluca,Tienda 123,7,1100.0,600,7700.0,4200,3500.0,83.3,0.0,4,2
+2024-02-16,LAP002,Laptop Air 13,Electrónica,Sucursal Puebla,Comercial MX,16,11500.0,9000,184000.0,144000,40000.0,27.8,0.0,4,2
+2024-02-16,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Empresa Beta,4,1700.0,900,6800.0,3600,3200.0,88.9,0.0,4,2
+2024-02-17,MOU001,Mouse Ergonómico,Periféricos,Sucursal Puebla,Venta Mostrador,5,650.0,350,3250.0,1750,1500.0,85.7,0.0,5,2
+2024-02-17,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Cliente Corp,11,1360.0,900,14960.0,9900,5060.0,51.1,0.2,5,2
+2024-02-17,DIS001,SSD 1TB,Almacenamiento,Sucursal Querétaro,Grupo Gamma,14,2375.0,1500,33250.0,21000,12250.0,58.3,0.05,5,2
+2024-02-17,DIS002,HDD 4TB,Almacenamiento,Sucursal Monterrey,Mayorista JJ,19,1710.0,1200,32490.0,22800,9690.0,42.5,0.1,5,2
+2024-02-17,SOF001,Office 365 1 año,Software,Sucursal Toluca,Comercial MX,7,1710.0,900,11970.0,6300,5670.0,90.0,0.05,5,2
+2024-02-18,RED002,Switch 8 puertos,Redes,Sucursal Guadalajara,Grupo Gamma,9,1100.0,600,9900.0,5400,4500.0,83.3,0.0,6,2
+2024-02-18,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Mérida,Comercial MX,5,320.0,200,1600.0,1000,600.0,60.0,0.2,6,2
+2024-02-18,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Cliente Premium,3,800.0,400,2400.0,1200,1200.0,100.0,0.0,6,2
+2024-02-18,SOF001,Office 365 1 año,Software,Sucursal Toluca,Grupo Gamma,8,1710.0,900,13680.0,7200,6480.0,90.0,0.05,6,2
+2024-02-18,DIS003,USB 64GB,Almacenamiento,Matriz CDMX,Grupo Gamma,9,350.0,150,3150.0,1350,1800.0,133.3,0.0,6,2
+2024-02-18,AUD003,Micrófono USB,Audio,Matriz CDMX,Tienda 123,10,2240.0,1500,22400.0,15000,7400.0,49.3,0.2,6,2
+2024-02-18,AUD001,Audífonos Bluetooth,Audio,Sucursal Guadalajara,Empresa Beta,2,2200.0,1200,4400.0,2400,2000.0,83.3,0.0,6,2
+2024-02-18,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Tienda 123,5,1330.0,800,6650.0,4000,2650.0,66.3,0.05,6,2
+2024-02-18,MON001,Monitor 27 4K,Electrónica,Sucursal Tijuana,Tienda 123,2,5760.0,5500,11520.0,11000,520.0,4.7,0.2,6,2
+2024-02-18,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Comprador Final,6,1805.0,1200,10830.0,7200,3630.0,50.4,0.05,6,2
+2024-02-19,MOU001,Mouse Ergonómico,Periféricos,Sucursal Querétaro,Empresa Beta,5,617.5,350,3087.5,1750,1337.5,76.4,0.05,0,2
+2024-02-19,MON001,Monitor 27 4K,Electrónica,Sucursal Monterrey,Cliente Premium,9,7200.0,5500,64800.0,49500,15300.0,30.9,0.0,0,2
+2024-02-19,MON002,Monitor 24 HD,Electrónica,Sucursal Monterrey,Comercial MX,7,3400.0,2500,23800.0,17500,6300.0,36.0,0.0,0,2
+2024-02-19,TEC001,Teclado Mecánico,Periféricos,Matriz CDMX,Comprador Final,6,1400.0,800,8400.0,4800,3600.0,75.0,0.0,0,2
+2024-02-19,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Cancún,Empresa Beta,4,675.0,450,2700.0,1800,900.0,50.0,0.1,0,2
+2024-02-19,MOU002,Mouse Gamer,Periféricos,Sucursal Monterrey,Comprador Final,14,1045.0,600,14630.0,8400,6230.0,74.2,0.05,0,2
+2024-02-19,AUD001,Audífonos Bluetooth,Audio,Sucursal Cancún,Soluciones Inc,12,2090.0,1200,25080.0,14400,10680.0,74.2,0.05,0,2
+2024-02-19,AUD003,Micrófono USB,Audio,Sucursal Guadalajara,Empresa Beta,8,2240.0,1500,17920.0,12000,5920.0,49.3,0.2,0,2
+2024-02-19,DIS001,SSD 1TB,Almacenamiento,Sucursal Monterrey,Soluciones Inc,6,2375.0,1500,14250.0,9000,5250.0,58.3,0.05,0,2
+2024-02-19,MUE003,Lámpara LED,Muebles,Matriz CDMX,Soluciones Inc,5,540.0,300,2700.0,1500,1200.0,80.0,0.1,0,2
+2024-02-20,SOF001,Office 365 1 año,Software,Sucursal Guadalajara,Soluciones Inc,6,1530.0,900,9180.0,5400,3780.0,70.0,0.15,1,2
+2024-02-20,MUE003,Lámpara LED,Muebles,Matriz CDMX,Cliente Premium,10,570.0,300,5700.0,3000,2700.0,90.0,0.05,1,2
+2024-02-20,RED002,Switch 8 puertos,Redes,Sucursal Cancún,Cliente Premium,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,1,2
+2024-02-20,LAP002,Laptop Air 13,Electrónica,Sucursal Mérida,Comercial MX,10,9775.0,9000,97750.0,90000,7750.0,8.6,0.15,1,2
+2024-02-20,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Empresa XYZ,15,14250.0,12000,213750.0,180000,33750.0,18.8,0.05,1,2
+2024-02-20,WEB001,Webcam HD,Cámaras,Sucursal Guadalajara,Grupo Gamma,6,1615.0,900,9690.0,5400,4290.0,79.4,0.05,1,2
+2024-02-21,SOF001,Office 365 1 año,Software,Sucursal Querétaro,Cliente Corp,4,1800.0,900,7200.0,3600,3600.0,100.0,0.0,2,2
+2024-02-21,LAP001,Laptop Pro 15,Electrónica,Sucursal Puebla,Comercial MX,9,13500.0,12000,121500.0,108000,13500.0,12.5,0.1,2,2
+2024-02-21,MOU001,Mouse Ergonómico,Periféricos,Matriz CDMX,Empresa Beta,8,585.0,350,4680.0,2800,1880.0,67.1,0.1,2,2
+2024-02-21,AUD003,Micrófono USB,Audio,Sucursal Monterrey,Comprador Final,3,2660.0,1500,7980.0,4500,3480.0,77.3,0.05,2,2
+2024-02-21,WEB001,Webcam HD,Cámaras,Sucursal Monterrey,Empresa Beta,14,1700.0,900,23800.0,12600,11200.0,88.9,0.0,2,2
+2024-02-21,WEB002,Cámara Seguridad,Cámaras,Sucursal Toluca,Tienda 123,3,3200.0,1800,9600.0,5400,4200.0,77.8,0.0,2,2
+2024-02-21,DIS003,USB 64GB,Almacenamiento,Sucursal Mérida,Cliente Corp,8,350.0,150,2800.0,1200,1600.0,133.3,0.0,2,2
+2024-02-21,RED002,Switch 8 puertos,Redes,Sucursal Guadalajara,Comprador Final,13,1045.0,600,13585.0,7800,5785.0,74.2,0.05,2,2
+2024-02-21,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Toluca,Empresa Beta,3,400.0,200,1200.0,600,600.0,100.0,0.0,2,2
+2024-02-21,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Empresa XYZ,10,5850.0,3500,58500.0,35000,23500.0,67.1,0.1,2,2
+2024-02-22,TEC001,Teclado Mecánico,Periféricos,Sucursal Querétaro,Soluciones Inc,7,1120.0,800,7840.0,5600,2240.0,40.0,0.2,3,2
+2024-02-22,WEB002,Cámara Seguridad,Cámaras,Matriz CDMX,Soluciones Inc,9,3200.0,1800,28800.0,16200,12600.0,77.8,0.0,3,2
+2024-02-22,DIS001,SSD 1TB,Almacenamiento,Sucursal Cancún,Cliente Premium,14,2500.0,1500,35000.0,21000,14000.0,66.7,0.0,3,2
+2024-02-23,RED001,Router WiFi 6,Redes,Sucursal Toluca,Tienda 123,3,1785.0,1200,5355.0,3600,1755.0,48.8,0.15,4,2
+2024-02-23,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Mérida,Soluciones Inc,23,750.0,450,17250.0,10350,6900.0,66.7,0.0,4,2
+2024-02-23,DIS002,HDD 4TB,Almacenamiento,Sucursal Mérida,Mayorista JJ,13,1805.0,1200,23465.0,15600,7865.0,50.4,0.05,4,2
+2024-02-23,SOF001,Office 365 1 año,Software,Sucursal Toluca,Distribuidora ABC,7,1800.0,900,12600.0,6300,6300.0,100.0,0.0,4,2
+2024-02-23,DIS001,SSD 1TB,Almacenamiento,Sucursal Toluca,Soluciones Inc,10,2500.0,1500,25000.0,15000,10000.0,66.7,0.0,4,2
+2024-02-23,MON002,Monitor 24 HD,Electrónica,Sucursal Puebla,Venta Mostrador,3,3060.0,2500,9180.0,7500,1680.0,22.4,0.1,4,2
+2024-02-23,WEB001,Webcam HD,Cámaras,Sucursal Monterrey,Grupo Gamma,14,1530.0,900,21420.0,12600,8820.0,70.0,0.1,4,2
+2024-02-23,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Empresa Beta,12,14250.0,12000,171000.0,144000,27000.0,18.8,0.05,4,2
+2024-02-23,WEB002,Cámara Seguridad,Cámaras,Matriz CDMX,Distribuidora ABC,8,3040.0,1800,24320.0,14400,9920.0,68.9,0.05,4,2
+2024-02-24,MUE001,Silla Ergonómica,Muebles,Sucursal Cancún,Comercial MX,2,6500.0,3500,13000.0,7000,6000.0,85.7,0.0,5,2
+2024-02-24,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Venta Mostrador,7,12750.0,12000,89250.0,84000,5250.0,6.2,0.15,5,2
+2024-02-24,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Monterrey,Venta Mostrador,13,675.0,450,8775.0,5850,2925.0,50.0,0.1,5,2
+2024-02-24,WEB002,Cámara Seguridad,Cámaras,Sucursal Puebla,Empresa XYZ,10,3200.0,1800,32000.0,18000,14000.0,77.8,0.0,5,2
+2024-02-24,DIS002,HDD 4TB,Almacenamiento,Sucursal Mérida,Empresa XYZ,11,1900.0,1200,20900.0,13200,7700.0,58.3,0.0,5,2
+2024-02-24,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Soluciones Inc,6,1100.0,600,6600.0,3600,3000.0,83.3,0.0,5,2
+2024-02-24,SOF001,Office 365 1 año,Software,Sucursal Tijuana,Empresa Beta,2,1530.0,900,3060.0,1800,1260.0,70.0,0.15,5,2
+2024-02-24,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Tienda 123,9,450.0,250,4050.0,2250,1800.0,80.0,0.1,5,2
+2024-02-24,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Mayorista JJ,1,510.0,300,510.0,300,210.0,70.0,0.15,5,2
+2024-02-25,SOF002,Antivirus 3 equipos,Software,Matriz CDMX,Mayorista JJ,6,800.0,400,4800.0,2400,2400.0,100.0,0.0,6,2
+2024-02-25,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Tienda 123,5,8500.0,4500,42500.0,22500,20000.0,88.9,0.0,6,2
+2024-02-25,RED002,Switch 8 puertos,Redes,Sucursal Toluca,Comercial MX,11,1100.0,600,12100.0,6600,5500.0,83.3,0.0,6,2
+2024-02-25,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Puebla,Empresa Beta,1,340.0,200,340.0,200,140.0,70.0,0.15,6,2
+2024-02-25,MOU001,Mouse Ergonómico,Periféricos,Sucursal Toluca,Venta Mostrador,6,585.0,350,3510.0,2100,1410.0,67.1,0.1,6,2
+2024-02-25,MON001,Monitor 27 4K,Electrónica,Sucursal Querétaro,Cliente Corp,7,6480.0,5500,45360.0,38500,6860.0,17.8,0.1,6,2
+2024-02-25,WEB001,Webcam HD,Cámaras,Sucursal Guadalajara,Cliente Premium,5,1700.0,900,8500.0,4500,4000.0,88.9,0.0,6,2
+2024-02-25,TEC001,Teclado Mecánico,Periféricos,Sucursal Cancún,Distribuidora ABC,10,1330.0,800,13300.0,8000,5300.0,66.3,0.05,6,2
+2024-02-26,MOU001,Mouse Ergonómico,Periféricos,Sucursal Querétaro,Mayorista JJ,3,585.0,350,1755.0,1050,705.0,67.1,0.1,0,2
+2024-02-26,AUD003,Micrófono USB,Audio,Sucursal Monterrey,Distribuidora ABC,9,2800.0,1500,25200.0,13500,11700.0,86.7,0.0,0,2
+2024-02-26,DIS002,HDD 4TB,Almacenamiento,Sucursal Cancún,Comprador Final,14,1520.0,1200,21280.0,16800,4480.0,26.7,0.2,0,2
+2024-02-26,SOF002,Antivirus 3 equipos,Software,Matriz CDMX,Empresa XYZ,7,800.0,400,5600.0,2800,2800.0,100.0,0.0,0,2
+2024-02-26,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Cliente Corp,14,400.0,200,5600.0,2800,2800.0,100.0,0.0,0,2
+2024-02-27,RED001,Router WiFi 6,Redes,Sucursal Monterrey,Venta Mostrador,9,2100.0,1200,18900.0,10800,8100.0,75.0,0.0,1,2
+2024-02-27,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Cliente Corp,8,280.0,150,2240.0,1200,1040.0,86.7,0.2,1,2
+2024-02-27,DIS002,HDD 4TB,Almacenamiento,Sucursal Toluca,Empresa Beta,12,1900.0,1200,22800.0,14400,8400.0,58.3,0.0,1,2
+2024-02-27,WEB001,Webcam HD,Cámaras,Matriz CDMX,Cliente Premium,23,1615.0,900,37145.0,20700,16445.0,79.4,0.05,1,2
+2024-02-27,AUD002,Parlante Portátil,Audio,Matriz CDMX,Empresa Beta,18,1500.0,800,27000.0,14400,12600.0,87.5,0.0,1,2
+2024-02-27,TEC001,Teclado Mecánico,Periféricos,Sucursal Puebla,Mayorista JJ,25,1400.0,800,35000.0,20000,15000.0,75.0,0.0,1,2
+2024-02-27,MON002,Monitor 24 HD,Electrónica,Sucursal Guadalajara,Comprador Final,5,3230.0,2500,16150.0,12500,3650.0,29.2,0.05,1,2
+2024-02-28,MON002,Monitor 24 HD,Electrónica,Sucursal Tijuana,Empresa Beta,15,3060.0,2500,45900.0,37500,8400.0,22.4,0.1,2,2
+2024-02-28,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Cliente Corp,12,3040.0,1800,36480.0,21600,14880.0,68.9,0.05,2,2
+2024-02-28,MUE001,Silla Ergonómica,Muebles,Sucursal Toluca,Tienda 123,3,6175.0,3500,18525.0,10500,8025.0,76.4,0.05,2,2
+2024-02-28,MUE002,Escritorio Eléctrico,Muebles,Sucursal Cancún,Comercial MX,27,8075.0,4500,218025.0,121500,96525.0,79.4,0.05,2,2
+2024-02-29,RED002,Switch 8 puertos,Redes,Sucursal Puebla,Empresa XYZ,14,1100.0,600,15400.0,8400,7000.0,83.3,0.0,3,2
+2024-02-29,RED001,Router WiFi 6,Redes,Sucursal Monterrey,Venta Mostrador,3,2100.0,1200,6300.0,3600,2700.0,75.0,0.0,3,2
+2024-02-29,DIS003,USB 64GB,Almacenamiento,Sucursal Mérida,Grupo Gamma,6,350.0,150,2100.0,900,1200.0,133.3,0.0,3,2
+2024-02-29,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Empresa Beta,5,1190.0,800,5950.0,4000,1950.0,48.8,0.15,3,2
+2024-02-29,MON002,Monitor 24 HD,Electrónica,Sucursal Querétaro,Comercial MX,8,3400.0,2500,27200.0,20000,7200.0,36.0,0.0,3,2
+2024-02-29,WEB002,Cámara Seguridad,Cámaras,Sucursal Tijuana,Cliente Corp,9,3040.0,1800,27360.0,16200,11160.0,68.9,0.05,3,2
+2024-03-01,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Cliente Corp,14,10925.0,9000,152950.0,126000,26950.0,21.4,0.05,4,3
+2024-03-01,MON002,Monitor 24 HD,Electrónica,Sucursal Toluca,Cliente Premium,1,2890.0,2500,2890.0,2500,390.0,15.6,0.15,4,3
+2024-03-01,WEB002,Cámara Seguridad,Cámaras,Sucursal Querétaro,Grupo Gamma,16,3200.0,1800,51200.0,28800,22400.0,77.8,0.0,4,3
+2024-03-01,RED001,Router WiFi 6,Redes,Sucursal Toluca,Comercial MX,8,1995.0,1200,15960.0,9600,6360.0,66.3,0.05,4,3
+2024-03-01,RED002,Switch 8 puertos,Redes,Sucursal Monterrey,Cliente Premium,8,935.0,600,7480.0,4800,2680.0,55.8,0.15,4,3
+2024-03-01,MUE003,Lámpara LED,Muebles,Sucursal Guadalajara,Distribuidora ABC,5,540.0,300,2700.0,1500,1200.0,80.0,0.1,4,3
+2024-03-02,MUE001,Silla Ergonómica,Muebles,Sucursal Cancún,Empresa XYZ,3,6500.0,3500,19500.0,10500,9000.0,85.7,0.0,5,3
+2024-03-02,PAP002,Tinta Impresora,Papelería,Sucursal Querétaro,Soluciones Inc,4,500.0,250,2000.0,1000,1000.0,100.0,0.0,5,3
+2024-03-02,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Cliente Corp,7,1615.0,900,11305.0,6300,5005.0,79.4,0.05,5,3
+2024-03-02,LAP001,Laptop Pro 15,Electrónica,Sucursal Tijuana,Distribuidora ABC,4,14250.0,12000,57000.0,48000,9000.0,18.8,0.05,5,3
+2024-03-02,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Querétaro,Cliente Premium,3,712.5,450,2137.5,1350,787.5,58.3,0.05,5,3
+2024-03-02,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Distribuidora ABC,3,1400.0,800,4200.0,2400,1800.0,75.0,0.0,5,3
+2024-03-02,AUD002,Parlante Portátil,Audio,Sucursal Cancún,Mayorista JJ,11,1500.0,800,16500.0,8800,7700.0,87.5,0.0,5,3
+2024-03-03,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Empresa XYZ,7,1100.0,600,7700.0,4200,3500.0,83.3,0.0,6,3
+2024-03-03,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Comercial MX,1,340.0,200,340.0,200,140.0,70.0,0.15,6,3
+2024-03-03,AUD003,Micrófono USB,Audio,Matriz CDMX,Comprador Final,2,2660.0,1500,5320.0,3000,2320.0,77.3,0.05,6,3
+2024-03-03,MOU001,Mouse Ergonómico,Periféricos,Sucursal Mérida,Comercial MX,3,650.0,350,1950.0,1050,900.0,85.7,0.0,6,3
+2024-03-03,DIS002,HDD 4TB,Almacenamiento,Sucursal Monterrey,Comercial MX,17,1805.0,1200,30685.0,20400,10285.0,50.4,0.05,6,3
+2024-03-04,LAP001,Laptop Pro 15,Electrónica,Sucursal Tijuana,Cliente Premium,16,15000.0,12000,240000.0,192000,48000.0,25.0,0.0,0,3
+2024-03-04,MON001,Monitor 27 4K,Electrónica,Sucursal Mérida,Cliente Corp,9,6840.0,5500,61560.0,49500,12060.0,24.4,0.05,0,3
+2024-03-04,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Cliente Corp,3,1400.0,800,4200.0,2400,1800.0,75.0,0.0,0,3
+2024-03-04,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Querétaro,Cliente Premium,6,675.0,450,4050.0,2700,1350.0,50.0,0.1,0,3
+2024-03-04,MOU001,Mouse Ergonómico,Periféricos,Sucursal Mérida,Empresa Beta,8,552.5,350,4420.0,2800,1620.0,57.9,0.15,0,3
+2024-03-04,AUD002,Parlante Portátil,Audio,Sucursal Monterrey,Comercial MX,6,1500.0,800,9000.0,4800,4200.0,87.5,0.0,0,3
+2024-03-04,RED002,Switch 8 puertos,Redes,Sucursal Cancún,Comercial MX,9,935.0,600,8415.0,5400,3015.0,55.8,0.15,0,3
+2024-03-04,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Puebla,Tienda 123,10,400.0,200,4000.0,2000,2000.0,100.0,0.0,0,3
+2024-03-05,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Soluciones Inc,5,475.0,250,2375.0,1250,1125.0,90.0,0.05,1,3
+2024-03-05,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Cliente Corp,10,800.0,400,8000.0,4000,4000.0,100.0,0.0,1,3
+2024-03-05,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Cliente Premium,3,350.0,150,1050.0,450,600.0,133.3,0.0,1,3
+2024-03-05,DIS001,SSD 1TB,Almacenamiento,Sucursal Puebla,Empresa XYZ,2,2375.0,1500,4750.0,3000,1750.0,58.3,0.05,1,3
+2024-03-05,MON002,Monitor 24 HD,Electrónica,Sucursal Puebla,Mayorista JJ,2,3400.0,2500,6800.0,5000,1800.0,36.0,0.0,1,3
+2024-03-05,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Comprador Final,5,1615.0,900,8075.0,4500,3575.0,79.4,0.05,1,3
+2024-03-05,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Empresa Beta,7,1350.0,800,9450.0,5600,3850.0,68.8,0.1,1,3
+2024-03-05,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Grupo Gamma,3,3200.0,1800,9600.0,5400,4200.0,77.8,0.0,1,3
+2024-03-06,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Monterrey,Distribuidora ABC,3,380.0,200,1140.0,600,540.0,90.0,0.05,2,3
+2024-03-06,SOF001,Office 365 1 año,Software,Sucursal Monterrey,Empresa XYZ,18,1710.0,900,30780.0,16200,14580.0,90.0,0.05,2,3
+2024-03-06,AUD003,Micrófono USB,Audio,Sucursal Toluca,Cliente Premium,9,2800.0,1500,25200.0,13500,11700.0,86.7,0.0,2,3
+2024-03-06,TEC001,Teclado Mecánico,Periféricos,Sucursal Cancún,Tienda 123,6,1400.0,800,8400.0,4800,3600.0,75.0,0.0,2,3
+2024-03-06,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Querétaro,Comprador Final,4,675.0,450,2700.0,1800,900.0,50.0,0.1,2,3
+2024-03-06,LAP002,Laptop Air 13,Electrónica,Sucursal Monterrey,Empresa Beta,14,10925.0,9000,152950.0,126000,26950.0,21.4,0.05,2,3
+2024-03-06,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Comprador Final,4,2200.0,1200,8800.0,4800,4000.0,83.3,0.0,2,3
+2024-03-07,TEC001,Teclado Mecánico,Periféricos,Sucursal Puebla,Mayorista JJ,4,1260.0,800,5040.0,3200,1840.0,57.5,0.1,3,3
+2024-03-07,AUD001,Audífonos Bluetooth,Audio,Sucursal Mérida,Soluciones Inc,10,2200.0,1200,22000.0,12000,10000.0,83.3,0.0,3,3
+2024-03-07,DIS001,SSD 1TB,Almacenamiento,Sucursal Monterrey,Venta Mostrador,7,2250.0,1500,15750.0,10500,5250.0,50.0,0.1,3,3
+2024-03-07,DIS002,HDD 4TB,Almacenamiento,Sucursal Cancún,Comprador Final,15,1900.0,1200,28500.0,18000,10500.0,58.3,0.0,3,3
+2024-03-07,SOF001,Office 365 1 año,Software,Sucursal Puebla,Empresa Beta,16,1800.0,900,28800.0,14400,14400.0,100.0,0.0,3,3
+2024-03-08,MUE001,Silla Ergonómica,Muebles,Sucursal Mérida,Empresa Beta,6,5850.0,3500,35100.0,21000,14100.0,67.1,0.1,4,3
+2024-03-08,SOF001,Office 365 1 año,Software,Sucursal Toluca,Mayorista JJ,4,1800.0,900,7200.0,3600,3600.0,100.0,0.0,4,3
+2024-03-08,RED001,Router WiFi 6,Redes,Sucursal Tijuana,Venta Mostrador,8,2100.0,1200,16800.0,9600,7200.0,75.0,0.0,4,3
+2024-03-08,MOU002,Mouse Gamer,Periféricos,Sucursal Puebla,Cliente Premium,13,1100.0,600,14300.0,7800,6500.0,83.3,0.0,4,3
+2024-03-08,DIS002,HDD 4TB,Almacenamiento,Sucursal Puebla,Mayorista JJ,9,1615.0,1200,14535.0,10800,3735.0,34.6,0.15,4,3
+2024-03-08,WEB002,Cámara Seguridad,Cámaras,Sucursal Querétaro,Mayorista JJ,3,3200.0,1800,9600.0,5400,4200.0,77.8,0.0,4,3
+2024-03-08,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Empresa Beta,10,350.0,150,3500.0,1500,2000.0,133.3,0.0,4,3
+2024-03-09,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Grupo Gamma,9,332.5,150,2992.5,1350,1642.5,121.7,0.05,5,3
+2024-03-09,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Empresa XYZ,4,720.0,400,2880.0,1600,1280.0,80.0,0.1,5,3
+2024-03-09,DIS001,SSD 1TB,Almacenamiento,Sucursal Monterrey,Tienda 123,10,2375.0,1500,23750.0,15000,8750.0,58.3,0.05,5,3
+2024-03-09,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Grupo Gamma,2,510.0,300,1020.0,600,420.0,70.0,0.15,5,3
+2024-03-09,AUD003,Micrófono USB,Audio,Sucursal Puebla,Cliente Premium,7,2800.0,1500,19600.0,10500,9100.0,86.7,0.0,5,3
+2024-03-09,MOU002,Mouse Gamer,Periféricos,Sucursal Toluca,Empresa XYZ,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,5,3
+2024-03-09,LAP002,Laptop Air 13,Electrónica,Matriz CDMX,Grupo Gamma,3,11500.0,9000,34500.0,27000,7500.0,27.8,0.0,5,3
+2024-03-09,WEB001,Webcam HD,Cámaras,Sucursal Puebla,Distribuidora ABC,1,1700.0,900,1700.0,900,800.0,88.9,0.0,5,3
+2024-03-10,DIS003,USB 64GB,Almacenamiento,Sucursal Puebla,Grupo Gamma,7,350.0,150,2450.0,1050,1400.0,133.3,0.0,6,3
+2024-03-10,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Empresa Beta,6,1425.0,800,8550.0,4800,3750.0,78.1,0.05,6,3
+2024-03-10,MUE002,Escritorio Eléctrico,Muebles,Sucursal Mérida,Venta Mostrador,3,8500.0,4500,25500.0,13500,12000.0,88.9,0.0,6,3
+2024-03-10,LAP002,Laptop Air 13,Electrónica,Sucursal Guadalajara,Cliente Corp,4,11500.0,9000,46000.0,36000,10000.0,27.8,0.0,6,3
+2024-03-10,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Cliente Premium,10,1400.0,800,14000.0,8000,6000.0,75.0,0.0,6,3
+2024-03-11,MOU001,Mouse Ergonómico,Periféricos,Sucursal Cancún,Tienda 123,14,585.0,350,8190.0,4900,3290.0,67.1,0.1,0,3
+2024-03-11,AUD002,Parlante Portátil,Audio,Matriz CDMX,Comprador Final,8,1500.0,800,12000.0,6400,5600.0,87.5,0.0,0,3
+2024-03-11,RED002,Switch 8 puertos,Redes,Sucursal Monterrey,Comprador Final,10,880.0,600,8800.0,6000,2800.0,46.7,0.2,0,3
+2024-03-11,PAP002,Tinta Impresora,Papelería,Matriz CDMX,Mayorista JJ,13,500.0,250,6500.0,3250,3250.0,100.0,0.0,0,3
+2024-03-11,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Distribuidora ABC,8,540.0,300,4320.0,2400,1920.0,80.0,0.1,0,3
+2024-03-12,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Toluca,Mayorista JJ,11,400.0,200,4400.0,2200,2200.0,100.0,0.0,1,3
+2024-03-12,MUE003,Lámpara LED,Muebles,Sucursal Cancún,Distribuidora ABC,16,570.0,300,9120.0,4800,4320.0,90.0,0.05,1,3
+2024-03-12,AUD002,Parlante Portátil,Audio,Sucursal Mérida,Empresa XYZ,10,1500.0,800,15000.0,8000,7000.0,87.5,0.0,1,3
+2024-03-12,WEB001,Webcam HD,Cámaras,Sucursal Guadalajara,Venta Mostrador,6,1445.0,900,8670.0,5400,3270.0,60.6,0.15,1,3
+2024-03-12,MOU001,Mouse Ergonómico,Periféricos,Sucursal Guadalajara,Venta Mostrador,12,520.0,350,6240.0,4200,2040.0,48.6,0.2,1,3
+2024-03-12,MON002,Monitor 24 HD,Electrónica,Sucursal Toluca,Soluciones Inc,2,3230.0,2500,6460.0,5000,1460.0,29.2,0.05,1,3
+2024-03-12,MON001,Monitor 27 4K,Electrónica,Sucursal Querétaro,Tienda 123,12,6840.0,5500,82080.0,66000,16080.0,24.4,0.05,1,3
+2024-03-12,AUD001,Audífonos Bluetooth,Audio,Sucursal Monterrey,Distribuidora ABC,7,2090.0,1200,14630.0,8400,6230.0,74.2,0.05,1,3
+2024-03-13,TEC001,Teclado Mecánico,Periféricos,Sucursal Puebla,Empresa Beta,5,1400.0,800,7000.0,4000,3000.0,75.0,0.0,2,3
+2024-03-13,MOU001,Mouse Ergonómico,Periféricos,Sucursal Guadalajara,Mayorista JJ,5,650.0,350,3250.0,1750,1500.0,85.7,0.0,2,3
+2024-03-13,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Mayorista JJ,3,1530.0,900,4590.0,2700,1890.0,70.0,0.1,2,3
+2024-03-13,WEB002,Cámara Seguridad,Cámaras,Sucursal Toluca,Comprador Final,6,3200.0,1800,19200.0,10800,8400.0,77.8,0.0,2,3
+2024-03-13,DIS003,USB 64GB,Almacenamiento,Sucursal Tijuana,Comprador Final,5,350.0,150,1750.0,750,1000.0,133.3,0.0,2,3
+2024-03-13,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Comercial MX,14,360.0,200,5040.0,2800,2240.0,80.0,0.1,2,3
+2024-03-14,PAP002,Tinta Impresora,Papelería,Sucursal Mérida,Empresa Beta,10,450.0,250,4500.0,2500,2000.0,80.0,0.1,3,3
+2024-03-14,DIS002,HDD 4TB,Almacenamiento,Sucursal Querétaro,Venta Mostrador,15,1805.0,1200,27075.0,18000,9075.0,50.4,0.05,3,3
+2024-03-14,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Soluciones Inc,10,3200.0,1800,32000.0,18000,14000.0,77.8,0.0,3,3
+2024-03-14,AUD002,Parlante Portátil,Audio,Sucursal Guadalajara,Soluciones Inc,12,1500.0,800,18000.0,9600,8400.0,87.5,0.0,3,3
+2024-03-14,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Grupo Gamma,10,14250.0,12000,142500.0,120000,22500.0,18.8,0.05,3,3
+2024-03-14,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Toluca,Comercial MX,13,750.0,450,9750.0,5850,3900.0,66.7,0.0,3,3
+2024-03-14,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Empresa Beta,4,1400.0,800,5600.0,3200,2400.0,75.0,0.0,3,3
+2024-03-14,MON002,Monitor 24 HD,Electrónica,Sucursal Cancún,Empresa XYZ,4,3230.0,2500,12920.0,10000,2920.0,29.2,0.05,3,3
+2024-03-14,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Distribuidora ABC,12,2090.0,1200,25080.0,14400,10680.0,74.2,0.05,3,3
+2024-03-15,DIS001,SSD 1TB,Almacenamiento,Sucursal Guadalajara,Comprador Final,8,2500.0,1500,20000.0,12000,8000.0,66.7,0.0,4,3
+2024-03-15,SOF001,Office 365 1 año,Software,Sucursal Toluca,Mayorista JJ,2,1800.0,900,3600.0,1800,1800.0,100.0,0.0,4,3
+2024-03-15,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Puebla,Tienda 123,6,637.5,450,3825.0,2700,1125.0,41.7,0.15,4,3
+2024-03-15,RED002,Switch 8 puertos,Redes,Sucursal Guadalajara,Empresa Beta,19,990.0,600,18810.0,11400,7410.0,65.0,0.1,4,3
+2024-03-15,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Empresa Beta,9,6480.0,5500,58320.0,49500,8820.0,17.8,0.1,4,3
+2024-03-15,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Comprador Final,3,1190.0,800,3570.0,2400,1170.0,48.8,0.15,4,3
+2024-03-15,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Empresa XYZ,3,14250.0,12000,42750.0,36000,6750.0,18.8,0.05,4,3
+2024-03-16,MON001,Monitor 27 4K,Electrónica,Sucursal Toluca,Mayorista JJ,5,7200.0,5500,36000.0,27500,8500.0,30.9,0.0,5,3
+2024-03-16,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Comprador Final,6,1400.0,800,8400.0,4800,3600.0,75.0,0.0,5,3
+2024-03-16,AUD001,Audífonos Bluetooth,Audio,Sucursal Monterrey,Empresa Beta,7,1980.0,1200,13860.0,8400,5460.0,65.0,0.1,5,3
+2024-03-16,AUD002,Parlante Portátil,Audio,Sucursal Monterrey,Mayorista JJ,4,1350.0,800,5400.0,3200,2200.0,68.8,0.1,5,3
+2024-03-16,WEB001,Webcam HD,Cámaras,Sucursal Cancún,Venta Mostrador,9,1530.0,900,13770.0,8100,5670.0,70.0,0.1,5,3
+2024-03-16,RED001,Router WiFi 6,Redes,Sucursal Toluca,Tienda 123,3,1995.0,1200,5985.0,3600,2385.0,66.3,0.05,5,3
+2024-03-16,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Comercial MX,10,380.0,200,3800.0,2000,1800.0,90.0,0.05,5,3
+2024-03-16,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Comercial MX,3,475.0,250,1425.0,750,675.0,90.0,0.05,5,3
+2024-03-17,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Cliente Corp,3,400.0,200,1200.0,600,600.0,100.0,0.0,6,3
+2024-03-17,SOF002,Antivirus 3 equipos,Software,Sucursal Monterrey,Distribuidora ABC,12,800.0,400,9600.0,4800,4800.0,100.0,0.0,6,3
+2024-03-17,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Cliente Premium,6,7200.0,5500,43200.0,33000,10200.0,30.9,0.0,6,3
+2024-03-17,LAP001,Laptop Pro 15,Electrónica,Sucursal Toluca,Empresa Beta,5,15000.0,12000,75000.0,60000,15000.0,25.0,0.0,6,3
+2024-03-17,RED002,Switch 8 puertos,Redes,Sucursal Guadalajara,Venta Mostrador,5,1045.0,600,5225.0,3000,2225.0,74.2,0.05,6,3
+2024-03-18,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Tienda 123,6,6120.0,5500,36720.0,33000,3720.0,11.3,0.15,0,3
+2024-03-18,MON002,Monitor 24 HD,Electrónica,Sucursal Monterrey,Grupo Gamma,5,3400.0,2500,17000.0,12500,4500.0,36.0,0.0,0,3
+2024-03-18,WEB002,Cámara Seguridad,Cámaras,Sucursal Guadalajara,Comprador Final,4,3200.0,1800,12800.0,7200,5600.0,77.8,0.0,0,3
+2024-03-18,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Comercial MX,5,315.0,150,1575.0,750,825.0,110.0,0.1,0,3
+2024-03-18,RED002,Switch 8 puertos,Redes,Sucursal Guadalajara,Venta Mostrador,7,990.0,600,6930.0,4200,2730.0,65.0,0.1,0,3
+2024-03-18,MUE003,Lámpara LED,Muebles,Sucursal Cancún,Cliente Corp,13,600.0,300,7800.0,3900,3900.0,100.0,0.0,0,3
+2024-03-19,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Empresa Beta,9,1045.0,600,9405.0,5400,4005.0,74.2,0.05,1,3
+2024-03-19,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Empresa Beta,18,800.0,400,14400.0,7200,7200.0,100.0,0.0,1,3
+2024-03-19,SOF001,Office 365 1 año,Software,Sucursal Toluca,Distribuidora ABC,8,1800.0,900,14400.0,7200,7200.0,100.0,0.0,1,3
+2024-03-19,DIS002,HDD 4TB,Almacenamiento,Sucursal Querétaro,Empresa Beta,4,1710.0,1200,6840.0,4800,2040.0,42.5,0.1,1,3
+2024-03-19,MON001,Monitor 27 4K,Electrónica,Sucursal Querétaro,Venta Mostrador,14,6120.0,5500,85680.0,77000,8680.0,11.3,0.15,1,3
+2024-03-19,AUD002,Parlante Portátil,Audio,Sucursal Mérida,Mayorista JJ,9,1425.0,800,12825.0,7200,5625.0,78.1,0.05,1,3
+2024-03-19,AUD001,Audífonos Bluetooth,Audio,Sucursal Cancún,Comercial MX,3,2090.0,1200,6270.0,3600,2670.0,74.2,0.05,1,3
+2024-03-19,TEC001,Teclado Mecánico,Periféricos,Sucursal Guadalajara,Soluciones Inc,3,1260.0,800,3780.0,2400,1380.0,57.5,0.1,1,3
+2024-03-19,WEB002,Cámara Seguridad,Cámaras,Sucursal Tijuana,Cliente Corp,6,2880.0,1800,17280.0,10800,6480.0,60.0,0.1,1,3
+2024-03-20,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Cliente Premium,3,6500.0,3500,19500.0,10500,9000.0,85.7,0.0,2,3
+2024-03-20,PAP002,Tinta Impresora,Papelería,Sucursal Guadalajara,Tienda 123,14,500.0,250,7000.0,3500,3500.0,100.0,0.0,2,3
+2024-03-20,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Empresa XYZ,16,380.0,200,6080.0,3200,2880.0,90.0,0.05,2,3
+2024-03-20,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Grupo Gamma,9,720.0,400,6480.0,3600,2880.0,80.0,0.1,2,3
+2024-03-20,RED002,Switch 8 puertos,Redes,Sucursal Toluca,Distribuidora ABC,15,990.0,600,14850.0,9000,5850.0,65.0,0.1,2,3
+2024-03-20,DIS002,HDD 4TB,Almacenamiento,Sucursal Puebla,Comprador Final,5,1615.0,1200,8075.0,6000,2075.0,34.6,0.15,2,3
+2024-03-20,DIS001,SSD 1TB,Almacenamiento,Matriz CDMX,Soluciones Inc,10,2375.0,1500,23750.0,15000,8750.0,58.3,0.05,2,3
+2024-03-20,MON002,Monitor 24 HD,Electrónica,Sucursal Guadalajara,Soluciones Inc,6,2890.0,2500,17340.0,15000,2340.0,15.6,0.15,2,3
+2024-03-20,DIS003,USB 64GB,Almacenamiento,Sucursal Toluca,Venta Mostrador,7,350.0,150,2450.0,1050,1400.0,133.3,0.0,2,3
+2024-03-21,DIS002,HDD 4TB,Almacenamiento,Sucursal Cancún,Mayorista JJ,4,1900.0,1200,7600.0,4800,2800.0,58.3,0.0,3,3
+2024-03-21,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Monterrey,Comprador Final,9,400.0,200,3600.0,1800,1800.0,100.0,0.0,3,3
+2024-03-21,DIS003,USB 64GB,Almacenamiento,Sucursal Mérida,Comprador Final,5,315.0,150,1575.0,750,825.0,110.0,0.1,3,3
+2024-03-21,PAP002,Tinta Impresora,Papelería,Matriz CDMX,Venta Mostrador,13,475.0,250,6175.0,3250,2925.0,90.0,0.05,3,3
+2024-03-21,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Cliente Corp,4,3200.0,1800,12800.0,7200,5600.0,77.8,0.0,3,3
+2024-03-21,TEC001,Teclado Mecánico,Periféricos,Sucursal Cancún,Soluciones Inc,7,1330.0,800,9310.0,5600,3710.0,66.3,0.05,3,3
+2024-03-21,AUD001,Audífonos Bluetooth,Audio,Matriz CDMX,Empresa XYZ,11,2200.0,1200,24200.0,13200,11000.0,83.3,0.0,3,3
+2024-03-21,MON001,Monitor 27 4K,Electrónica,Sucursal Tijuana,Mayorista JJ,15,7200.0,5500,108000.0,82500,25500.0,30.9,0.0,3,3
+2024-03-21,LAP002,Laptop Air 13,Electrónica,Sucursal Cancún,Empresa Beta,11,11500.0,9000,126500.0,99000,27500.0,27.8,0.0,3,3
+2024-03-21,AUD003,Micrófono USB,Audio,Sucursal Tijuana,Empresa XYZ,6,2800.0,1500,16800.0,9000,7800.0,86.7,0.0,3,3
+2024-03-22,MUE002,Escritorio Eléctrico,Muebles,Sucursal Monterrey,Venta Mostrador,14,8500.0,4500,119000.0,63000,56000.0,88.9,0.0,4,3
+2024-03-22,RED001,Router WiFi 6,Redes,Sucursal Cancún,Empresa Beta,3,1890.0,1200,5670.0,3600,2070.0,57.5,0.1,4,3
+2024-03-22,DIS002,HDD 4TB,Almacenamiento,Sucursal Guadalajara,Tienda 123,10,1805.0,1200,18050.0,12000,6050.0,50.4,0.05,4,3
+2024-03-22,MUE001,Silla Ergonómica,Muebles,Sucursal Guadalajara,Cliente Corp,25,6500.0,3500,162500.0,87500,75000.0,85.7,0.0,4,3
+2024-03-22,WEB001,Webcam HD,Cámaras,Sucursal Querétaro,Distribuidora ABC,10,1700.0,900,17000.0,9000,8000.0,88.9,0.0,4,3
+2024-03-22,LAP002,Laptop Air 13,Electrónica,Matriz CDMX,Empresa XYZ,1,10925.0,9000,10925.0,9000,1925.0,21.4,0.05,4,3
+2024-03-22,WEB002,Cámara Seguridad,Cámaras,Sucursal Guadalajara,Distribuidora ABC,5,3200.0,1800,16000.0,9000,7000.0,77.8,0.0,4,3
+2024-03-23,MOU001,Mouse Ergonómico,Periféricos,Sucursal Monterrey,Soluciones Inc,7,650.0,350,4550.0,2450,2100.0,85.7,0.0,5,3
+2024-03-23,MOU002,Mouse Gamer,Periféricos,Sucursal Tijuana,Cliente Premium,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,5,3
+2024-03-23,AUD002,Parlante Portátil,Audio,Sucursal Querétaro,Empresa Beta,9,1500.0,800,13500.0,7200,6300.0,87.5,0.0,5,3
+2024-03-23,RED002,Switch 8 puertos,Redes,Sucursal Toluca,Cliente Premium,5,1045.0,600,5225.0,3000,2225.0,74.2,0.05,5,3
+2024-03-23,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Distribuidora ABC,3,340.0,200,1020.0,600,420.0,70.0,0.15,5,3
+2024-03-23,MUE002,Escritorio Eléctrico,Muebles,Sucursal Cancún,Soluciones Inc,5,8500.0,4500,42500.0,22500,20000.0,88.9,0.0,5,3
+2024-03-24,MUE003,Lámpara LED,Muebles,Sucursal Querétaro,Distribuidora ABC,14,600.0,300,8400.0,4200,4200.0,100.0,0.0,6,3
+2024-03-24,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Tienda 123,4,400.0,200,1600.0,800,800.0,100.0,0.0,6,3
+2024-03-24,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Venta Mostrador,4,6500.0,3500,26000.0,14000,12000.0,85.7,0.0,6,3
+2024-03-24,RED001,Router WiFi 6,Redes,Sucursal Mérida,Distribuidora ABC,3,1995.0,1200,5985.0,3600,2385.0,66.3,0.05,6,3
+2024-03-24,AUD003,Micrófono USB,Audio,Matriz CDMX,Distribuidora ABC,3,2800.0,1500,8400.0,4500,3900.0,86.7,0.0,6,3
+2024-03-24,RED002,Switch 8 puertos,Redes,Matriz CDMX,Empresa XYZ,10,990.0,600,9900.0,6000,3900.0,65.0,0.1,6,3
+2024-03-25,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Cliente Corp,1,15000.0,12000,15000.0,12000,3000.0,25.0,0.0,0,3
+2024-03-25,MON001,Monitor 27 4K,Electrónica,Sucursal Toluca,Empresa Beta,2,6840.0,5500,13680.0,11000,2680.0,24.4,0.05,0,3
+2024-03-25,WEB001,Webcam HD,Cámaras,Sucursal Puebla,Comprador Final,3,1700.0,900,5100.0,2700,2400.0,88.9,0.0,0,3
+2024-03-25,DIS003,USB 64GB,Almacenamiento,Sucursal Toluca,Soluciones Inc,9,350.0,150,3150.0,1350,1800.0,133.3,0.0,0,3
+2024-03-25,RED001,Router WiFi 6,Redes,Sucursal Cancún,Cliente Corp,8,2100.0,1200,16800.0,9600,7200.0,75.0,0.0,0,3
+2024-03-25,MUE001,Silla Ergonómica,Muebles,Sucursal Cancún,Comercial MX,8,6175.0,3500,49400.0,28000,21400.0,76.4,0.05,0,3
+2024-03-26,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Mayorista JJ,10,8500.0,4500,85000.0,45000,40000.0,88.9,0.0,1,3
+2024-03-26,PAP002,Tinta Impresora,Papelería,Sucursal Guadalajara,Soluciones Inc,17,450.0,250,7650.0,4250,3400.0,80.0,0.1,1,3
+2024-03-26,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Mérida,Tienda 123,5,380.0,200,1900.0,1000,900.0,90.0,0.05,1,3
+2024-03-26,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Mayorista JJ,4,720.0,400,2880.0,1600,1280.0,80.0,0.1,1,3
+2024-03-26,MOU001,Mouse Ergonómico,Periféricos,Sucursal Monterrey,Empresa XYZ,10,617.5,350,6175.0,3500,2675.0,76.4,0.05,1,3
+2024-03-26,WEB002,Cámara Seguridad,Cámaras,Sucursal Puebla,Soluciones Inc,9,3200.0,1800,28800.0,16200,12600.0,77.8,0.0,1,3
+2024-03-26,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Mérida,Grupo Gamma,14,712.5,450,9975.0,6300,3675.0,58.3,0.05,1,3
+2024-03-26,MON002,Monitor 24 HD,Electrónica,Sucursal Puebla,Comprador Final,21,3400.0,2500,71400.0,52500,18900.0,36.0,0.0,1,3
+2024-03-26,RED001,Router WiFi 6,Redes,Sucursal Cancún,Soluciones Inc,6,1890.0,1200,11340.0,7200,4140.0,57.5,0.1,1,3
+2024-03-27,SOF001,Office 365 1 año,Software,Sucursal Toluca,Empresa XYZ,13,1710.0,900,22230.0,11700,10530.0,90.0,0.05,2,3
+2024-03-27,PAP002,Tinta Impresora,Papelería,Sucursal Monterrey,Mayorista JJ,9,475.0,250,4275.0,2250,2025.0,90.0,0.05,2,3
+2024-03-27,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Comprador Final,8,400.0,200,3200.0,1600,1600.0,100.0,0.0,2,3
+2024-03-27,MUE003,Lámpara LED,Muebles,Matriz CDMX,Empresa XYZ,5,600.0,300,3000.0,1500,1500.0,100.0,0.0,2,3
+2024-03-27,SOF002,Antivirus 3 equipos,Software,Sucursal Tijuana,Comprador Final,9,680.0,400,6120.0,3600,2520.0,70.0,0.15,2,3
+2024-03-27,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Comprador Final,16,350.0,150,5600.0,2400,3200.0,133.3,0.0,2,3
+2024-03-27,MOU001,Mouse Ergonómico,Periféricos,Sucursal Toluca,Soluciones Inc,15,650.0,350,9750.0,5250,4500.0,85.7,0.0,2,3
+2024-03-27,WEB002,Cámara Seguridad,Cámaras,Sucursal Puebla,Empresa Beta,12,3200.0,1800,38400.0,21600,16800.0,77.8,0.0,2,3
+2024-03-27,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Empresa XYZ,12,1615.0,900,19380.0,10800,8580.0,79.4,0.05,2,3
+2024-03-27,MON002,Monitor 24 HD,Electrónica,Sucursal Puebla,Venta Mostrador,2,2890.0,2500,5780.0,5000,780.0,15.6,0.15,2,3
+2024-03-27,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Tienda 123,7,6480.0,5500,45360.0,38500,6860.0,17.8,0.1,2,3
+2024-03-27,DIS001,SSD 1TB,Almacenamiento,Sucursal Monterrey,Cliente Corp,8,2250.0,1500,18000.0,12000,6000.0,50.0,0.1,2,3
+2024-03-28,TEC001,Teclado Mecánico,Periféricos,Matriz CDMX,Soluciones Inc,17,1400.0,800,23800.0,13600,10200.0,75.0,0.0,3,3
+2024-03-28,AUD001,Audífonos Bluetooth,Audio,Sucursal Tijuana,Distribuidora ABC,23,2090.0,1200,48070.0,27600,20470.0,74.2,0.05,3,3
+2024-03-28,DIS002,HDD 4TB,Almacenamiento,Sucursal Cancún,Distribuidora ABC,6,1900.0,1200,11400.0,7200,4200.0,58.3,0.0,3,3
+2024-03-28,SOF002,Antivirus 3 equipos,Software,Sucursal Toluca,Venta Mostrador,19,760.0,400,14440.0,7600,6840.0,90.0,0.05,3,3
+2024-03-28,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Empresa Beta,13,340.0,200,4420.0,2600,1820.0,70.0,0.15,3,3
+2024-03-28,PAP002,Tinta Impresora,Papelería,Sucursal Monterrey,Comercial MX,14,450.0,250,6300.0,3500,2800.0,80.0,0.1,3,3
+2024-03-28,MUE001,Silla Ergonómica,Muebles,Sucursal Cancún,Grupo Gamma,6,6500.0,3500,39000.0,21000,18000.0,85.7,0.0,3,3
+2024-03-29,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Comercial MX,19,7650.0,4500,145350.0,85500,59850.0,70.0,0.1,4,3
+2024-03-29,SOF002,Antivirus 3 equipos,Software,Sucursal Cancún,Empresa XYZ,7,800.0,400,5600.0,2800,2800.0,100.0,0.0,4,3
+2024-03-29,WEB001,Webcam HD,Cámaras,Matriz CDMX,Comprador Final,17,1615.0,900,27455.0,15300,12155.0,79.4,0.05,4,3
+2024-03-29,RED002,Switch 8 puertos,Redes,Matriz CDMX,Tienda 123,6,1100.0,600,6600.0,3600,3000.0,83.3,0.0,4,3
+2024-03-29,MON002,Monitor 24 HD,Electrónica,Sucursal Querétaro,Comercial MX,9,3230.0,2500,29070.0,22500,6570.0,29.2,0.05,4,3
+2024-03-29,MON001,Monitor 27 4K,Electrónica,Sucursal Tijuana,Comprador Final,7,6840.0,5500,47880.0,38500,9380.0,24.4,0.05,4,3
+2024-03-29,LAP002,Laptop Air 13,Electrónica,Sucursal Monterrey,Tienda 123,3,9775.0,9000,29325.0,27000,2325.0,8.6,0.15,4,3
+2024-03-29,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Tienda 123,12,1500.0,800,18000.0,9600,8400.0,87.5,0.0,4,3
+2024-03-30,RED002,Switch 8 puertos,Redes,Sucursal Monterrey,Empresa Beta,19,1100.0,600,20900.0,11400,9500.0,83.3,0.0,5,3
+2024-03-30,RED001,Router WiFi 6,Redes,Sucursal Cancún,Empresa XYZ,4,1995.0,1200,7980.0,4800,3180.0,66.3,0.05,5,3
+2024-03-30,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Grupo Gamma,6,6175.0,3500,37050.0,21000,16050.0,76.4,0.05,5,3
+2024-03-30,MON002,Monitor 24 HD,Electrónica,Sucursal Guadalajara,Soluciones Inc,3,3400.0,2500,10200.0,7500,2700.0,36.0,0.0,5,3
+2024-03-30,LAP002,Laptop Air 13,Electrónica,Sucursal Puebla,Mayorista JJ,12,9200.0,9000,110400.0,108000,2400.0,2.2,0.2,5,3
+2024-03-30,AUD001,Audífonos Bluetooth,Audio,Matriz CDMX,Empresa XYZ,1,1980.0,1200,1980.0,1200,780.0,65.0,0.1,5,3
+2024-03-31,LAP001,Laptop Pro 15,Electrónica,Sucursal Toluca,Venta Mostrador,2,13500.0,12000,27000.0,24000,3000.0,12.5,0.1,6,3
+2024-03-31,AUD001,Audífonos Bluetooth,Audio,Sucursal Toluca,Soluciones Inc,13,2200.0,1200,28600.0,15600,13000.0,83.3,0.0,6,3
+2024-03-31,WEB002,Cámara Seguridad,Cámaras,Matriz CDMX,Empresa Beta,15,2720.0,1800,40800.0,27000,13800.0,51.1,0.15,6,3
+2024-03-31,DIS001,SSD 1TB,Almacenamiento,Sucursal Guadalajara,Cliente Premium,6,2375.0,1500,14250.0,9000,5250.0,58.3,0.05,6,3
+2024-03-31,RED001,Router WiFi 6,Redes,Sucursal Puebla,Mayorista JJ,13,2100.0,1200,27300.0,15600,11700.0,75.0,0.0,6,3
+2024-03-31,SOF001,Office 365 1 año,Software,Matriz CDMX,Cliente Premium,6,1800.0,900,10800.0,5400,5400.0,100.0,0.0,6,3
+2024-03-31,MUE003,Lámpara LED,Muebles,Sucursal Guadalajara,Venta Mostrador,10,570.0,300,5700.0,3000,2700.0,90.0,0.05,6,3
+2024-04-01,SOF001,Office 365 1 año,Software,Sucursal Guadalajara,Soluciones Inc,10,1800.0,900,18000.0,9000,9000.0,100.0,0.0,0,4
+2024-04-01,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Distribuidora ABC,9,760.0,400,6840.0,3600,3240.0,90.0,0.05,0,4
+2024-04-01,WEB001,Webcam HD,Cámaras,Sucursal Tijuana,Soluciones Inc,4,1700.0,900,6800.0,3600,3200.0,88.9,0.0,0,4
+2024-04-01,RED001,Router WiFi 6,Redes,Sucursal Querétaro,Cliente Premium,14,2100.0,1200,29400.0,16800,12600.0,75.0,0.0,0,4
+2024-04-01,TEC002,Teclado Inalámbrico,Periféricos,Matriz CDMX,Grupo Gamma,11,637.5,450,7012.5,4950,2062.5,41.7,0.15,0,4
+2024-04-01,MOU002,Mouse Gamer,Periféricos,Matriz CDMX,Grupo Gamma,5,1045.0,600,5225.0,3000,2225.0,74.2,0.05,0,4
+2024-04-01,LAP002,Laptop Air 13,Electrónica,Matriz CDMX,Venta Mostrador,6,10350.0,9000,62100.0,54000,8100.0,15.0,0.1,0,4
+2024-04-01,LAP001,Laptop Pro 15,Electrónica,Sucursal Tijuana,Grupo Gamma,3,12750.0,12000,38250.0,36000,2250.0,6.2,0.15,0,4
+2024-04-02,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Mayorista JJ,12,7650.0,4500,91800.0,54000,37800.0,70.0,0.1,1,4
+2024-04-02,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Cliente Premium,9,380.0,200,3420.0,1800,1620.0,90.0,0.05,1,4
+2024-04-02,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Grupo Gamma,13,760.0,400,9880.0,5200,4680.0,90.0,0.05,1,4
+2024-04-02,SOF001,Office 365 1 año,Software,Sucursal Guadalajara,Cliente Premium,3,1800.0,900,5400.0,2700,2700.0,100.0,0.0,1,4
+2024-04-02,RED002,Switch 8 puertos,Redes,Sucursal Tijuana,Comprador Final,9,990.0,600,8910.0,5400,3510.0,65.0,0.1,1,4
+2024-04-02,DIS002,HDD 4TB,Almacenamiento,Sucursal Querétaro,Empresa Beta,5,1900.0,1200,9500.0,6000,3500.0,58.3,0.0,1,4
+2024-04-02,WEB002,Cámara Seguridad,Cámaras,Sucursal Guadalajara,Empresa XYZ,2,2560.0,1800,5120.0,3600,1520.0,42.2,0.2,1,4
+2024-04-02,AUD003,Micrófono USB,Audio,Sucursal Toluca,Cliente Premium,3,2240.0,1500,6720.0,4500,2220.0,49.3,0.2,1,4
+2024-04-02,AUD002,Parlante Portátil,Audio,Sucursal Monterrey,Cliente Premium,19,1275.0,800,24225.0,15200,9025.0,59.4,0.15,1,4
+2024-04-02,AUD001,Audífonos Bluetooth,Audio,Sucursal Monterrey,Distribuidora ABC,6,1980.0,1200,11880.0,7200,4680.0,65.0,0.1,1,4
+2024-04-02,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Tijuana,Mayorista JJ,6,750.0,450,4500.0,2700,1800.0,66.7,0.0,1,4
+2024-04-02,MON001,Monitor 27 4K,Electrónica,Sucursal Puebla,Cliente Corp,7,7200.0,5500,50400.0,38500,11900.0,30.9,0.0,1,4
+2024-04-03,MUE002,Escritorio Eléctrico,Muebles,Sucursal Puebla,Empresa XYZ,7,8500.0,4500,59500.0,31500,28000.0,88.9,0.0,2,4
+2024-04-03,SOF002,Antivirus 3 equipos,Software,Sucursal Cancún,Mayorista JJ,3,760.0,400,2280.0,1200,1080.0,90.0,0.05,2,4
+2024-04-03,WEB001,Webcam HD,Cámaras,Sucursal Cancún,Cliente Premium,3,1615.0,900,4845.0,2700,2145.0,79.4,0.05,2,4
+2024-04-03,MOU002,Mouse Gamer,Periféricos,Sucursal Monterrey,Mayorista JJ,12,1045.0,600,12540.0,7200,5340.0,74.2,0.05,2,4
+2024-04-03,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Comprador Final,4,1400.0,800,5600.0,3200,2400.0,75.0,0.0,2,4
+2024-04-03,MON002,Monitor 24 HD,Electrónica,Sucursal Mérida,Distribuidora ABC,3,3230.0,2500,9690.0,7500,2190.0,29.2,0.05,2,4
+2024-04-04,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Empresa Beta,9,8500.0,4500,76500.0,40500,36000.0,88.9,0.0,3,4
+2024-04-04,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Empresa XYZ,8,380.0,200,3040.0,1600,1440.0,90.0,0.05,3,4
+2024-04-04,RED001,Router WiFi 6,Redes,Sucursal Cancún,Comercial MX,3,1995.0,1200,5985.0,3600,2385.0,66.3,0.05,3,4
+2024-04-04,MUE001,Silla Ergonómica,Muebles,Sucursal Guadalajara,Cliente Premium,4,5850.0,3500,23400.0,14000,9400.0,67.1,0.1,3,4
+2024-04-04,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Puebla,Empresa XYZ,9,750.0,450,6750.0,4050,2700.0,66.7,0.0,3,4
+2024-04-04,TEC001,Teclado Mecánico,Periféricos,Sucursal Mérida,Comercial MX,10,1400.0,800,14000.0,8000,6000.0,75.0,0.0,3,4
+2024-04-04,LAP002,Laptop Air 13,Electrónica,Sucursal Monterrey,Comprador Final,4,10350.0,9000,41400.0,36000,5400.0,15.0,0.1,3,4
+2024-04-04,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Distribuidora ABC,7,2880.0,1800,20160.0,12600,7560.0,60.0,0.1,3,4
+2024-04-05,MOU002,Mouse Gamer,Periféricos,Sucursal Toluca,Comercial MX,13,1045.0,600,13585.0,7800,5785.0,74.2,0.05,4,4
+2024-04-05,DIS003,USB 64GB,Almacenamiento,Sucursal Mérida,Tienda 123,11,297.5,150,3272.5,1650,1622.5,98.3,0.15,4,4
+2024-04-05,RED001,Router WiFi 6,Redes,Sucursal Guadalajara,Venta Mostrador,18,1680.0,1200,30240.0,21600,8640.0,40.0,0.2,4,4
+2024-04-05,PAP002,Tinta Impresora,Papelería,Sucursal Monterrey,Comprador Final,7,450.0,250,3150.0,1750,1400.0,80.0,0.1,4,4
+2024-04-05,MUE001,Silla Ergonómica,Muebles,Sucursal Tijuana,Mayorista JJ,12,5850.0,3500,70200.0,42000,28200.0,67.1,0.1,4,4
+2024-04-06,SOF002,Antivirus 3 equipos,Software,Sucursal Cancún,Empresa Beta,6,800.0,400,4800.0,2400,2400.0,100.0,0.0,5,4
+2024-04-06,MUE003,Lámpara LED,Muebles,Matriz CDMX,Grupo Gamma,6,600.0,300,3600.0,1800,1800.0,100.0,0.0,5,4
+2024-04-06,SOF001,Office 365 1 año,Software,Sucursal Querétaro,Venta Mostrador,2,1620.0,900,3240.0,1800,1440.0,80.0,0.1,5,4
+2024-04-06,AUD003,Micrófono USB,Audio,Sucursal Puebla,Grupo Gamma,4,2520.0,1500,10080.0,6000,4080.0,68.0,0.1,5,4
+2024-04-06,MOU001,Mouse Ergonómico,Periféricos,Sucursal Puebla,Empresa Beta,7,650.0,350,4550.0,2450,2100.0,85.7,0.0,5,4
+2024-04-06,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Grupo Gamma,5,1400.0,800,7000.0,4000,3000.0,75.0,0.0,5,4
+2024-04-06,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Empresa XYZ,14,15000.0,12000,210000.0,168000,42000.0,25.0,0.0,5,4
+2024-04-06,AUD002,Parlante Portátil,Audio,Sucursal Toluca,Cliente Corp,1,1350.0,800,1350.0,800,550.0,68.8,0.1,5,4
+2024-04-07,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Cliente Premium,2,5850.0,3500,11700.0,7000,4700.0,67.1,0.1,6,4
+2024-04-07,DIS003,USB 64GB,Almacenamiento,Matriz CDMX,Comprador Final,7,332.5,150,2327.5,1050,1277.5,121.7,0.05,6,4
+2024-04-07,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Tienda 123,2,2560.0,1800,5120.0,3600,1520.0,42.2,0.2,6,4
+2024-04-07,RED001,Router WiFi 6,Redes,Sucursal Monterrey,Cliente Corp,5,2100.0,1200,10500.0,6000,4500.0,75.0,0.0,6,4
+2024-04-07,TEC001,Teclado Mecánico,Periféricos,Sucursal Mérida,Mayorista JJ,5,1330.0,800,6650.0,4000,2650.0,66.3,0.05,6,4
+2024-04-07,LAP001,Laptop Pro 15,Electrónica,Sucursal Tijuana,Distribuidora ABC,4,14250.0,12000,57000.0,48000,9000.0,18.8,0.05,6,4
+2024-04-07,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Empresa Beta,4,2200.0,1200,8800.0,4800,4000.0,83.3,0.0,6,4
+2024-04-08,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Venta Mostrador,2,360.0,200,720.0,400,320.0,80.0,0.1,0,4
+2024-04-08,LAP002,Laptop Air 13,Electrónica,Sucursal Cancún,Cliente Premium,6,11500.0,9000,69000.0,54000,15000.0,27.8,0.0,0,4
+2024-04-08,AUD001,Audífonos Bluetooth,Audio,Sucursal Cancún,Tienda 123,10,2200.0,1200,22000.0,12000,10000.0,83.3,0.0,0,4
+2024-04-08,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Cliente Corp,6,3040.0,1800,18240.0,10800,7440.0,68.9,0.05,0,4
+2024-04-08,DIS001,SSD 1TB,Almacenamiento,Sucursal Tijuana,Venta Mostrador,19,2375.0,1500,45125.0,28500,16625.0,58.3,0.05,0,4
+2024-04-08,DIS002,HDD 4TB,Almacenamiento,Sucursal Toluca,Cliente Corp,8,1900.0,1200,15200.0,9600,5600.0,58.3,0.0,0,4
+2024-04-08,DIS003,USB 64GB,Almacenamiento,Matriz CDMX,Comprador Final,9,350.0,150,3150.0,1350,1800.0,133.3,0.0,0,4
+2024-04-08,MUE001,Silla Ergonómica,Muebles,Sucursal Tijuana,Grupo Gamma,20,5850.0,3500,117000.0,70000,47000.0,67.1,0.1,0,4
+2024-04-09,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Cliente Premium,9,1400.0,800,12600.0,7200,5400.0,75.0,0.0,1,4
+2024-04-09,MUE001,Silla Ergonómica,Muebles,Sucursal Puebla,Empresa XYZ,4,5850.0,3500,23400.0,14000,9400.0,67.1,0.1,1,4
+2024-04-09,PAP002,Tinta Impresora,Papelería,Sucursal Guadalajara,Mayorista JJ,19,500.0,250,9500.0,4750,4750.0,100.0,0.0,1,4
+2024-04-09,LAP002,Laptop Air 13,Electrónica,Sucursal Puebla,Empresa XYZ,5,10925.0,9000,54625.0,45000,9625.0,21.4,0.05,1,4
+2024-04-09,AUD003,Micrófono USB,Audio,Sucursal Toluca,Cliente Corp,3,2800.0,1500,8400.0,4500,3900.0,86.7,0.0,1,4
+2024-04-09,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Toluca,Comprador Final,5,320.0,200,1600.0,1000,600.0,60.0,0.2,1,4
+2024-04-10,MON001,Monitor 27 4K,Electrónica,Sucursal Tijuana,Tienda 123,4,7200.0,5500,28800.0,22000,6800.0,30.9,0.0,2,4
+2024-04-10,MOU002,Mouse Gamer,Periféricos,Sucursal Tijuana,Comprador Final,12,1100.0,600,13200.0,7200,6000.0,83.3,0.0,2,4
+2024-04-10,AUD001,Audífonos Bluetooth,Audio,Sucursal Mérida,Tienda 123,3,2200.0,1200,6600.0,3600,3000.0,83.3,0.0,2,4
+2024-04-10,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Grupo Gamma,15,1700.0,900,25500.0,13500,12000.0,88.9,0.0,2,4
+2024-04-10,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Empresa Beta,15,3040.0,1800,45600.0,27000,18600.0,68.9,0.05,2,4
+2024-04-10,DIS002,HDD 4TB,Almacenamiento,Sucursal Puebla,Comprador Final,7,1710.0,1200,11970.0,8400,3570.0,42.5,0.1,2,4
+2024-04-10,SOF002,Antivirus 3 equipos,Software,Sucursal Cancún,Comercial MX,14,800.0,400,11200.0,5600,5600.0,100.0,0.0,2,4
+2024-04-10,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Mayorista JJ,11,400.0,200,4400.0,2200,2200.0,100.0,0.0,2,4
+2024-04-11,RED002,Switch 8 puertos,Redes,Sucursal Monterrey,Soluciones Inc,14,990.0,600,13860.0,8400,5460.0,65.0,0.1,3,4
+2024-04-11,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Empresa Beta,12,10350.0,9000,124200.0,108000,16200.0,15.0,0.1,3,4
+2024-04-11,MOU001,Mouse Ergonómico,Periféricos,Sucursal Tijuana,Tienda 123,8,617.5,350,4940.0,2800,2140.0,76.4,0.05,3,4
+2024-04-11,WEB001,Webcam HD,Cámaras,Sucursal Guadalajara,Comercial MX,4,1530.0,900,6120.0,3600,2520.0,70.0,0.1,3,4
+2024-04-11,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Grupo Gamma,1,3200.0,1800,3200.0,1800,1400.0,77.8,0.0,3,4
+2024-04-11,MUE003,Lámpara LED,Muebles,Sucursal Mérida,Comprador Final,4,510.0,300,2040.0,1200,840.0,70.0,0.15,3,4
+2024-04-12,PAP002,Tinta Impresora,Papelería,Sucursal Mérida,Distribuidora ABC,4,500.0,250,2000.0,1000,1000.0,100.0,0.0,4,4
+2024-04-12,RED002,Switch 8 puertos,Redes,Sucursal Tijuana,Soluciones Inc,6,1100.0,600,6600.0,3600,3000.0,83.3,0.0,4,4
+2024-04-12,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Soluciones Inc,8,350.0,150,2800.0,1200,1600.0,133.3,0.0,4,4
+2024-04-12,AUD003,Micrófono USB,Audio,Sucursal Puebla,Comprador Final,4,2660.0,1500,10640.0,6000,4640.0,77.3,0.05,4,4
+2024-04-12,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Querétaro,Cliente Premium,7,750.0,450,5250.0,3150,2100.0,66.7,0.0,4,4
+2024-04-12,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Grupo Gamma,15,13500.0,12000,202500.0,180000,22500.0,12.5,0.1,4,4
+2024-04-13,MON002,Monitor 24 HD,Electrónica,Sucursal Toluca,Empresa Beta,9,3400.0,2500,30600.0,22500,8100.0,36.0,0.0,5,4
+2024-04-13,MOU002,Mouse Gamer,Periféricos,Sucursal Guadalajara,Cliente Corp,6,935.0,600,5610.0,3600,2010.0,55.8,0.15,5,4
+2024-04-13,AUD001,Audífonos Bluetooth,Audio,Sucursal Monterrey,Mayorista JJ,3,1870.0,1200,5610.0,3600,2010.0,55.8,0.15,5,4
+2024-04-13,AUD002,Parlante Portátil,Audio,Sucursal Querétaro,Empresa Beta,4,1425.0,800,5700.0,3200,2500.0,78.1,0.05,5,4
+2024-04-13,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Soluciones Inc,3,720.0,400,2160.0,1200,960.0,80.0,0.1,5,4
+2024-04-13,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Distribuidora ABC,10,8500.0,4500,85000.0,45000,40000.0,88.9,0.0,5,4
+2024-04-14,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Cliente Premium,5,400.0,200,2000.0,1000,1000.0,100.0,0.0,6,4
+2024-04-14,SOF001,Office 365 1 año,Software,Sucursal Monterrey,Cliente Premium,4,1620.0,900,6480.0,3600,2880.0,80.0,0.1,6,4
+2024-04-14,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Cliente Corp,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,6,4
+2024-04-14,RED001,Router WiFi 6,Redes,Sucursal Monterrey,Cliente Corp,4,1890.0,1200,7560.0,4800,2760.0,57.5,0.1,6,4
+2024-04-14,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Venta Mostrador,14,475.0,250,6650.0,3500,3150.0,90.0,0.05,6,4
+2024-04-14,AUD003,Micrófono USB,Audio,Sucursal Toluca,Cliente Premium,2,2800.0,1500,5600.0,3000,2600.0,86.7,0.0,6,4
+2024-04-14,MOU001,Mouse Ergonómico,Periféricos,Sucursal Cancún,Grupo Gamma,3,650.0,350,1950.0,1050,900.0,85.7,0.0,6,4
+2024-04-14,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Venta Mostrador,4,6175.0,3500,24700.0,14000,10700.0,76.4,0.05,6,4
+2024-04-14,DIS003,USB 64GB,Almacenamiento,Sucursal Mérida,Mayorista JJ,13,350.0,150,4550.0,1950,2600.0,133.3,0.0,6,4
+2024-04-14,MON002,Monitor 24 HD,Electrónica,Matriz CDMX,Tienda 123,4,3060.0,2500,12240.0,10000,2240.0,22.4,0.1,6,4
+2024-04-15,MUE003,Lámpara LED,Muebles,Sucursal Toluca,Comercial MX,3,570.0,300,1710.0,900,810.0,90.0,0.05,0,4
+2024-04-15,SOF001,Office 365 1 año,Software,Sucursal Puebla,Cliente Corp,5,1620.0,900,8100.0,4500,3600.0,80.0,0.1,0,4
+2024-04-15,MON001,Monitor 27 4K,Electrónica,Sucursal Toluca,Soluciones Inc,11,6840.0,5500,75240.0,60500,14740.0,24.4,0.05,0,4
+2024-04-15,AUD001,Audífonos Bluetooth,Audio,Sucursal Querétaro,Grupo Gamma,4,2200.0,1200,8800.0,4800,4000.0,83.3,0.0,0,4
+2024-04-16,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Empresa XYZ,6,13500.0,12000,81000.0,72000,9000.0,12.5,0.1,1,4
+2024-04-16,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Mérida,Comercial MX,10,750.0,450,7500.0,4500,3000.0,66.7,0.0,1,4
+2024-04-16,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Cliente Corp,7,2880.0,1800,20160.0,12600,7560.0,60.0,0.1,1,4
+2024-04-16,DIS003,USB 64GB,Almacenamiento,Matriz CDMX,Venta Mostrador,20,332.5,150,6650.0,3000,3650.0,121.7,0.05,1,4
+2024-04-16,RED002,Switch 8 puertos,Redes,Sucursal Puebla,Comercial MX,8,1045.0,600,8360.0,4800,3560.0,74.2,0.05,1,4
+2024-04-16,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Empresa Beta,9,800.0,400,7200.0,3600,3600.0,100.0,0.0,1,4
+2024-04-16,PAP002,Tinta Impresora,Papelería,Sucursal Puebla,Comprador Final,20,500.0,250,10000.0,5000,5000.0,100.0,0.0,1,4
+2024-04-17,RED002,Switch 8 puertos,Redes,Sucursal Mérida,Empresa Beta,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,2,4
+2024-04-17,PAP002,Tinta Impresora,Papelería,Sucursal Querétaro,Soluciones Inc,17,475.0,250,8075.0,4250,3825.0,90.0,0.05,2,4
+2024-04-17,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Tienda 123,5,760.0,400,3800.0,2000,1800.0,90.0,0.05,2,4
+2024-04-17,SOF001,Office 365 1 año,Software,Sucursal Toluca,Venta Mostrador,21,1620.0,900,34020.0,18900,15120.0,80.0,0.1,2,4
+2024-04-17,DIS002,HDD 4TB,Almacenamiento,Matriz CDMX,Empresa Beta,3,1520.0,1200,4560.0,3600,960.0,26.7,0.2,2,4
+2024-04-17,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Mayorista JJ,7,6500.0,3500,45500.0,24500,21000.0,85.7,0.0,2,4
+2024-04-17,AUD002,Parlante Portátil,Audio,Sucursal Monterrey,Cliente Corp,7,1425.0,800,9975.0,5600,4375.0,78.1,0.05,2,4
+2024-04-17,AUD001,Audífonos Bluetooth,Audio,Sucursal Cancún,Tienda 123,10,2090.0,1200,20900.0,12000,8900.0,74.2,0.05,2,4
+2024-04-17,MOU002,Mouse Gamer,Periféricos,Sucursal Toluca,Comprador Final,23,1100.0,600,25300.0,13800,11500.0,83.3,0.0,2,4
+2024-04-17,MON001,Monitor 27 4K,Electrónica,Sucursal Monterrey,Comercial MX,3,6840.0,5500,20520.0,16500,4020.0,24.4,0.05,2,4
+2024-04-17,DIS001,SSD 1TB,Almacenamiento,Sucursal Mérida,Soluciones Inc,5,2500.0,1500,12500.0,7500,5000.0,66.7,0.0,2,4
+2024-04-18,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Guadalajara,Empresa Beta,3,400.0,200,1200.0,600,600.0,100.0,0.0,3,4
+2024-04-18,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Tienda 123,8,760.0,400,6080.0,3200,2880.0,90.0,0.05,3,4
+2024-04-18,RED002,Switch 8 puertos,Redes,Sucursal Guadalajara,Distribuidora ABC,10,1045.0,600,10450.0,6000,4450.0,74.2,0.05,3,4
+2024-04-18,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Cliente Premium,5,15000.0,12000,75000.0,60000,15000.0,25.0,0.0,3,4
+2024-04-18,MON001,Monitor 27 4K,Electrónica,Sucursal Monterrey,Empresa XYZ,8,7200.0,5500,57600.0,44000,13600.0,30.9,0.0,3,4
+2024-04-18,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Mayorista JJ,4,11500.0,9000,46000.0,36000,10000.0,27.8,0.0,3,4
+2024-04-18,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Mérida,Empresa Beta,12,600.0,450,7200.0,5400,1800.0,33.3,0.2,3,4
+2024-04-19,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Grupo Gamma,16,1260.0,800,20160.0,12800,7360.0,57.5,0.1,4,4
+2024-04-19,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Guadalajara,Empresa Beta,4,750.0,450,3000.0,1800,1200.0,66.7,0.0,4,4
+2024-04-19,AUD002,Parlante Portátil,Audio,Sucursal Monterrey,Comercial MX,8,1350.0,800,10800.0,6400,4400.0,68.8,0.1,4,4
+2024-04-19,WEB001,Webcam HD,Cámaras,Sucursal Querétaro,Tienda 123,4,1615.0,900,6460.0,3600,2860.0,79.4,0.05,4,4
+2024-04-19,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Cliente Corp,8,2880.0,1800,23040.0,14400,8640.0,60.0,0.1,4,4
+2024-04-19,DIS001,SSD 1TB,Almacenamiento,Sucursal Cancún,Distribuidora ABC,2,2500.0,1500,5000.0,3000,2000.0,66.7,0.0,4,4
+2024-04-19,RED002,Switch 8 puertos,Redes,Sucursal Monterrey,Comercial MX,20,1100.0,600,22000.0,12000,10000.0,83.3,0.0,4,4
+2024-04-19,SOF002,Antivirus 3 equipos,Software,Sucursal Tijuana,Tienda 123,18,800.0,400,14400.0,7200,7200.0,100.0,0.0,4,4
+2024-04-19,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Mérida,Cliente Corp,6,400.0,200,2400.0,1200,1200.0,100.0,0.0,4,4
+2024-04-20,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Distribuidora ABC,4,8500.0,4500,34000.0,18000,16000.0,88.9,0.0,5,4
+2024-04-20,SOF001,Office 365 1 año,Software,Sucursal Tijuana,Cliente Corp,7,1530.0,900,10710.0,6300,4410.0,70.0,0.15,5,4
+2024-04-20,RED001,Router WiFi 6,Redes,Matriz CDMX,Empresa Beta,4,1995.0,1200,7980.0,4800,3180.0,66.3,0.05,5,4
+2024-04-20,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Cliente Corp,2,800.0,400,1600.0,800,800.0,100.0,0.0,5,4
+2024-04-20,WEB002,Cámara Seguridad,Cámaras,Sucursal Tijuana,Tienda 123,11,3040.0,1800,33440.0,19800,13640.0,68.9,0.05,5,4
+2024-04-20,LAP002,Laptop Air 13,Electrónica,Sucursal Cancún,Tienda 123,2,9200.0,9000,18400.0,18000,400.0,2.2,0.2,5,4
+2024-04-20,DIS002,HDD 4TB,Almacenamiento,Sucursal Puebla,Cliente Premium,1,1710.0,1200,1710.0,1200,510.0,42.5,0.1,5,4
+2024-04-21,MUE003,Lámpara LED,Muebles,Sucursal Toluca,Distribuidora ABC,9,600.0,300,5400.0,2700,2700.0,100.0,0.0,6,4
+2024-04-21,MUE001,Silla Ergonómica,Muebles,Sucursal Tijuana,Empresa Beta,12,5525.0,3500,66300.0,42000,24300.0,57.9,0.15,6,4
+2024-04-21,PAP002,Tinta Impresora,Papelería,Sucursal Mérida,Cliente Corp,3,425.0,250,1275.0,750,525.0,70.0,0.15,6,4
+2024-04-21,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Soluciones Inc,5,340.0,200,1700.0,1000,700.0,70.0,0.15,6,4
+2024-04-21,WEB002,Cámara Seguridad,Cámaras,Sucursal Querétaro,Venta Mostrador,5,3040.0,1800,15200.0,9000,6200.0,68.9,0.05,6,4
+2024-04-21,DIS002,HDD 4TB,Almacenamiento,Matriz CDMX,Empresa Beta,9,1805.0,1200,16245.0,10800,5445.0,50.4,0.05,6,4
+2024-04-21,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Querétaro,Cliente Premium,4,750.0,450,3000.0,1800,1200.0,66.7,0.0,6,4
+2024-04-21,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Comercial MX,12,1330.0,800,15960.0,9600,6360.0,66.3,0.05,6,4
+2024-04-21,MON001,Monitor 27 4K,Electrónica,Matriz CDMX,Tienda 123,8,6480.0,5500,51840.0,44000,7840.0,17.8,0.1,6,4
+2024-04-21,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Tienda 123,2,15000.0,12000,30000.0,24000,6000.0,25.0,0.0,6,4
+2024-04-21,AUD001,Audífonos Bluetooth,Audio,Matriz CDMX,Distribuidora ABC,2,1760.0,1200,3520.0,2400,1120.0,46.7,0.2,6,4
+2024-04-22,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Comprador Final,5,400.0,200,2000.0,1000,1000.0,100.0,0.0,0,4
+2024-04-22,MON001,Monitor 27 4K,Electrónica,Matriz CDMX,Comprador Final,3,6480.0,5500,19440.0,16500,2940.0,17.8,0.1,0,4
+2024-04-22,MOU001,Mouse Ergonómico,Periféricos,Sucursal Mérida,Venta Mostrador,24,585.0,350,14040.0,8400,5640.0,67.1,0.1,0,4
+2024-04-22,WEB002,Cámara Seguridad,Cámaras,Matriz CDMX,Cliente Corp,5,3040.0,1800,15200.0,9000,6200.0,68.9,0.05,0,4
+2024-04-22,SOF002,Antivirus 3 equipos,Software,Sucursal Tijuana,Comercial MX,5,800.0,400,4000.0,2000,2000.0,100.0,0.0,0,4
+2024-04-22,MUE002,Escritorio Eléctrico,Muebles,Sucursal Querétaro,Comercial MX,6,7225.0,4500,43350.0,27000,16350.0,60.6,0.15,0,4
+2024-04-23,PAP002,Tinta Impresora,Papelería,Sucursal Monterrey,Cliente Corp,11,500.0,250,5500.0,2750,2750.0,100.0,0.0,1,4
+2024-04-23,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Tienda 123,13,400.0,200,5200.0,2600,2600.0,100.0,0.0,1,4
+2024-04-23,MUE002,Escritorio Eléctrico,Muebles,Sucursal Puebla,Cliente Premium,13,7225.0,4500,93925.0,58500,35425.0,60.6,0.15,1,4
+2024-04-23,TEC002,Teclado Inalámbrico,Periféricos,Matriz CDMX,Soluciones Inc,8,637.5,450,5100.0,3600,1500.0,41.7,0.15,1,4
+2024-04-23,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Venta Mostrador,5,2880.0,1800,14400.0,9000,5400.0,60.0,0.1,1,4
+2024-04-23,LAP001,Laptop Pro 15,Electrónica,Sucursal Querétaro,Soluciones Inc,11,14250.0,12000,156750.0,132000,24750.0,18.8,0.05,1,4
+2024-04-24,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Tienda 123,6,15000.0,12000,90000.0,72000,18000.0,25.0,0.0,2,4
+2024-04-24,MON001,Monitor 27 4K,Electrónica,Sucursal Puebla,Comercial MX,13,6480.0,5500,84240.0,71500,12740.0,17.8,0.1,2,4
+2024-04-24,TEC001,Teclado Mecánico,Periféricos,Sucursal Querétaro,Cliente Corp,8,1400.0,800,11200.0,6400,4800.0,75.0,0.0,2,4
+2024-04-24,MOU001,Mouse Ergonómico,Periféricos,Sucursal Toluca,Cliente Premium,3,585.0,350,1755.0,1050,705.0,67.1,0.1,2,4
+2024-04-24,MOU002,Mouse Gamer,Periféricos,Sucursal Tijuana,Cliente Premium,9,1100.0,600,9900.0,5400,4500.0,83.3,0.0,2,4
+2024-04-24,MUE003,Lámpara LED,Muebles,Sucursal Puebla,Cliente Corp,3,570.0,300,1710.0,900,810.0,90.0,0.05,2,4
+2024-04-25,SOF001,Office 365 1 año,Software,Sucursal Guadalajara,Empresa XYZ,13,1710.0,900,22230.0,11700,10530.0,90.0,0.05,3,4
+2024-04-25,MUE002,Escritorio Eléctrico,Muebles,Sucursal Monterrey,Empresa Beta,9,8500.0,4500,76500.0,40500,36000.0,88.9,0.0,3,4
+2024-04-25,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Cliente Premium,13,1530.0,900,19890.0,11700,8190.0,70.0,0.1,3,4
+2024-04-25,DIS003,USB 64GB,Almacenamiento,Sucursal Guadalajara,Empresa Beta,4,350.0,150,1400.0,600,800.0,133.3,0.0,3,4
+2024-04-26,TEC001,Teclado Mecánico,Periféricos,Sucursal Cancún,Venta Mostrador,14,1400.0,800,19600.0,11200,8400.0,75.0,0.0,4,4
+2024-04-26,MOU001,Mouse Ergonómico,Periféricos,Sucursal Mérida,Empresa Beta,11,650.0,350,7150.0,3850,3300.0,85.7,0.0,4,4
+2024-04-26,SOF001,Office 365 1 año,Software,Sucursal Monterrey,Cliente Premium,3,1800.0,900,5400.0,2700,2700.0,100.0,0.0,4,4
+2024-04-26,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Soluciones Inc,4,400.0,200,1600.0,800,800.0,100.0,0.0,4,4
+2024-04-26,PAP002,Tinta Impresora,Papelería,Sucursal Mérida,Mayorista JJ,4,450.0,250,1800.0,1000,800.0,80.0,0.1,4,4
+2024-04-26,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Comprador Final,5,5850.0,3500,29250.0,17500,11750.0,67.1,0.1,4,4
+2024-04-27,RED001,Router WiFi 6,Redes,Sucursal Puebla,Comercial MX,10,1785.0,1200,17850.0,12000,5850.0,48.8,0.15,5,4
+2024-04-27,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Cliente Corp,4,8075.0,4500,32300.0,18000,14300.0,79.4,0.05,5,4
+2024-04-27,MUE001,Silla Ergonómica,Muebles,Sucursal Guadalajara,Empresa Beta,7,6500.0,3500,45500.0,24500,21000.0,85.7,0.0,5,4
+2024-04-27,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Venta Mostrador,10,990.0,600,9900.0,6000,3900.0,65.0,0.1,5,4
+2024-04-27,DIS003,USB 64GB,Almacenamiento,Sucursal Cancún,Soluciones Inc,3,350.0,150,1050.0,450,600.0,133.3,0.0,5,4
+2024-04-27,MOU002,Mouse Gamer,Periféricos,Sucursal Mérida,Empresa Beta,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,5,4
+2024-04-27,DIS001,SSD 1TB,Almacenamiento,Sucursal Querétaro,Mayorista JJ,1,2500.0,1500,2500.0,1500,1000.0,66.7,0.0,5,4
+2024-04-27,AUD003,Micrófono USB,Audio,Sucursal Querétaro,Cliente Premium,2,2520.0,1500,5040.0,3000,2040.0,68.0,0.1,5,4
+2024-04-27,MOU001,Mouse Ergonómico,Periféricos,Sucursal Toluca,Comercial MX,15,585.0,350,8775.0,5250,3525.0,67.1,0.1,5,4
+2024-04-27,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Venta Mostrador,7,1710.0,1200,11970.0,8400,3570.0,42.5,0.1,5,4
+2024-04-28,MON002,Monitor 24 HD,Electrónica,Matriz CDMX,Cliente Corp,4,3230.0,2500,12920.0,10000,2920.0,29.2,0.05,6,4
+2024-04-28,WEB001,Webcam HD,Cámaras,Sucursal Tijuana,Cliente Corp,11,1615.0,900,17765.0,9900,7865.0,79.4,0.05,6,4
+2024-04-28,WEB002,Cámara Seguridad,Cámaras,Sucursal Puebla,Empresa XYZ,2,3200.0,1800,6400.0,3600,2800.0,77.8,0.0,6,4
+2024-04-28,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Distribuidora ABC,11,332.5,150,3657.5,1650,2007.5,121.7,0.05,6,4
+2024-04-28,RED002,Switch 8 puertos,Redes,Matriz CDMX,Comercial MX,7,1045.0,600,7315.0,4200,3115.0,74.2,0.05,6,4
+2024-04-28,SOF002,Antivirus 3 equipos,Software,Sucursal Tijuana,Venta Mostrador,14,680.0,400,9520.0,5600,3920.0,70.0,0.15,6,4
+2024-04-28,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Cliente Corp,10,475.0,250,4750.0,2500,2250.0,90.0,0.05,6,4
+2024-04-29,SOF002,Antivirus 3 equipos,Software,Sucursal Puebla,Mayorista JJ,6,760.0,400,4560.0,2400,2160.0,90.0,0.05,0,4
+2024-04-29,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Puebla,Comercial MX,15,400.0,200,6000.0,3000,3000.0,100.0,0.0,0,4
+2024-04-29,SOF001,Office 365 1 año,Software,Sucursal Querétaro,Tienda 123,6,1800.0,900,10800.0,5400,5400.0,100.0,0.0,0,4
+2024-04-29,MUE002,Escritorio Eléctrico,Muebles,Sucursal Cancún,Mayorista JJ,5,7650.0,4500,38250.0,22500,15750.0,70.0,0.1,0,4
+2024-04-29,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Soluciones Inc,4,1700.0,900,6800.0,3600,3200.0,88.9,0.0,0,4
+2024-04-29,AUD003,Micrófono USB,Audio,Sucursal Tijuana,Empresa XYZ,9,2800.0,1500,25200.0,13500,11700.0,86.7,0.0,0,4
+2024-04-29,DIS001,SSD 1TB,Almacenamiento,Sucursal Guadalajara,Cliente Corp,8,2500.0,1500,20000.0,12000,8000.0,66.7,0.0,0,4
+2024-04-30,MUE003,Lámpara LED,Muebles,Sucursal Guadalajara,Venta Mostrador,9,570.0,300,5130.0,2700,2430.0,90.0,0.05,1,4
+2024-04-30,SOF002,Antivirus 3 equipos,Software,Sucursal Guadalajara,Comprador Final,6,800.0,400,4800.0,2400,2400.0,100.0,0.0,1,4
+2024-04-30,MUE001,Silla Ergonómica,Muebles,Sucursal Toluca,Grupo Gamma,8,6500.0,3500,52000.0,28000,24000.0,85.7,0.0,1,4
+2024-04-30,PAP002,Tinta Impresora,Papelería,Sucursal Querétaro,Mayorista JJ,8,425.0,250,3400.0,2000,1400.0,70.0,0.15,1,4
+2024-04-30,RED001,Router WiFi 6,Redes,Sucursal Querétaro,Cliente Corp,7,1995.0,1200,13965.0,8400,5565.0,66.3,0.05,1,4
+2024-04-30,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Soluciones Inc,3,14250.0,12000,42750.0,36000,6750.0,18.8,0.05,1,4
+2024-04-30,DIS001,SSD 1TB,Almacenamiento,Sucursal Monterrey,Cliente Premium,13,2375.0,1500,30875.0,19500,11375.0,58.3,0.05,1,4
+2024-04-30,MON001,Monitor 27 4K,Electrónica,Sucursal Guadalajara,Mayorista JJ,5,6480.0,5500,32400.0,27500,4900.0,17.8,0.1,1,4
+2024-04-30,DIS003,USB 64GB,Almacenamiento,Sucursal Monterrey,Comercial MX,8,280.0,150,2240.0,1200,1040.0,86.7,0.2,1,4
+2024-04-30,AUD003,Micrófono USB,Audio,Sucursal Guadalajara,Comercial MX,15,2660.0,1500,39900.0,22500,17400.0,77.3,0.05,1,4
+2024-04-30,AUD002,Parlante Portátil,Audio,Matriz CDMX,Empresa Beta,3,1500.0,800,4500.0,2400,2100.0,87.5,0.0,1,4
+2024-05-01,MON001,Monitor 27 4K,Electrónica,Sucursal Tijuana,Grupo Gamma,11,6840.0,5500,75240.0,60500,14740.0,24.4,0.05,2,5
+2024-05-01,AUD003,Micrófono USB,Audio,Sucursal Monterrey,Soluciones Inc,10,2800.0,1500,28000.0,15000,13000.0,86.7,0.0,2,5
+2024-05-01,DIS001,SSD 1TB,Almacenamiento,Sucursal Mérida,Cliente Premium,8,2500.0,1500,20000.0,12000,8000.0,66.7,0.0,2,5
+2024-05-01,SOF001,Office 365 1 año,Software,Sucursal Mérida,Mayorista JJ,25,1800.0,900,45000.0,22500,22500.0,100.0,0.0,2,5
+2024-05-01,PAP002,Tinta Impresora,Papelería,Sucursal Mérida,Cliente Premium,3,475.0,250,1425.0,750,675.0,90.0,0.05,2,5
+2024-05-01,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Cliente Premium,9,6500.0,3500,58500.0,31500,27000.0,85.7,0.0,2,5
+2024-05-01,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Cliente Premium,13,8075.0,4500,104975.0,58500,46475.0,79.4,0.05,2,5
+2024-05-01,RED002,Switch 8 puertos,Redes,Sucursal Cancún,Comprador Final,7,1045.0,600,7315.0,4200,3115.0,74.2,0.05,2,5
+2024-05-02,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Monterrey,Soluciones Inc,3,340.0,200,1020.0,600,420.0,70.0,0.15,3,5
+2024-05-02,DIS003,USB 64GB,Almacenamiento,Sucursal Puebla,Venta Mostrador,6,350.0,150,2100.0,900,1200.0,133.3,0.0,3,5
+2024-05-02,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Venta Mostrador,11,800.0,400,8800.0,4400,4400.0,100.0,0.0,3,5
+2024-05-02,SOF001,Office 365 1 año,Software,Sucursal Guadalajara,Empresa Beta,4,1800.0,900,7200.0,3600,3600.0,100.0,0.0,3,5
+2024-05-02,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Venta Mostrador,7,1900.0,1200,13300.0,8400,4900.0,58.3,0.0,3,5
+2024-05-02,AUD002,Parlante Portátil,Audio,Sucursal Tijuana,Grupo Gamma,4,1500.0,800,6000.0,3200,2800.0,87.5,0.0,3,5
+2024-05-02,AUD001,Audífonos Bluetooth,Audio,Sucursal Querétaro,Empresa Beta,8,2200.0,1200,17600.0,9600,8000.0,83.3,0.0,3,5
+2024-05-02,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Mayorista JJ,14,13500.0,12000,189000.0,168000,21000.0,12.5,0.1,3,5
+2024-05-02,AUD003,Micrófono USB,Audio,Sucursal Querétaro,Comercial MX,6,2800.0,1500,16800.0,9000,7800.0,86.7,0.0,3,5
+2024-05-03,LAP001,Laptop Pro 15,Electrónica,Sucursal Tijuana,Soluciones Inc,4,15000.0,12000,60000.0,48000,12000.0,25.0,0.0,4,5
+2024-05-03,MON002,Monitor 24 HD,Electrónica,Sucursal Monterrey,Comprador Final,12,3400.0,2500,40800.0,30000,10800.0,36.0,0.0,4,5
+2024-05-03,MOU002,Mouse Gamer,Periféricos,Sucursal Guadalajara,Comprador Final,7,1045.0,600,7315.0,4200,3115.0,74.2,0.05,4,5
+2024-05-03,MUE003,Lámpara LED,Muebles,Sucursal Querétaro,Tienda 123,3,600.0,300,1800.0,900,900.0,100.0,0.0,4,5
+2024-05-04,PAP002,Tinta Impresora,Papelería,Sucursal Guadalajara,Comprador Final,5,425.0,250,2125.0,1250,875.0,70.0,0.15,5,5
+2024-05-04,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Cliente Premium,6,680.0,400,4080.0,2400,1680.0,70.0,0.15,5,5
+2024-05-04,SOF001,Office 365 1 año,Software,Sucursal Cancún,Soluciones Inc,14,1800.0,900,25200.0,12600,12600.0,100.0,0.0,5,5
+2024-05-04,WEB001,Webcam HD,Cámaras,Matriz CDMX,Comercial MX,4,1700.0,900,6800.0,3600,3200.0,88.9,0.0,5,5
+2024-05-04,LAP002,Laptop Air 13,Electrónica,Sucursal Querétaro,Empresa Beta,8,10350.0,9000,82800.0,72000,10800.0,15.0,0.1,5,5
+2024-05-04,MOU002,Mouse Gamer,Periféricos,Sucursal Mérida,Cliente Premium,5,1100.0,600,5500.0,3000,2500.0,83.3,0.0,5,5
+2024-05-04,MON002,Monitor 24 HD,Electrónica,Sucursal Cancún,Tienda 123,10,3400.0,2500,34000.0,25000,9000.0,36.0,0.0,5,5
+2024-05-04,AUD003,Micrófono USB,Audio,Matriz CDMX,Distribuidora ABC,1,2800.0,1500,2800.0,1500,1300.0,86.7,0.0,5,5
+2024-05-05,AUD002,Parlante Portátil,Audio,Sucursal Monterrey,Cliente Corp,2,1500.0,800,3000.0,1600,1400.0,87.5,0.0,6,5
+2024-05-05,DIS003,USB 64GB,Almacenamiento,Sucursal Guadalajara,Cliente Corp,11,315.0,150,3465.0,1650,1815.0,110.0,0.1,6,5
+2024-05-05,AUD001,Audífonos Bluetooth,Audio,Sucursal Guadalajara,Empresa XYZ,2,2200.0,1200,4400.0,2400,2000.0,83.3,0.0,6,5
+2024-05-05,LAP001,Laptop Pro 15,Electrónica,Sucursal Puebla,Grupo Gamma,4,13500.0,12000,54000.0,48000,6000.0,12.5,0.1,6,5
+2024-05-05,TEC001,Teclado Mecánico,Periféricos,Sucursal Puebla,Soluciones Inc,11,1260.0,800,13860.0,8800,5060.0,57.5,0.1,6,5
+2024-05-06,MOU002,Mouse Gamer,Periféricos,Sucursal Puebla,Cliente Corp,7,1100.0,600,7700.0,4200,3500.0,83.3,0.0,0,5
+2024-05-06,AUD002,Parlante Portátil,Audio,Sucursal Cancún,Grupo Gamma,7,1500.0,800,10500.0,5600,4900.0,87.5,0.0,0,5
+2024-05-06,WEB002,Cámara Seguridad,Cámaras,Sucursal Toluca,Venta Mostrador,12,3200.0,1800,38400.0,21600,16800.0,77.8,0.0,0,5
+2024-05-06,DIS002,HDD 4TB,Almacenamiento,Matriz CDMX,Soluciones Inc,5,1900.0,1200,9500.0,6000,3500.0,58.3,0.0,0,5
+2024-05-06,SOF002,Antivirus 3 equipos,Software,Sucursal Cancún,Comercial MX,8,800.0,400,6400.0,3200,3200.0,100.0,0.0,0,5
+2024-05-06,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Distribuidora ABC,3,400.0,200,1200.0,600,600.0,100.0,0.0,0,5
+2024-05-07,DIS001,SSD 1TB,Almacenamiento,Sucursal Guadalajara,Cliente Premium,5,2375.0,1500,11875.0,7500,4375.0,58.3,0.05,1,5
+2024-05-07,WEB001,Webcam HD,Cámaras,Sucursal Tijuana,Cliente Premium,11,1700.0,900,18700.0,9900,8800.0,88.9,0.0,1,5
+2024-05-07,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Empresa Beta,16,6500.0,3500,104000.0,56000,48000.0,85.7,0.0,1,5
+2024-05-07,LAP002,Laptop Air 13,Electrónica,Sucursal Mérida,Comprador Final,10,10925.0,9000,109250.0,90000,19250.0,21.4,0.05,1,5
+2024-05-07,AUD002,Parlante Portátil,Audio,Sucursal Querétaro,Empresa Beta,3,1500.0,800,4500.0,2400,2100.0,87.5,0.0,1,5
+2024-05-08,LAP002,Laptop Air 13,Electrónica,Sucursal Toluca,Grupo Gamma,2,10350.0,9000,20700.0,18000,2700.0,15.0,0.1,2,5
+2024-05-08,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Toluca,Empresa Beta,8,712.5,450,5700.0,3600,2100.0,58.3,0.05,2,5
+2024-05-08,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Distribuidora ABC,23,2200.0,1200,50600.0,27600,23000.0,83.3,0.0,2,5
+2024-05-08,AUD002,Parlante Portátil,Audio,Sucursal Mérida,Venta Mostrador,5,1425.0,800,7125.0,4000,3125.0,78.1,0.05,2,5
+2024-05-08,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Comprador Final,11,3200.0,1800,35200.0,19800,15400.0,77.8,0.0,2,5
+2024-05-08,DIS003,USB 64GB,Almacenamiento,Sucursal Tijuana,Comercial MX,5,350.0,150,1750.0,750,1000.0,133.3,0.0,2,5
+2024-05-08,RED001,Router WiFi 6,Redes,Sucursal Toluca,Comprador Final,17,1995.0,1200,33915.0,20400,13515.0,66.3,0.05,2,5
+2024-05-08,SOF001,Office 365 1 año,Software,Sucursal Cancún,Distribuidora ABC,19,1800.0,900,34200.0,17100,17100.0,100.0,0.0,2,5
+2024-05-08,SOF002,Antivirus 3 equipos,Software,Sucursal Monterrey,Venta Mostrador,10,800.0,400,8000.0,4000,4000.0,100.0,0.0,2,5
+2024-05-09,RED002,Switch 8 puertos,Redes,Sucursal Puebla,Mayorista JJ,9,1100.0,600,9900.0,5400,4500.0,83.3,0.0,3,5
+2024-05-09,SOF001,Office 365 1 año,Software,Sucursal Monterrey,Grupo Gamma,16,1800.0,900,28800.0,14400,14400.0,100.0,0.0,3,5
+2024-05-09,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Tienda 123,15,332.5,150,4987.5,2250,2737.5,121.7,0.05,3,5
+2024-05-09,MON001,Monitor 27 4K,Electrónica,Sucursal Guadalajara,Grupo Gamma,4,7200.0,5500,28800.0,22000,6800.0,30.9,0.0,3,5
+2024-05-09,AUD003,Micrófono USB,Audio,Sucursal Querétaro,Comercial MX,11,2660.0,1500,29260.0,16500,12760.0,77.3,0.05,3,5
+2024-05-09,MON002,Monitor 24 HD,Electrónica,Sucursal Puebla,Cliente Corp,9,3230.0,2500,29070.0,22500,6570.0,29.2,0.05,3,5
+2024-05-09,WEB002,Cámara Seguridad,Cámaras,Sucursal Tijuana,Empresa Beta,3,3200.0,1800,9600.0,5400,4200.0,77.8,0.0,3,5
+2024-05-10,MUE002,Escritorio Eléctrico,Muebles,Sucursal Cancún,Comprador Final,16,8075.0,4500,129200.0,72000,57200.0,79.4,0.05,4,5
+2024-05-10,RED001,Router WiFi 6,Redes,Sucursal Monterrey,Cliente Premium,16,2100.0,1200,33600.0,19200,14400.0,75.0,0.0,4,5
+2024-05-10,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Comercial MX,12,1805.0,1200,21660.0,14400,7260.0,50.4,0.05,4,5
+2024-05-10,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Comercial MX,6,760.0,400,4560.0,2400,2160.0,90.0,0.05,4,5
+2024-05-10,MOU002,Mouse Gamer,Periféricos,Sucursal Toluca,Comercial MX,9,1045.0,600,9405.0,5400,4005.0,74.2,0.05,4,5
+2024-05-10,MOU001,Mouse Ergonómico,Periféricos,Matriz CDMX,Cliente Premium,3,650.0,350,1950.0,1050,900.0,85.7,0.0,4,5
+2024-05-10,LAP001,Laptop Pro 15,Electrónica,Matriz CDMX,Distribuidora ABC,13,14250.0,12000,185250.0,156000,29250.0,18.8,0.05,4,5
+2024-05-10,DIS001,SSD 1TB,Almacenamiento,Sucursal Cancún,Grupo Gamma,9,2250.0,1500,20250.0,13500,6750.0,50.0,0.1,4,5
+2024-05-11,LAP002,Laptop Air 13,Electrónica,Sucursal Mérida,Mayorista JJ,11,11500.0,9000,126500.0,99000,27500.0,27.8,0.0,5,5
+2024-05-11,WEB001,Webcam HD,Cámaras,Sucursal Querétaro,Comercial MX,1,1700.0,900,1700.0,900,800.0,88.9,0.0,5,5
+2024-05-11,RED002,Switch 8 puertos,Redes,Sucursal Puebla,Soluciones Inc,12,1100.0,600,13200.0,7200,6000.0,83.3,0.0,5,5
+2024-05-11,SOF002,Antivirus 3 equipos,Software,Sucursal Cancún,Empresa Beta,11,800.0,400,8800.0,4400,4400.0,100.0,0.0,5,5
+2024-05-11,MUE003,Lámpara LED,Muebles,Sucursal Monterrey,Empresa XYZ,3,570.0,300,1710.0,900,810.0,90.0,0.05,5,5
+2024-05-12,SOF001,Office 365 1 año,Software,Sucursal Monterrey,Venta Mostrador,1,1800.0,900,1800.0,900,900.0,100.0,0.0,6,5
+2024-05-12,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Mayorista JJ,6,380.0,200,2280.0,1200,1080.0,90.0,0.05,6,5
+2024-05-12,DIS003,USB 64GB,Almacenamiento,Sucursal Mérida,Mayorista JJ,10,332.5,150,3325.0,1500,1825.0,121.7,0.05,6,5
+2024-05-12,MON001,Monitor 27 4K,Electrónica,Sucursal Monterrey,Mayorista JJ,11,6480.0,5500,71280.0,60500,10780.0,17.8,0.1,6,5
+2024-05-12,MOU002,Mouse Gamer,Periféricos,Sucursal Mérida,Mayorista JJ,13,1100.0,600,14300.0,7800,6500.0,83.3,0.0,6,5
+2024-05-12,MOU001,Mouse Ergonómico,Periféricos,Sucursal Querétaro,Distribuidora ABC,5,650.0,350,3250.0,1750,1500.0,85.7,0.0,6,5
+2024-05-12,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Comprador Final,11,1700.0,900,18700.0,9900,8800.0,88.9,0.0,6,5
+2024-05-13,MON002,Monitor 24 HD,Electrónica,Sucursal Guadalajara,Comprador Final,9,3400.0,2500,30600.0,22500,8100.0,36.0,0.0,0,5
+2024-05-13,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Comercial MX,10,1190.0,800,11900.0,8000,3900.0,48.8,0.15,0,5
+2024-05-13,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Querétaro,Cliente Corp,9,712.5,450,6412.5,4050,2362.5,58.3,0.05,0,5
+2024-05-13,MOU001,Mouse Ergonómico,Periféricos,Sucursal Puebla,Venta Mostrador,4,650.0,350,2600.0,1400,1200.0,85.7,0.0,0,5
+2024-05-13,AUD002,Parlante Portátil,Audio,Sucursal Toluca,Empresa Beta,7,1500.0,800,10500.0,5600,4900.0,87.5,0.0,0,5
+2024-05-13,AUD003,Micrófono USB,Audio,Sucursal Puebla,Mayorista JJ,18,2800.0,1500,50400.0,27000,23400.0,86.7,0.0,0,5
+2024-05-13,RED002,Switch 8 puertos,Redes,Sucursal Cancún,Empresa XYZ,8,1100.0,600,8800.0,4800,4000.0,83.3,0.0,0,5
+2024-05-14,LAP002,Laptop Air 13,Electrónica,Sucursal Mérida,Distribuidora ABC,11,9775.0,9000,107525.0,99000,8525.0,8.6,0.15,1,5
+2024-05-14,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Toluca,Venta Mostrador,6,750.0,450,4500.0,2700,1800.0,66.7,0.0,1,5
+2024-05-14,AUD003,Micrófono USB,Audio,Sucursal Tijuana,Soluciones Inc,14,2660.0,1500,37240.0,21000,16240.0,77.3,0.05,1,5
+2024-05-14,MUE001,Silla Ergonómica,Muebles,Sucursal Tijuana,Venta Mostrador,7,6175.0,3500,43225.0,24500,18725.0,76.4,0.05,1,5
+2024-05-15,DIS002,HDD 4TB,Almacenamiento,Sucursal Querétaro,Comercial MX,8,1615.0,1200,12920.0,9600,3320.0,34.6,0.15,2,5
+2024-05-15,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Cliente Corp,15,2090.0,1200,31350.0,18000,13350.0,74.2,0.05,2,5
+2024-05-15,SOF001,Office 365 1 año,Software,Sucursal Toluca,Soluciones Inc,7,1620.0,900,11340.0,6300,5040.0,80.0,0.1,2,5
+2024-05-15,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Cliente Premium,12,11500.0,9000,138000.0,108000,30000.0,27.8,0.0,2,5
+2024-05-15,LAP001,Laptop Pro 15,Electrónica,Sucursal Toluca,Cliente Corp,7,13500.0,12000,94500.0,84000,10500.0,12.5,0.1,2,5
+2024-05-15,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Empresa XYZ,5,1400.0,800,7000.0,4000,3000.0,75.0,0.0,2,5
+2024-05-16,LAP002,Laptop Air 13,Electrónica,Sucursal Mérida,Tienda 123,3,10350.0,9000,31050.0,27000,4050.0,15.0,0.1,3,5
+2024-05-16,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Empresa Beta,12,1330.0,800,15960.0,9600,6360.0,66.3,0.05,3,5
+2024-05-16,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Empresa XYZ,8,1500.0,800,12000.0,6400,5600.0,87.5,0.0,3,5
+2024-05-16,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Distribuidora ABC,12,1615.0,900,19380.0,10800,8580.0,79.4,0.05,3,5
+2024-05-16,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Guadalajara,Empresa XYZ,8,400.0,200,3200.0,1600,1600.0,100.0,0.0,3,5
+2024-05-16,PAP002,Tinta Impresora,Papelería,Sucursal Puebla,Soluciones Inc,4,500.0,250,2000.0,1000,1000.0,100.0,0.0,3,5
+2024-05-17,RED001,Router WiFi 6,Redes,Sucursal Monterrey,Distribuidora ABC,6,1995.0,1200,11970.0,7200,4770.0,66.3,0.05,4,5
+2024-05-17,AUD002,Parlante Portátil,Audio,Sucursal Toluca,Venta Mostrador,11,1500.0,800,16500.0,8800,7700.0,87.5,0.0,4,5
+2024-05-17,MOU002,Mouse Gamer,Periféricos,Matriz CDMX,Comprador Final,6,1045.0,600,6270.0,3600,2670.0,74.2,0.05,4,5
+2024-05-17,LAP002,Laptop Air 13,Electrónica,Sucursal Guadalajara,Distribuidora ABC,8,10925.0,9000,87400.0,72000,15400.0,21.4,0.05,4,5
+2024-05-17,AUD001,Audífonos Bluetooth,Audio,Sucursal Cancún,Soluciones Inc,8,2200.0,1200,17600.0,9600,8000.0,83.3,0.0,4,5
+2024-05-18,MOU002,Mouse Gamer,Periféricos,Sucursal Guadalajara,Venta Mostrador,6,1045.0,600,6270.0,3600,2670.0,74.2,0.05,5,5
+2024-05-18,AUD002,Parlante Portátil,Audio,Sucursal Mérida,Empresa Beta,7,1425.0,800,9975.0,5600,4375.0,78.1,0.05,5,5
+2024-05-18,DIS002,HDD 4TB,Almacenamiento,Sucursal Toluca,Cliente Premium,5,1900.0,1200,9500.0,6000,3500.0,58.3,0.0,5,5
+2024-05-18,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Mayorista JJ,1,800.0,400,800.0,400,400.0,100.0,0.0,5,5
+2024-05-18,PAP002,Tinta Impresora,Papelería,Sucursal Guadalajara,Venta Mostrador,4,500.0,250,2000.0,1000,1000.0,100.0,0.0,5,5
+2024-05-19,DIS002,HDD 4TB,Almacenamiento,Sucursal Toluca,Empresa XYZ,1,1900.0,1200,1900.0,1200,700.0,58.3,0.0,6,5
+2024-05-19,PAP002,Tinta Impresora,Papelería,Sucursal Puebla,Venta Mostrador,6,500.0,250,3000.0,1500,1500.0,100.0,0.0,6,5
+2024-05-19,WEB001,Webcam HD,Cámaras,Sucursal Tijuana,Comprador Final,11,1700.0,900,18700.0,9900,8800.0,88.9,0.0,6,5
+2024-05-19,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Venta Mostrador,6,14250.0,12000,85500.0,72000,13500.0,18.8,0.05,6,5
+2024-05-19,LAP002,Laptop Air 13,Electrónica,Sucursal Guadalajara,Mayorista JJ,8,11500.0,9000,92000.0,72000,20000.0,27.8,0.0,6,5
+2024-05-19,MOU001,Mouse Ergonómico,Periféricos,Sucursal Toluca,Comercial MX,7,650.0,350,4550.0,2450,2100.0,85.7,0.0,6,5
+2024-05-20,LAP002,Laptop Air 13,Electrónica,Sucursal Puebla,Empresa Beta,9,10925.0,9000,98325.0,81000,17325.0,21.4,0.05,0,5
+2024-05-20,TEC001,Teclado Mecánico,Periféricos,Sucursal Tijuana,Cliente Corp,16,1330.0,800,21280.0,12800,8480.0,66.3,0.05,0,5
+2024-05-20,MOU001,Mouse Ergonómico,Periféricos,Sucursal Monterrey,Cliente Corp,17,650.0,350,11050.0,5950,5100.0,85.7,0.0,0,5
+2024-05-20,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Comprador Final,13,1530.0,900,19890.0,11700,8190.0,70.0,0.1,0,5
+2024-05-20,DIS002,HDD 4TB,Almacenamiento,Sucursal Mérida,Empresa Beta,19,1710.0,1200,32490.0,22800,9690.0,42.5,0.1,0,5
+2024-05-20,RED001,Router WiFi 6,Redes,Sucursal Toluca,Comercial MX,11,2100.0,1200,23100.0,13200,9900.0,75.0,0.0,0,5
+2024-05-20,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Cliente Premium,8,800.0,400,6400.0,3200,3200.0,100.0,0.0,0,5
+2024-05-20,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Mayorista JJ,9,400.0,250,3600.0,2250,1350.0,60.0,0.2,0,5
+2024-05-20,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Comprador Final,3,8500.0,4500,25500.0,13500,12000.0,88.9,0.0,0,5
+2024-05-21,SOF002,Antivirus 3 equipos,Software,Sucursal Monterrey,Grupo Gamma,5,800.0,400,4000.0,2000,2000.0,100.0,0.0,1,5
+2024-05-21,SOF001,Office 365 1 año,Software,Matriz CDMX,Distribuidora ABC,4,1710.0,900,6840.0,3600,3240.0,90.0,0.05,1,5
+2024-05-21,DIS001,SSD 1TB,Almacenamiento,Matriz CDMX,Empresa Beta,2,2250.0,1500,4500.0,3000,1500.0,50.0,0.1,1,5
+2024-05-21,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Comprador Final,10,3200.0,1800,32000.0,18000,14000.0,77.8,0.0,1,5
+2024-05-21,MUE003,Lámpara LED,Muebles,Sucursal Guadalajara,Comercial MX,14,570.0,300,7980.0,4200,3780.0,90.0,0.05,1,5
+2024-05-21,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Puebla,Venta Mostrador,13,712.5,450,9262.5,5850,3412.5,58.3,0.05,1,5
+2024-05-21,AUD002,Parlante Portátil,Audio,Matriz CDMX,Distribuidora ABC,16,1350.0,800,21600.0,12800,8800.0,68.8,0.1,1,5
+2024-05-21,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Grupo Gamma,4,12750.0,12000,51000.0,48000,3000.0,6.2,0.15,1,5
+2024-05-21,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Empresa XYZ,4,380.0,200,1520.0,800,720.0,90.0,0.05,1,5
+2024-05-21,MON002,Monitor 24 HD,Electrónica,Sucursal Mérida,Tienda 123,8,3060.0,2500,24480.0,20000,4480.0,22.4,0.1,1,5
+2024-05-21,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Cliente Corp,7,10925.0,9000,76475.0,63000,13475.0,21.4,0.05,1,5
+2024-05-22,MUE001,Silla Ergonómica,Muebles,Sucursal Tijuana,Grupo Gamma,4,6175.0,3500,24700.0,14000,10700.0,76.4,0.05,2,5
+2024-05-22,LAP002,Laptop Air 13,Electrónica,Sucursal Cancún,Tienda 123,7,11500.0,9000,80500.0,63000,17500.0,27.8,0.0,2,5
+2024-05-22,AUD001,Audífonos Bluetooth,Audio,Sucursal Monterrey,Venta Mostrador,6,2090.0,1200,12540.0,7200,5340.0,74.2,0.05,2,5
+2024-05-22,WEB001,Webcam HD,Cámaras,Matriz CDMX,Mayorista JJ,10,1700.0,900,17000.0,9000,8000.0,88.9,0.0,2,5
+2024-05-22,RED002,Switch 8 puertos,Redes,Matriz CDMX,Mayorista JJ,3,1100.0,600,3300.0,1800,1500.0,83.3,0.0,2,5
+2024-05-22,SOF001,Office 365 1 año,Software,Sucursal Querétaro,Empresa XYZ,3,1440.0,900,4320.0,2700,1620.0,60.0,0.2,2,5
+2024-05-22,PAP001,Papel Bond 5000 hojas,Papelería,Matriz CDMX,Comprador Final,11,400.0,200,4400.0,2200,2200.0,100.0,0.0,2,5
+2024-05-22,MUE003,Lámpara LED,Muebles,Sucursal Cancún,Empresa Beta,13,570.0,300,7410.0,3900,3510.0,90.0,0.05,2,5
+2024-05-23,MUE003,Lámpara LED,Muebles,Sucursal Monterrey,Soluciones Inc,8,600.0,300,4800.0,2400,2400.0,100.0,0.0,3,5
+2024-05-23,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Puebla,Empresa XYZ,9,400.0,200,3600.0,1800,1800.0,100.0,0.0,3,5
+2024-05-23,RED001,Router WiFi 6,Redes,Sucursal Guadalajara,Empresa Beta,13,1995.0,1200,25935.0,15600,10335.0,66.3,0.05,3,5
+2024-05-23,TEC001,Teclado Mecánico,Periféricos,Sucursal Tijuana,Soluciones Inc,4,1330.0,800,5320.0,3200,2120.0,66.3,0.05,3,5
+2024-05-23,AUD001,Audífonos Bluetooth,Audio,Sucursal Querétaro,Grupo Gamma,13,2090.0,1200,27170.0,15600,11570.0,74.2,0.05,3,5
+2024-05-23,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Puebla,Grupo Gamma,10,750.0,450,7500.0,4500,3000.0,66.7,0.0,3,5
+2024-05-23,AUD003,Micrófono USB,Audio,Sucursal Toluca,Mayorista JJ,6,2380.0,1500,14280.0,9000,5280.0,58.7,0.15,3,5
+2024-05-24,MUE003,Lámpara LED,Muebles,Sucursal Monterrey,Comercial MX,9,600.0,300,5400.0,2700,2700.0,100.0,0.0,4,5
+2024-05-24,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Comprador Final,14,6175.0,3500,86450.0,49000,37450.0,76.4,0.05,4,5
+2024-05-24,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Grupo Gamma,12,400.0,200,4800.0,2400,2400.0,100.0,0.0,4,5
+2024-05-24,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Soluciones Inc,18,800.0,400,14400.0,7200,7200.0,100.0,0.0,4,5
+2024-05-24,DIS003,USB 64GB,Almacenamiento,Matriz CDMX,Comprador Final,5,350.0,150,1750.0,750,1000.0,133.3,0.0,4,5
+2024-05-24,MOU001,Mouse Ergonómico,Periféricos,Sucursal Puebla,Tienda 123,8,650.0,350,5200.0,2800,2400.0,85.7,0.0,4,5
+2024-05-24,LAP002,Laptop Air 13,Electrónica,Sucursal Querétaro,Distribuidora ABC,8,11500.0,9000,92000.0,72000,20000.0,27.8,0.0,4,5
+2024-05-24,LAP001,Laptop Pro 15,Electrónica,Sucursal Puebla,Grupo Gamma,8,14250.0,12000,114000.0,96000,18000.0,18.8,0.05,4,5
+2024-05-24,RED001,Router WiFi 6,Redes,Sucursal Cancún,Cliente Corp,17,2100.0,1200,35700.0,20400,15300.0,75.0,0.0,4,5
+2024-05-25,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Guadalajara,Cliente Premium,5,750.0,450,3750.0,2250,1500.0,66.7,0.0,5,5
+2024-05-25,AUD001,Audífonos Bluetooth,Audio,Sucursal Querétaro,Comprador Final,3,2200.0,1200,6600.0,3600,3000.0,83.3,0.0,5,5
+2024-05-25,AUD003,Micrófono USB,Audio,Sucursal Monterrey,Cliente Corp,2,2240.0,1500,4480.0,3000,1480.0,49.3,0.2,5,5
+2024-05-25,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Grupo Gamma,4,1700.0,900,6800.0,3600,3200.0,88.9,0.0,5,5
+2024-05-25,RED001,Router WiFi 6,Redes,Sucursal Mérida,Soluciones Inc,2,2100.0,1200,4200.0,2400,1800.0,75.0,0.0,5,5
+2024-05-25,RED002,Switch 8 puertos,Redes,Sucursal Tijuana,Distribuidora ABC,5,1100.0,600,5500.0,3000,2500.0,83.3,0.0,5,5
+2024-05-26,MUE002,Escritorio Eléctrico,Muebles,Sucursal Monterrey,Venta Mostrador,5,7225.0,4500,36125.0,22500,13625.0,60.6,0.15,6,5
+2024-05-26,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Mayorista JJ,10,6500.0,3500,65000.0,35000,30000.0,85.7,0.0,6,5
+2024-05-26,PAP002,Tinta Impresora,Papelería,Sucursal Monterrey,Venta Mostrador,4,475.0,250,1900.0,1000,900.0,90.0,0.05,6,5
+2024-05-26,RED001,Router WiFi 6,Redes,Sucursal Tijuana,Soluciones Inc,5,2100.0,1200,10500.0,6000,4500.0,75.0,0.0,6,5
+2024-05-26,MUE003,Lámpara LED,Muebles,Sucursal Querétaro,Mayorista JJ,5,600.0,300,3000.0,1500,1500.0,100.0,0.0,6,5
+2024-05-26,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Empresa Beta,10,3200.0,1800,32000.0,18000,14000.0,77.8,0.0,6,5
+2024-05-26,WEB001,Webcam HD,Cámaras,Sucursal Cancún,Cliente Corp,9,1615.0,900,14535.0,8100,6435.0,79.4,0.05,6,5
+2024-05-26,MON001,Monitor 27 4K,Electrónica,Sucursal Puebla,Comercial MX,2,6840.0,5500,13680.0,11000,2680.0,24.4,0.05,6,5
+2024-05-26,LAP001,Laptop Pro 15,Electrónica,Sucursal Puebla,Comprador Final,3,15000.0,12000,45000.0,36000,9000.0,25.0,0.0,6,5
+2024-05-26,DIS002,HDD 4TB,Almacenamiento,Matriz CDMX,Empresa XYZ,6,1615.0,1200,9690.0,7200,2490.0,34.6,0.15,6,5
+2024-05-27,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Mayorista JJ,14,380.0,200,5320.0,2800,2520.0,90.0,0.05,0,5
+2024-05-27,SOF002,Antivirus 3 equipos,Software,Sucursal Mérida,Comprador Final,24,800.0,400,19200.0,9600,9600.0,100.0,0.0,0,5
+2024-05-27,DIS002,HDD 4TB,Almacenamiento,Sucursal Tijuana,Tienda 123,20,1900.0,1200,38000.0,24000,14000.0,58.3,0.0,0,5
+2024-05-27,PAP002,Tinta Impresora,Papelería,Sucursal Cancún,Empresa XYZ,9,500.0,250,4500.0,2250,2250.0,100.0,0.0,0,5
+2024-05-27,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Tienda 123,20,1615.0,900,32300.0,18000,14300.0,79.4,0.05,0,5
+2024-05-27,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Distribuidora ABC,14,11500.0,9000,161000.0,126000,35000.0,27.8,0.0,0,5
+2024-05-27,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Empresa XYZ,7,2560.0,1800,17920.0,12600,5320.0,42.2,0.2,0,5
+2024-05-28,MON002,Monitor 24 HD,Electrónica,Sucursal Tijuana,Comprador Final,7,3400.0,2500,23800.0,17500,6300.0,36.0,0.0,1,5
+2024-05-28,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Grupo Gamma,8,2880.0,1800,23040.0,14400,8640.0,60.0,0.1,1,5
+2024-05-28,DIS001,SSD 1TB,Almacenamiento,Sucursal Cancún,Tienda 123,5,2500.0,1500,12500.0,7500,5000.0,66.7,0.0,1,5
+2024-05-28,DIS002,HDD 4TB,Almacenamiento,Matriz CDMX,Tienda 123,11,1805.0,1200,19855.0,13200,6655.0,50.4,0.05,1,5
+2024-05-28,SOF001,Office 365 1 año,Software,Sucursal Toluca,Mayorista JJ,15,1800.0,900,27000.0,13500,13500.0,100.0,0.0,1,5
+2024-05-28,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Tijuana,Cliente Premium,16,360.0,200,5760.0,3200,2560.0,80.0,0.1,1,5
+2024-05-28,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Empresa Beta,5,500.0,250,2500.0,1250,1250.0,100.0,0.0,1,5
+2024-05-28,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Empresa XYZ,7,6500.0,3500,45500.0,24500,21000.0,85.7,0.0,1,5
+2024-05-29,MUE003,Lámpara LED,Muebles,Sucursal Toluca,Comercial MX,10,600.0,300,6000.0,3000,3000.0,100.0,0.0,2,5
+2024-05-29,MUE002,Escritorio Eléctrico,Muebles,Sucursal Puebla,Mayorista JJ,26,8500.0,4500,221000.0,117000,104000.0,88.9,0.0,2,5
+2024-05-29,MUE001,Silla Ergonómica,Muebles,Sucursal Puebla,Soluciones Inc,3,5850.0,3500,17550.0,10500,7050.0,67.1,0.1,2,5
+2024-05-29,DIS002,HDD 4TB,Almacenamiento,Sucursal Cancún,Soluciones Inc,6,1710.0,1200,10260.0,7200,3060.0,42.5,0.1,2,5
+2024-05-29,PAP002,Tinta Impresora,Papelería,Sucursal Querétaro,Cliente Corp,15,450.0,250,6750.0,3750,3000.0,80.0,0.1,2,5
+2024-05-29,WEB001,Webcam HD,Cámaras,Sucursal Tijuana,Mayorista JJ,9,1700.0,900,15300.0,8100,7200.0,88.9,0.0,2,5
+2024-05-29,AUD001,Audífonos Bluetooth,Audio,Sucursal Mérida,Venta Mostrador,12,2200.0,1200,26400.0,14400,12000.0,83.3,0.0,2,5
+2024-05-29,MOU001,Mouse Ergonómico,Periféricos,Sucursal Guadalajara,Cliente Premium,12,585.0,350,7020.0,4200,2820.0,67.1,0.1,2,5
+2024-05-29,DIS001,SSD 1TB,Almacenamiento,Matriz CDMX,Cliente Premium,14,2375.0,1500,33250.0,21000,12250.0,58.3,0.05,2,5
+2024-05-30,SOF002,Antivirus 3 equipos,Software,Sucursal Monterrey,Tienda 123,12,760.0,400,9120.0,4800,4320.0,90.0,0.05,3,5
+2024-05-30,DIS002,HDD 4TB,Almacenamiento,Sucursal Mérida,Venta Mostrador,2,1900.0,1200,3800.0,2400,1400.0,58.3,0.0,3,5
+2024-05-30,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Venta Mostrador,5,1100.0,600,5500.0,3000,2500.0,83.3,0.0,3,5
+2024-05-30,WEB002,Cámara Seguridad,Cámaras,Sucursal Guadalajara,Tienda 123,5,3040.0,1800,15200.0,9000,6200.0,68.9,0.05,3,5
+2024-05-30,AUD001,Audífonos Bluetooth,Audio,Sucursal Mérida,Cliente Premium,26,1980.0,1200,51480.0,31200,20280.0,65.0,0.1,3,5
+2024-05-30,DIS001,SSD 1TB,Almacenamiento,Sucursal Monterrey,Tienda 123,9,2375.0,1500,21375.0,13500,7875.0,58.3,0.05,3,5
+2024-05-31,MON001,Monitor 27 4K,Electrónica,Sucursal Guadalajara,Tienda 123,6,6480.0,5500,38880.0,33000,5880.0,17.8,0.1,4,5
+2024-05-31,MON002,Monitor 24 HD,Electrónica,Matriz CDMX,Grupo Gamma,9,3400.0,2500,30600.0,22500,8100.0,36.0,0.0,4,5
+2024-05-31,MOU001,Mouse Ergonómico,Periféricos,Sucursal Querétaro,Distribuidora ABC,13,650.0,350,8450.0,4550,3900.0,85.7,0.0,4,5
+2024-05-31,DIS001,SSD 1TB,Almacenamiento,Sucursal Mérida,Cliente Premium,17,2000.0,1500,34000.0,25500,8500.0,33.3,0.2,4,5
+2024-05-31,RED002,Switch 8 puertos,Redes,Sucursal Toluca,Tienda 123,6,1100.0,600,6600.0,3600,3000.0,83.3,0.0,4,5
+2024-05-31,MUE001,Silla Ergonómica,Muebles,Sucursal Toluca,Cliente Premium,10,6500.0,3500,65000.0,35000,30000.0,85.7,0.0,4,5
+2024-06-01,RED001,Router WiFi 6,Redes,Matriz CDMX,Empresa XYZ,6,1890.0,1200,11340.0,7200,4140.0,57.5,0.1,5,6
+2024-06-01,DIS003,USB 64GB,Almacenamiento,Sucursal Guadalajara,Cliente Corp,7,350.0,150,2450.0,1050,1400.0,133.3,0.0,5,6
+2024-06-01,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Soluciones Inc,11,400.0,200,4400.0,2200,2200.0,100.0,0.0,5,6
+2024-06-01,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Venta Mostrador,6,1700.0,900,10200.0,5400,4800.0,88.9,0.0,5,6
+2024-06-01,AUD003,Micrófono USB,Audio,Sucursal Mérida,Comercial MX,5,2240.0,1500,11200.0,7500,3700.0,49.3,0.2,5,6
+2024-06-01,DIS002,HDD 4TB,Almacenamiento,Sucursal Monterrey,Tienda 123,7,1900.0,1200,13300.0,8400,4900.0,58.3,0.0,5,6
+2024-06-02,LAP001,Laptop Pro 15,Electrónica,Sucursal Puebla,Grupo Gamma,10,12750.0,12000,127500.0,120000,7500.0,6.2,0.15,6,6
+2024-06-02,TEC001,Teclado Mecánico,Periféricos,Sucursal Querétaro,Empresa Beta,2,1400.0,800,2800.0,1600,1200.0,75.0,0.0,6,6
+2024-06-02,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Querétaro,Comercial MX,1,750.0,450,750.0,450,300.0,66.7,0.0,6,6
+2024-06-02,AUD003,Micrófono USB,Audio,Sucursal Cancún,Tienda 123,13,2380.0,1500,30940.0,19500,11440.0,58.7,0.15,6,6
+2024-06-02,DIS002,HDD 4TB,Almacenamiento,Sucursal Querétaro,Cliente Corp,6,1710.0,1200,10260.0,7200,3060.0,42.5,0.1,6,6
+2024-06-02,DIS003,USB 64GB,Almacenamiento,Matriz CDMX,Grupo Gamma,5,332.5,150,1662.5,750,912.5,121.7,0.05,6,6
+2024-06-02,PAP002,Tinta Impresora,Papelería,Sucursal Monterrey,Comercial MX,9,500.0,250,4500.0,2250,2250.0,100.0,0.0,6,6
+2024-06-02,MUE002,Escritorio Eléctrico,Muebles,Sucursal Guadalajara,Grupo Gamma,3,8500.0,4500,25500.0,13500,12000.0,88.9,0.0,6,6
+2024-06-02,MUE003,Lámpara LED,Muebles,Sucursal Mérida,Comercial MX,5,600.0,300,3000.0,1500,1500.0,100.0,0.0,6,6
+2024-06-03,MUE002,Escritorio Eléctrico,Muebles,Sucursal Monterrey,Grupo Gamma,7,8500.0,4500,59500.0,31500,28000.0,88.9,0.0,0,6
+2024-06-03,SOF001,Office 365 1 año,Software,Sucursal Puebla,Empresa Beta,12,1800.0,900,21600.0,10800,10800.0,100.0,0.0,0,6
+2024-06-03,DIS002,HDD 4TB,Almacenamiento,Sucursal Guadalajara,Comercial MX,14,1615.0,1200,22610.0,16800,5810.0,34.6,0.15,0,6
+2024-06-03,WEB002,Cámara Seguridad,Cámaras,Matriz CDMX,Empresa XYZ,13,3200.0,1800,41600.0,23400,18200.0,77.8,0.0,0,6
+2024-06-03,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Empresa Beta,26,15000.0,12000,390000.0,312000,78000.0,25.0,0.0,0,6
+2024-06-03,MON001,Monitor 27 4K,Electrónica,Sucursal Cancún,Comercial MX,2,6840.0,5500,13680.0,11000,2680.0,24.4,0.05,0,6
+2024-06-03,LAP002,Laptop Air 13,Electrónica,Sucursal Querétaro,Soluciones Inc,18,10350.0,9000,186300.0,162000,24300.0,15.0,0.1,0,6
+2024-06-03,TEC001,Teclado Mecánico,Periféricos,Sucursal Querétaro,Soluciones Inc,11,1400.0,800,15400.0,8800,6600.0,75.0,0.0,0,6
+2024-06-04,SOF001,Office 365 1 año,Software,Sucursal Puebla,Mayorista JJ,8,1710.0,900,13680.0,7200,6480.0,90.0,0.05,1,6
+2024-06-04,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Empresa XYZ,5,500.0,250,2500.0,1250,1250.0,100.0,0.0,1,6
+2024-06-04,SOF002,Antivirus 3 equipos,Software,Sucursal Tijuana,Distribuidora ABC,11,680.0,400,7480.0,4400,3080.0,70.0,0.15,1,6
+2024-06-04,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Cliente Premium,11,5525.0,3500,60775.0,38500,22275.0,57.9,0.15,1,6
+2024-06-04,RED002,Switch 8 puertos,Redes,Sucursal Guadalajara,Cliente Premium,11,935.0,600,10285.0,6600,3685.0,55.8,0.15,1,6
+2024-06-04,MOU002,Mouse Gamer,Periféricos,Matriz CDMX,Comercial MX,17,1100.0,600,18700.0,10200,8500.0,83.3,0.0,1,6
+2024-06-04,DIS002,HDD 4TB,Almacenamiento,Sucursal Querétaro,Soluciones Inc,13,1900.0,1200,24700.0,15600,9100.0,58.3,0.0,1,6
+2024-06-04,DIS001,SSD 1TB,Almacenamiento,Sucursal Querétaro,Comprador Final,7,2375.0,1500,16625.0,10500,6125.0,58.3,0.05,1,6
+2024-06-04,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Tijuana,Cliente Premium,3,750.0,450,2250.0,1350,900.0,66.7,0.0,1,6
+2024-06-04,MON002,Monitor 24 HD,Electrónica,Sucursal Cancún,Empresa Beta,11,3400.0,2500,37400.0,27500,9900.0,36.0,0.0,1,6
+2024-06-04,DIS003,USB 64GB,Almacenamiento,Sucursal Toluca,Cliente Premium,18,350.0,150,6300.0,2700,3600.0,133.3,0.0,1,6
+2024-06-05,MOU001,Mouse Ergonómico,Periféricos,Sucursal Mérida,Empresa XYZ,15,617.5,350,9262.5,5250,4012.5,76.4,0.05,2,6
+2024-06-05,MOU002,Mouse Gamer,Periféricos,Sucursal Toluca,Cliente Premium,13,935.0,600,12155.0,7800,4355.0,55.8,0.15,2,6
+2024-06-05,AUD001,Audífonos Bluetooth,Audio,Sucursal Puebla,Comprador Final,11,1980.0,1200,21780.0,13200,8580.0,65.0,0.1,2,6
+2024-06-05,WEB002,Cámara Seguridad,Cámaras,Sucursal Monterrey,Grupo Gamma,13,2880.0,1800,37440.0,23400,14040.0,60.0,0.1,2,6
+2024-06-05,DIS002,HDD 4TB,Almacenamiento,Sucursal Cancún,Cliente Corp,11,1710.0,1200,18810.0,13200,5610.0,42.5,0.1,2,6
+2024-06-05,RED002,Switch 8 puertos,Redes,Sucursal Tijuana,Cliente Premium,6,1100.0,600,6600.0,3600,3000.0,83.3,0.0,2,6
+2024-06-05,MUE003,Lámpara LED,Muebles,Sucursal Puebla,Grupo Gamma,4,570.0,300,2280.0,1200,1080.0,90.0,0.05,2,6
+2024-06-06,MUE001,Silla Ergonómica,Muebles,Sucursal Tijuana,Mayorista JJ,16,6175.0,3500,98800.0,56000,42800.0,76.4,0.05,3,6
+2024-06-06,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Querétaro,Grupo Gamma,14,380.0,200,5320.0,2800,2520.0,90.0,0.05,3,6
+2024-06-06,DIS003,USB 64GB,Almacenamiento,Sucursal Puebla,Comercial MX,27,350.0,150,9450.0,4050,5400.0,133.3,0.0,3,6
+2024-06-06,DIS002,HDD 4TB,Almacenamiento,Sucursal Guadalajara,Cliente Corp,8,1900.0,1200,15200.0,9600,5600.0,58.3,0.0,3,6
+2024-06-06,SOF001,Office 365 1 año,Software,Sucursal Cancún,Grupo Gamma,10,1710.0,900,17100.0,9000,8100.0,90.0,0.05,3,6
+2024-06-06,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Cliente Corp,5,1425.0,800,7125.0,4000,3125.0,78.1,0.05,3,6
+2024-06-06,MOU001,Mouse Ergonómico,Periféricos,Matriz CDMX,Empresa XYZ,15,650.0,350,9750.0,5250,4500.0,85.7,0.0,3,6
+2024-06-06,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Cancún,Soluciones Inc,5,750.0,450,3750.0,2250,1500.0,66.7,0.0,3,6
+2024-06-06,MON002,Monitor 24 HD,Electrónica,Sucursal Monterrey,Cliente Premium,4,3230.0,2500,12920.0,10000,2920.0,29.2,0.05,3,6
+2024-06-06,WEB001,Webcam HD,Cámaras,Sucursal Cancún,Grupo Gamma,9,1700.0,900,15300.0,8100,7200.0,88.9,0.0,3,6
+2024-06-07,PAP002,Tinta Impresora,Papelería,Sucursal Puebla,Distribuidora ABC,21,425.0,250,8925.0,5250,3675.0,70.0,0.15,4,6
+2024-06-07,SOF002,Antivirus 3 equipos,Software,Sucursal Puebla,Comprador Final,7,760.0,400,5320.0,2800,2520.0,90.0,0.05,4,6
+2024-06-07,MUE001,Silla Ergonómica,Muebles,Sucursal Mérida,Cliente Premium,17,6500.0,3500,110500.0,59500,51000.0,85.7,0.0,4,6
+2024-06-07,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Mérida,Empresa Beta,9,750.0,450,6750.0,4050,2700.0,66.7,0.0,4,6
+2024-06-07,LAP001,Laptop Pro 15,Electrónica,Sucursal Toluca,Comercial MX,18,14250.0,12000,256500.0,216000,40500.0,18.8,0.05,4,6
+2024-06-07,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Empresa XYZ,2,1700.0,900,3400.0,1800,1600.0,88.9,0.0,4,6
+2024-06-08,LAP002,Laptop Air 13,Electrónica,Sucursal Cancún,Grupo Gamma,9,11500.0,9000,103500.0,81000,22500.0,27.8,0.0,5,6
+2024-06-08,MOU002,Mouse Gamer,Periféricos,Sucursal Monterrey,Cliente Premium,6,1100.0,600,6600.0,3600,3000.0,83.3,0.0,5,6
+2024-06-08,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Soluciones Inc,7,1500.0,800,10500.0,5600,4900.0,87.5,0.0,5,6
+2024-06-08,RED001,Router WiFi 6,Redes,Sucursal Monterrey,Distribuidora ABC,5,2100.0,1200,10500.0,6000,4500.0,75.0,0.0,5,6
+2024-06-08,SOF001,Office 365 1 año,Software,Sucursal Puebla,Comercial MX,5,1710.0,900,8550.0,4500,4050.0,90.0,0.05,5,6
+2024-06-08,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Distribuidora ABC,9,400.0,200,3600.0,1800,1800.0,100.0,0.0,5,6
+2024-06-08,MUE001,Silla Ergonómica,Muebles,Sucursal Monterrey,Comprador Final,2,6500.0,3500,13000.0,7000,6000.0,85.7,0.0,5,6
+2024-06-09,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Venta Mostrador,4,570.0,300,2280.0,1200,1080.0,90.0,0.05,6,6
+2024-06-09,MUE001,Silla Ergonómica,Muebles,Sucursal Toluca,Empresa XYZ,4,6175.0,3500,24700.0,14000,10700.0,76.4,0.05,6,6
+2024-06-09,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Cliente Premium,11,450.0,250,4950.0,2750,2200.0,80.0,0.1,6,6
+2024-06-09,WEB001,Webcam HD,Cámaras,Sucursal Guadalajara,Soluciones Inc,3,1700.0,900,5100.0,2700,2400.0,88.9,0.0,6,6
+2024-06-09,MON002,Monitor 24 HD,Electrónica,Sucursal Monterrey,Tienda 123,5,3060.0,2500,15300.0,12500,2800.0,22.4,0.1,6,6
+2024-06-09,MOU001,Mouse Ergonómico,Periféricos,Matriz CDMX,Empresa Beta,7,650.0,350,4550.0,2450,2100.0,85.7,0.0,6,6
+2024-06-09,MON001,Monitor 27 4K,Electrónica,Sucursal Guadalajara,Cliente Premium,6,7200.0,5500,43200.0,33000,10200.0,30.9,0.0,6,6
+2024-06-09,LAP002,Laptop Air 13,Electrónica,Sucursal Toluca,Empresa XYZ,7,11500.0,9000,80500.0,63000,17500.0,27.8,0.0,6,6
+2024-06-09,AUD003,Micrófono USB,Audio,Sucursal Monterrey,Mayorista JJ,3,2800.0,1500,8400.0,4500,3900.0,86.7,0.0,6,6
+2024-06-10,MUE001,Silla Ergonómica,Muebles,Sucursal Guadalajara,Tienda 123,9,6500.0,3500,58500.0,31500,27000.0,85.7,0.0,0,6
+2024-06-10,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Grupo Gamma,11,800.0,400,8800.0,4400,4400.0,100.0,0.0,0,6
+2024-06-10,SOF001,Office 365 1 año,Software,Sucursal Querétaro,Soluciones Inc,6,1800.0,900,10800.0,5400,5400.0,100.0,0.0,0,6
+2024-06-10,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Cancún,Distribuidora ABC,2,360.0,200,720.0,400,320.0,80.0,0.1,0,6
+2024-06-10,AUD003,Micrófono USB,Audio,Sucursal Toluca,Tienda 123,3,2520.0,1500,7560.0,4500,3060.0,68.0,0.1,0,6
+2024-06-10,LAP001,Laptop Pro 15,Electrónica,Sucursal Monterrey,Soluciones Inc,3,13500.0,12000,40500.0,36000,4500.0,12.5,0.1,0,6
+2024-06-10,RED001,Router WiFi 6,Redes,Sucursal Guadalajara,Grupo Gamma,4,2100.0,1200,8400.0,4800,3600.0,75.0,0.0,0,6
+2024-06-11,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Comprador Final,7,12750.0,12000,89250.0,84000,5250.0,6.2,0.15,1,6
+2024-06-11,MON001,Monitor 27 4K,Electrónica,Sucursal Puebla,Empresa XYZ,9,6480.0,5500,58320.0,49500,8820.0,17.8,0.1,1,6
+2024-06-11,MON002,Monitor 24 HD,Electrónica,Sucursal Cancún,Tienda 123,17,3400.0,2500,57800.0,42500,15300.0,36.0,0.0,1,6
+2024-06-11,MOU001,Mouse Ergonómico,Periféricos,Sucursal Querétaro,Tienda 123,9,650.0,350,5850.0,3150,2700.0,85.7,0.0,1,6
+2024-06-11,AUD001,Audífonos Bluetooth,Audio,Sucursal Monterrey,Soluciones Inc,12,2200.0,1200,26400.0,14400,12000.0,83.3,0.0,1,6
+2024-06-11,DIS003,USB 64GB,Almacenamiento,Sucursal Tijuana,Empresa Beta,17,350.0,150,5950.0,2550,3400.0,133.3,0.0,1,6
+2024-06-11,SOF002,Antivirus 3 equipos,Software,Sucursal Puebla,Empresa XYZ,2,800.0,400,1600.0,800,800.0,100.0,0.0,1,6
+2024-06-12,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Cliente Premium,7,8075.0,4500,56525.0,31500,25025.0,79.4,0.05,2,6
+2024-06-12,MUE001,Silla Ergonómica,Muebles,Sucursal Toluca,Comercial MX,6,5850.0,3500,35100.0,21000,14100.0,67.1,0.1,2,6
+2024-06-12,MUE003,Lámpara LED,Muebles,Sucursal Mérida,Venta Mostrador,13,600.0,300,7800.0,3900,3900.0,100.0,0.0,2,6
+2024-06-12,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Querétaro,Distribuidora ABC,11,675.0,450,7425.0,4950,2475.0,50.0,0.1,2,6
+2024-06-12,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Venta Mostrador,8,2720.0,1800,21760.0,14400,7360.0,51.1,0.15,2,6
+2024-06-13,LAP001,Laptop Pro 15,Electrónica,Matriz CDMX,Empresa Beta,16,15000.0,12000,240000.0,192000,48000.0,25.0,0.0,3,6
+2024-06-13,LAP002,Laptop Air 13,Electrónica,Sucursal Puebla,Grupo Gamma,3,10925.0,9000,32775.0,27000,5775.0,21.4,0.05,3,6
+2024-06-13,MOU001,Mouse Ergonómico,Periféricos,Sucursal Guadalajara,Cliente Corp,1,552.5,350,552.5,350,202.5,57.9,0.15,3,6
+2024-06-13,AUD002,Parlante Portátil,Audio,Matriz CDMX,Comercial MX,10,1425.0,800,14250.0,8000,6250.0,78.1,0.05,3,6
+2024-06-13,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Guadalajara,Grupo Gamma,10,400.0,200,4000.0,2000,2000.0,100.0,0.0,3,6
+2024-06-13,PAP002,Tinta Impresora,Papelería,Sucursal Puebla,Cliente Corp,14,500.0,250,7000.0,3500,3500.0,100.0,0.0,3,6
+2024-06-13,MUE002,Escritorio Eléctrico,Muebles,Sucursal Toluca,Distribuidora ABC,8,8500.0,4500,68000.0,36000,32000.0,88.9,0.0,3,6
+2024-06-14,MUE002,Escritorio Eléctrico,Muebles,Sucursal Cancún,Comercial MX,15,8500.0,4500,127500.0,67500,60000.0,88.9,0.0,4,6
+2024-06-14,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Soluciones Inc,7,5850.0,3500,40950.0,24500,16450.0,67.1,0.1,4,6
+2024-06-14,RED001,Router WiFi 6,Redes,Sucursal Cancún,Grupo Gamma,10,1995.0,1200,19950.0,12000,7950.0,66.3,0.05,4,6
+2024-06-14,DIS001,SSD 1TB,Almacenamiento,Sucursal Tijuana,Soluciones Inc,3,2375.0,1500,7125.0,4500,2625.0,58.3,0.05,4,6
+2024-06-14,MOU001,Mouse Ergonómico,Periféricos,Matriz CDMX,Comprador Final,18,650.0,350,11700.0,6300,5400.0,85.7,0.0,4,6
+2024-06-14,AUD001,Audífonos Bluetooth,Audio,Sucursal Cancún,Cliente Premium,11,2200.0,1200,24200.0,13200,11000.0,83.3,0.0,4,6
+2024-06-14,TEC001,Teclado Mecánico,Periféricos,Sucursal Tijuana,Venta Mostrador,13,1330.0,800,17290.0,10400,6890.0,66.3,0.05,4,6
+2024-06-14,MON001,Monitor 27 4K,Electrónica,Sucursal Monterrey,Tienda 123,10,7200.0,5500,72000.0,55000,17000.0,30.9,0.0,4,6
+2024-06-14,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Grupo Gamma,8,1615.0,900,12920.0,7200,5720.0,79.4,0.05,4,6
+2024-06-15,RED002,Switch 8 puertos,Redes,Sucursal Toluca,Distribuidora ABC,6,1100.0,600,6600.0,3600,3000.0,83.3,0.0,5,6
+2024-06-15,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Comercial MX,5,600.0,300,3000.0,1500,1500.0,100.0,0.0,5,6
+2024-06-15,MUE001,Silla Ergonómica,Muebles,Sucursal Puebla,Venta Mostrador,2,6175.0,3500,12350.0,7000,5350.0,76.4,0.05,5,6
+2024-06-15,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Cliente Corp,8,425.0,250,3400.0,2000,1400.0,70.0,0.15,5,6
+2024-06-15,SOF002,Antivirus 3 equipos,Software,Sucursal Toluca,Comprador Final,6,720.0,400,4320.0,2400,1920.0,80.0,0.1,5,6
+2024-06-15,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Empresa Beta,13,350.0,150,4550.0,1950,2600.0,133.3,0.0,5,6
+2024-06-15,TEC001,Teclado Mecánico,Periféricos,Sucursal Cancún,Mayorista JJ,1,1400.0,800,1400.0,800,600.0,75.0,0.0,5,6
+2024-06-15,AUD001,Audífonos Bluetooth,Audio,Sucursal Monterrey,Cliente Corp,4,1980.0,1200,7920.0,4800,3120.0,65.0,0.1,5,6
+2024-06-15,MOU001,Mouse Ergonómico,Periféricos,Sucursal Querétaro,Grupo Gamma,12,552.5,350,6630.0,4200,2430.0,57.9,0.15,5,6
+2024-06-15,MON002,Monitor 24 HD,Electrónica,Sucursal Puebla,Empresa XYZ,9,3400.0,2500,30600.0,22500,8100.0,36.0,0.0,5,6
+2024-06-15,LAP002,Laptop Air 13,Electrónica,Matriz CDMX,Empresa Beta,12,11500.0,9000,138000.0,108000,30000.0,27.8,0.0,5,6
+2024-06-15,WEB002,Cámara Seguridad,Cámaras,Sucursal Mérida,Mayorista JJ,15,3200.0,1800,48000.0,27000,21000.0,77.8,0.0,5,6
+2024-06-16,MUE002,Escritorio Eléctrico,Muebles,Matriz CDMX,Venta Mostrador,5,7650.0,4500,38250.0,22500,15750.0,70.0,0.1,6,6
+2024-06-16,MUE001,Silla Ergonómica,Muebles,Matriz CDMX,Empresa Beta,13,6500.0,3500,84500.0,45500,39000.0,85.7,0.0,6,6
+2024-06-16,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Cliente Corp,6,450.0,250,2700.0,1500,1200.0,80.0,0.1,6,6
+2024-06-16,SOF001,Office 365 1 año,Software,Sucursal Cancún,Soluciones Inc,6,1710.0,900,10260.0,5400,4860.0,90.0,0.05,6,6
+2024-06-16,DIS003,USB 64GB,Almacenamiento,Sucursal Tijuana,Empresa Beta,28,297.5,150,8330.0,4200,4130.0,98.3,0.15,6,6
+2024-06-16,DIS001,SSD 1TB,Almacenamiento,Sucursal Guadalajara,Empresa XYZ,9,2500.0,1500,22500.0,13500,9000.0,66.7,0.0,6,6
+2024-06-16,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Soluciones Inc,3,1275.0,800,3825.0,2400,1425.0,59.4,0.15,6,6
+2024-06-16,AUD001,Audífonos Bluetooth,Audio,Matriz CDMX,Empresa XYZ,3,2200.0,1200,6600.0,3600,3000.0,83.3,0.0,6,6
+2024-06-16,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Tijuana,Cliente Corp,4,750.0,450,3000.0,1800,1200.0,66.7,0.0,6,6
+2024-06-16,MON002,Monitor 24 HD,Electrónica,Sucursal Cancún,Grupo Gamma,3,3400.0,2500,10200.0,7500,2700.0,36.0,0.0,6,6
+2024-06-16,MON001,Monitor 27 4K,Electrónica,Sucursal Querétaro,Comprador Final,4,7200.0,5500,28800.0,22000,6800.0,30.9,0.0,6,6
+2024-06-16,WEB002,Cámara Seguridad,Cámaras,Sucursal Puebla,Cliente Corp,7,3040.0,1800,21280.0,12600,8680.0,68.9,0.05,6,6
+2024-06-17,MUE002,Escritorio Eléctrico,Muebles,Sucursal Tijuana,Grupo Gamma,6,8500.0,4500,51000.0,27000,24000.0,88.9,0.0,0,6
+2024-06-17,PAP002,Tinta Impresora,Papelería,Matriz CDMX,Empresa XYZ,15,475.0,250,7125.0,3750,3375.0,90.0,0.05,0,6
+2024-06-17,DIS002,HDD 4TB,Almacenamiento,Sucursal Toluca,Comercial MX,11,1900.0,1200,20900.0,13200,7700.0,58.3,0.0,0,6
+2024-06-17,MOU001,Mouse Ergonómico,Periféricos,Sucursal Cancún,Mayorista JJ,10,650.0,350,6500.0,3500,3000.0,85.7,0.0,0,6
+2024-06-17,MOU002,Mouse Gamer,Periféricos,Sucursal Monterrey,Mayorista JJ,14,1045.0,600,14630.0,8400,6230.0,74.2,0.05,0,6
+2024-06-17,TEC001,Teclado Mecánico,Periféricos,Sucursal Puebla,Comprador Final,5,1120.0,800,5600.0,4000,1600.0,40.0,0.2,0,6
+2024-06-17,WEB001,Webcam HD,Cámaras,Sucursal Toluca,Grupo Gamma,20,1615.0,900,32300.0,18000,14300.0,79.4,0.05,0,6
+2024-06-18,PAP002,Tinta Impresora,Papelería,Sucursal Tijuana,Empresa Beta,18,500.0,250,9000.0,4500,4500.0,100.0,0.0,1,6
+2024-06-18,SOF002,Antivirus 3 equipos,Software,Sucursal Toluca,Tienda 123,12,760.0,400,9120.0,4800,4320.0,90.0,0.05,1,6
+2024-06-18,SOF001,Office 365 1 año,Software,Sucursal Mérida,Venta Mostrador,19,1800.0,900,34200.0,17100,17100.0,100.0,0.0,1,6
+2024-06-18,RED002,Switch 8 puertos,Redes,Sucursal Mérida,Empresa Beta,7,1100.0,600,7700.0,4200,3500.0,83.3,0.0,1,6
+2024-06-18,DIS003,USB 64GB,Almacenamiento,Sucursal Toluca,Grupo Gamma,10,332.5,150,3325.0,1500,1825.0,121.7,0.05,1,6
+2024-06-18,DIS001,SSD 1TB,Almacenamiento,Sucursal Tijuana,Distribuidora ABC,5,2375.0,1500,11875.0,7500,4375.0,58.3,0.05,1,6
+2024-06-18,MOU002,Mouse Gamer,Periféricos,Sucursal Cancún,Distribuidora ABC,12,1100.0,600,13200.0,7200,6000.0,83.3,0.0,1,6
+2024-06-18,MOU001,Mouse Ergonómico,Periféricos,Sucursal Toluca,Comprador Final,16,650.0,350,10400.0,5600,4800.0,85.7,0.0,1,6
+2024-06-18,TEC001,Teclado Mecánico,Periféricos,Sucursal Monterrey,Empresa XYZ,13,1330.0,800,17290.0,10400,6890.0,66.3,0.05,1,6
+2024-06-18,MON002,Monitor 24 HD,Electrónica,Sucursal Cancún,Empresa XYZ,3,3400.0,2500,10200.0,7500,2700.0,36.0,0.0,1,6
+2024-06-18,AUD003,Micrófono USB,Audio,Sucursal Cancún,Soluciones Inc,4,2800.0,1500,11200.0,6000,5200.0,86.7,0.0,1,6
+2024-06-19,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Mérida,Tienda 123,11,400.0,200,4400.0,2200,2200.0,100.0,0.0,2,6
+2024-06-19,PAP002,Tinta Impresora,Papelería,Sucursal Toluca,Tienda 123,5,500.0,250,2500.0,1250,1250.0,100.0,0.0,2,6
+2024-06-19,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Cliente Corp,6,1045.0,600,6270.0,3600,2670.0,74.2,0.05,2,6
+2024-06-19,LAP001,Laptop Pro 15,Electrónica,Sucursal Mérida,Distribuidora ABC,8,15000.0,12000,120000.0,96000,24000.0,25.0,0.0,2,6
+2024-06-19,MOU002,Mouse Gamer,Periféricos,Sucursal Querétaro,Comercial MX,5,1045.0,600,5225.0,3000,2225.0,74.2,0.05,2,6
+2024-06-19,AUD001,Audífonos Bluetooth,Audio,Sucursal Guadalajara,Empresa XYZ,7,2090.0,1200,14630.0,8400,6230.0,74.2,0.05,2,6
+2024-06-20,LAP001,Laptop Pro 15,Electrónica,Sucursal Puebla,Cliente Premium,16,15000.0,12000,240000.0,192000,48000.0,25.0,0.0,3,6
+2024-06-20,TEC001,Teclado Mecánico,Periféricos,Sucursal Mérida,Venta Mostrador,9,1260.0,800,11340.0,7200,4140.0,57.5,0.1,3,6
+2024-06-20,DIS001,SSD 1TB,Almacenamiento,Sucursal Tijuana,Venta Mostrador,11,2500.0,1500,27500.0,16500,11000.0,66.7,0.0,3,6
+2024-06-20,SOF001,Office 365 1 año,Software,Sucursal Puebla,Venta Mostrador,8,1710.0,900,13680.0,7200,6480.0,90.0,0.05,3,6
+2024-06-21,MUE003,Lámpara LED,Muebles,Sucursal Querétaro,Distribuidora ABC,11,570.0,300,6270.0,3300,2970.0,90.0,0.05,4,6
+2024-06-21,MUE001,Silla Ergonómica,Muebles,Sucursal Puebla,Soluciones Inc,14,5850.0,3500,81900.0,49000,32900.0,67.1,0.1,4,6
+2024-06-21,SOF002,Antivirus 3 equipos,Software,Sucursal Cancún,Venta Mostrador,2,720.0,400,1440.0,800,640.0,80.0,0.1,4,6
+2024-06-21,SOF001,Office 365 1 año,Software,Sucursal Guadalajara,Comprador Final,1,1800.0,900,1800.0,900,900.0,100.0,0.0,4,6
+2024-06-21,RED001,Router WiFi 6,Redes,Sucursal Guadalajara,Tienda 123,8,2100.0,1200,16800.0,9600,7200.0,75.0,0.0,4,6
+2024-06-21,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Monterrey,Cliente Premium,15,712.5,450,10687.5,6750,3937.5,58.3,0.05,4,6
+2024-06-21,MOU002,Mouse Gamer,Periféricos,Sucursal Tijuana,Soluciones Inc,9,1100.0,600,9900.0,5400,4500.0,83.3,0.0,4,6
+2024-06-21,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Grupo Gamma,5,1400.0,800,7000.0,4000,3000.0,75.0,0.0,4,6
+2024-06-21,MON002,Monitor 24 HD,Electrónica,Sucursal Querétaro,Soluciones Inc,4,3230.0,2500,12920.0,10000,2920.0,29.2,0.05,4,6
+2024-06-21,LAP002,Laptop Air 13,Electrónica,Matriz CDMX,Venta Mostrador,15,11500.0,9000,172500.0,135000,37500.0,27.8,0.0,4,6
+2024-06-21,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Empresa Beta,24,1425.0,800,34200.0,19200,15000.0,78.1,0.05,4,6
+2024-06-22,PAP002,Tinta Impresora,Papelería,Sucursal Guadalajara,Grupo Gamma,6,450.0,250,2700.0,1500,1200.0,80.0,0.1,5,6
+2024-06-22,MUE003,Lámpara LED,Muebles,Sucursal Cancún,Grupo Gamma,3,600.0,300,1800.0,900,900.0,100.0,0.0,5,6
+2024-06-22,SOF002,Antivirus 3 equipos,Software,Sucursal Querétaro,Venta Mostrador,14,800.0,400,11200.0,5600,5600.0,100.0,0.0,5,6
+2024-06-22,LAP002,Laptop Air 13,Electrónica,Sucursal Guadalajara,Mayorista JJ,7,11500.0,9000,80500.0,63000,17500.0,27.8,0.0,5,6
+2024-06-22,AUD002,Parlante Portátil,Audio,Sucursal Querétaro,Distribuidora ABC,3,1425.0,800,4275.0,2400,1875.0,78.1,0.05,5,6
+2024-06-22,AUD001,Audífonos Bluetooth,Audio,Matriz CDMX,Mayorista JJ,12,1980.0,1200,23760.0,14400,9360.0,65.0,0.1,5,6
+2024-06-22,DIS003,USB 64GB,Almacenamiento,Sucursal Tijuana,Cliente Corp,2,332.5,150,665.0,300,365.0,121.7,0.05,5,6
+2024-06-23,AUD001,Audífonos Bluetooth,Audio,Sucursal Tijuana,Cliente Premium,3,2090.0,1200,6270.0,3600,2670.0,74.2,0.05,6,6
+2024-06-23,DIS001,SSD 1TB,Almacenamiento,Sucursal Puebla,Comercial MX,5,2250.0,1500,11250.0,7500,3750.0,50.0,0.1,6,6
+2024-06-23,DIS003,USB 64GB,Almacenamiento,Sucursal Tijuana,Comprador Final,1,350.0,150,350.0,150,200.0,133.3,0.0,6,6
+2024-06-23,RED002,Switch 8 puertos,Redes,Sucursal Monterrey,Grupo Gamma,6,1045.0,600,6270.0,3600,2670.0,74.2,0.05,6,6
+2024-06-23,SOF001,Office 365 1 año,Software,Sucursal Tijuana,Soluciones Inc,17,1710.0,900,29070.0,15300,13770.0,90.0,0.05,6,6
+2024-06-23,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Puebla,Comprador Final,4,400.0,200,1600.0,800,800.0,100.0,0.0,6,6
+2024-06-23,PAP002,Tinta Impresora,Papelería,Sucursal Monterrey,Grupo Gamma,7,475.0,250,3325.0,1750,1575.0,90.0,0.05,6,6
+2024-06-23,MUE003,Lámpara LED,Muebles,Sucursal Cancún,Cliente Corp,8,510.0,300,4080.0,2400,1680.0,70.0,0.15,6,6
+2024-06-24,WEB001,Webcam HD,Cámaras,Sucursal Mérida,Soluciones Inc,16,1615.0,900,25840.0,14400,11440.0,79.4,0.05,0,6
+2024-06-24,RED002,Switch 8 puertos,Redes,Sucursal Querétaro,Comprador Final,6,1045.0,600,6270.0,3600,2670.0,74.2,0.05,0,6
+2024-06-24,MUE003,Lámpara LED,Muebles,Sucursal Puebla,Distribuidora ABC,23,570.0,300,13110.0,6900,6210.0,90.0,0.05,0,6
+2024-06-24,AUD002,Parlante Portátil,Audio,Matriz CDMX,Grupo Gamma,14,1425.0,800,19950.0,11200,8750.0,78.1,0.05,0,6
+2024-06-24,RED001,Router WiFi 6,Redes,Matriz CDMX,Cliente Corp,19,1785.0,1200,33915.0,22800,11115.0,48.8,0.15,0,6
+2024-06-24,MON002,Monitor 24 HD,Electrónica,Sucursal Monterrey,Tienda 123,17,3400.0,2500,57800.0,42500,15300.0,36.0,0.0,0,6
+2024-06-24,MON001,Monitor 27 4K,Electrónica,Matriz CDMX,Grupo Gamma,3,6480.0,5500,19440.0,16500,2940.0,17.8,0.1,0,6
+2024-06-24,LAP002,Laptop Air 13,Electrónica,Sucursal Tijuana,Grupo Gamma,19,11500.0,9000,218500.0,171000,47500.0,27.8,0.0,0,6
+2024-06-24,TEC001,Teclado Mecánico,Periféricos,Sucursal Toluca,Mayorista JJ,18,1330.0,800,23940.0,14400,9540.0,66.3,0.05,0,6
+2024-06-25,MUE003,Lámpara LED,Muebles,Sucursal Tijuana,Cliente Premium,8,600.0,300,4800.0,2400,2400.0,100.0,0.0,1,6
+2024-06-25,SOF002,Antivirus 3 equipos,Software,Sucursal Toluca,Venta Mostrador,6,800.0,400,4800.0,2400,2400.0,100.0,0.0,1,6
+2024-06-25,AUD002,Parlante Portátil,Audio,Sucursal Puebla,Tienda 123,16,1500.0,800,24000.0,12800,11200.0,87.5,0.0,1,6
+2024-06-25,AUD001,Audífonos Bluetooth,Audio,Sucursal Toluca,Grupo Gamma,5,2090.0,1200,10450.0,6000,4450.0,74.2,0.05,1,6
+2024-06-25,MUE001,Silla Ergonómica,Muebles,Sucursal Querétaro,Mayorista JJ,11,6500.0,3500,71500.0,38500,33000.0,85.7,0.0,1,6
+2024-06-25,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Cancún,Grupo Gamma,5,750.0,450,3750.0,2250,1500.0,66.7,0.0,1,6
+2024-06-25,TEC001,Teclado Mecánico,Periféricos,Sucursal Mérida,Cliente Premium,5,1330.0,800,6650.0,4000,2650.0,66.3,0.05,1,6
+2024-06-25,LAP001,Laptop Pro 15,Electrónica,Sucursal Cancún,Distribuidora ABC,8,15000.0,12000,120000.0,96000,24000.0,25.0,0.0,1,6
+2024-06-25,MOU001,Mouse Ergonómico,Periféricos,Sucursal Puebla,Distribuidora ABC,2,617.5,350,1235.0,700,535.0,76.4,0.05,1,6
+2024-06-26,LAP002,Laptop Air 13,Electrónica,Sucursal Mérida,Tienda 123,17,10925.0,9000,185725.0,153000,32725.0,21.4,0.05,2,6
+2024-06-26,MON001,Monitor 27 4K,Electrónica,Sucursal Toluca,Venta Mostrador,7,7200.0,5500,50400.0,38500,11900.0,30.9,0.0,2,6
+2024-06-26,MOU002,Mouse Gamer,Periféricos,Sucursal Mérida,Comercial MX,13,1100.0,600,14300.0,7800,6500.0,83.3,0.0,2,6
+2024-06-26,DIS003,USB 64GB,Almacenamiento,Sucursal Querétaro,Grupo Gamma,25,315.0,150,7875.0,3750,4125.0,110.0,0.1,2,6
+2024-06-26,RED002,Switch 8 puertos,Redes,Sucursal Tijuana,Cliente Premium,18,1100.0,600,19800.0,10800,9000.0,83.3,0.0,2,6
+2024-06-26,SOF001,Office 365 1 año,Software,Matriz CDMX,Distribuidora ABC,15,1440.0,900,21600.0,13500,8100.0,60.0,0.2,2,6
+2024-06-26,PAP001,Papel Bond 5000 hojas,Papelería,Sucursal Toluca,Venta Mostrador,10,400.0,200,4000.0,2000,2000.0,100.0,0.0,2,6
+2024-06-27,RED001,Router WiFi 6,Redes,Sucursal Mérida,Tienda 123,24,2100.0,1200,50400.0,28800,21600.0,75.0,0.0,3,6
+2024-06-27,SOF002,Antivirus 3 equipos,Software,Sucursal Puebla,Grupo Gamma,6,720.0,400,4320.0,2400,1920.0,80.0,0.1,3,6
+2024-06-27,SOF001,Office 365 1 año,Software,Sucursal Mérida,Distribuidora ABC,24,1710.0,900,41040.0,21600,19440.0,90.0,0.05,3,6
+2024-06-27,DIS001,SSD 1TB,Almacenamiento,Matriz CDMX,Empresa Beta,6,2250.0,1500,13500.0,9000,4500.0,50.0,0.1,3,6
+2024-06-27,MON002,Monitor 24 HD,Electrónica,Sucursal Guadalajara,Comprador Final,14,3400.0,2500,47600.0,35000,12600.0,36.0,0.0,3,6
+2024-06-27,MOU001,Mouse Ergonómico,Periféricos,Sucursal Guadalajara,Distribuidora ABC,4,650.0,350,2600.0,1400,1200.0,85.7,0.0,3,6
+2024-06-27,TEC001,Teclado Mecánico,Periféricos,Matriz CDMX,Empresa XYZ,21,1330.0,800,27930.0,16800,11130.0,66.3,0.05,3,6
+2024-06-27,AUD003,Micrófono USB,Audio,Sucursal Toluca,Comprador Final,16,2800.0,1500,44800.0,24000,20800.0,86.7,0.0,3,6
+2024-06-28,MUE002,Escritorio Eléctrico,Muebles,Sucursal Toluca,Venta Mostrador,8,8500.0,4500,68000.0,36000,32000.0,88.9,0.0,4,6
+2024-06-28,MON001,Monitor 27 4K,Electrónica,Sucursal Guadalajara,Comprador Final,4,5760.0,5500,23040.0,22000,1040.0,4.7,0.2,4,6
+2024-06-28,TEC002,Teclado Inalámbrico,Periféricos,Sucursal Cancún,Empresa XYZ,5,750.0,450,3750.0,2250,1500.0,66.7,0.0,4,6
+2024-06-28,MOU001,Mouse Ergonómico,Periféricos,Sucursal Monterrey,Distribuidora ABC,13,585.0,350,7605.0,4550,3055.0,67.1,0.1,4,6
+2024-06-28,AUD001,Audífonos Bluetooth,Audio,Sucursal Tijuana,Distribuidora ABC,9,2200.0,1200,19800.0,10800,9000.0,83.3,0.0,4,6
+2024-06-28,AUD003,Micrófono USB,Audio,Sucursal Cancún,Grupo Gamma,13,2800.0,1500,36400.0,19500,16900.0,86.7,0.0,4,6
+2024-06-28,WEB001,Webcam HD,Cámaras,Sucursal Monterrey,Empresa Beta,15,1700.0,900,25500.0,13500,12000.0,88.9,0.0,4,6
+2024-06-28,WEB002,Cámara Seguridad,Cámaras,Sucursal Cancún,Comercial MX,20,2880.0,1800,57600.0,36000,21600.0,60.0,0.1,4,6
+2024-06-28,DIS001,SSD 1TB,Almacenamiento,Sucursal Tijuana,Comercial MX,24,2500.0,1500,60000.0,36000,24000.0,66.7,0.0,4,6
+2024-06-28,DIS003,USB 64GB,Almacenamiento,Sucursal Tijuana,Cliente Premium,15,350.0,150,5250.0,2250,3000.0,133.3,0.0,4,6
+2024-06-28,SOF001,Office 365 1 año,Software,Sucursal Puebla,Cliente Corp,26,1530.0,900,39780.0,23400,16380.0,70.0,0.15,4,6
+2024-06-28,MUE001,Silla Ergonómica,Muebles,Sucursal Mérida,Venta Mostrador,20,5850.0,3500,117000.0,70000,47000.0,67.1,0.1,4,6
+2024-06-28,MUE003,Lámpara LED,Muebles,Sucursal Mérida,Mayorista JJ,10,540.0,300,5400.0,3000,2400.0,80.0,0.1,4,6

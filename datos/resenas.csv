@@ -1,0 +1,101 @@
+reseña_id,producto,cliente,texto,puntuacion,sentimiento,fecha
+R00001,Laptop,Cliente Corp,Está bien para el precio que tiene,3,neutro,2024-01-17
+R00002,Monitor,Empresa XYZ,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-05-26
+R00003,Mouse,Empresa Beta,Buena calidad y rápido envío,5,positivo,2024-12-14
+R00004,Monitor,Comercial MX,"Excelente producto, muy recomendable",5,positivo,2024-08-22
+R00005,Webcam,Cliente Corp,Está bien para el precio que tiene,3,neutro,2024-01-18
+R00006,SSD,Empresa Beta,Muy buen rendimiento a este precio,5,positivo,2024-09-12
+R00007,Router,Mayorista JJ,Cumple su función básica,3,neutro,2024-07-11
+R00008,Laptop,Cliente Corp,"Entrega a tiempo, el producto es normal",3,neutro,2024-12-02
+R00009,Monitor,Comprador Final,Cumple su función básica,3,neutro,2024-01-27
+R00010,Mouse,Venta Mostrador,"Mejor de lo que esperaba, volvería a comprar",5,positivo,2024-02-21
+R00011,Webcam,Grupo Gamma,"Entrega a tiempo, el producto es normal",3,neutro,2024-11-23
+R00012,Monitor,Cliente Corp,Podría ser mejor pero es aceptable,3,neutro,2024-05-04
+R00013,SSD,Tienda 123,"Mejor de lo que esperaba, volvería a comprar",5,positivo,2024-10-16
+R00014,Monitor,Distribuidora ABC,"Mala calidad, se rompió en una semana",2,negativo,2024-10-31
+R00015,SSD,Empresa XYZ,"No funciona como esperaba, defectuoso",1,negativo,2024-12-17
+R00016,Webcam,Distribuidora ABC,"Es lo que esperaba, ni más ni menos",3,neutro,2024-04-29
+R00017,Monitor,Distribuidora ABC,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-10-07
+R00018,Laptop,Soluciones Inc,"Es lo que esperaba, ni más ni menos",3,neutro,2024-04-22
+R00019,Audífonos,Venta Mostrador,Podría ser mejor pero es aceptable,3,neutro,2024-09-26
+R00020,SSD,Soluciones Inc,Muy buen rendimiento a este precio,4,positivo,2024-06-18
+R00021,Webcam,Distribuidora ABC,"Mejor de lo que esperaba, volvería a comprar",5,positivo,2024-07-06
+R00022,Audífonos,Soluciones Inc,"Excelente producto, muy recomendable",5,positivo,2024-12-06
+R00023,Audífonos,Tienda 123,Cumple su función básica,3,neutro,2024-05-10
+R00024,Teclado,Mayorista JJ,"Excelente producto, muy recomendable",5,positivo,2024-08-11
+R00025,Audífonos,Empresa Beta,"Excelente producto, muy recomendable",5,positivo,2024-02-01
+R00026,Webcam,Distribuidora ABC,"Excelente producto, muy recomendable",4,positivo,2024-10-03
+R00027,Laptop,Tienda 123,"Mejor de lo que esperaba, volvería a comprar",4,positivo,2024-09-08
+R00028,Teclado,Empresa Beta,"Mejor de lo que esperaba, volvería a comprar",5,positivo,2024-07-20
+R00029,Mouse,Grupo Gamma,"Pésimo servicio, llegó dañado",1,negativo,2024-07-25
+R00030,Router,Venta Mostrador,Buena calidad y rápido envío,5,positivo,2024-01-10
+R00031,Audífonos,Cliente Premium,Buena calidad y rápido envío,4,positivo,2024-06-06
+R00032,Router,Empresa XYZ,"Entrega a tiempo, el producto es normal",3,neutro,2024-09-18
+R00033,Webcam,Distribuidora ABC,Está bien para el precio que tiene,3,neutro,2024-03-09
+R00034,SSD,Tienda 123,Muy buen rendimiento a este precio,5,positivo,2024-11-24
+R00035,Teclado,Comprador Final,Buena calidad y rápido envío,5,positivo,2024-05-11
+R00036,Monitor,Mayorista JJ,Podría ser mejor pero es aceptable,3,neutro,2024-05-05
+R00037,Audífonos,Comercial MX,Podría ser mejor pero es aceptable,3,neutro,2024-06-27
+R00038,SSD,Mayorista JJ,"Sobrevalorado, no vale lo que cuesta",2,negativo,2024-07-24
+R00039,Router,Comprador Final,No cumple con las especificaciones,2,negativo,2024-01-12
+R00040,Monitor,Grupo Gamma,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-09-21
+R00041,Router,Cliente Premium,Muy buen rendimiento a este precio,4,positivo,2024-08-26
+R00042,Webcam,Grupo Gamma,"Mejor de lo que esperaba, volvería a comprar",4,positivo,2024-02-22
+R00043,Audífonos,Mayorista JJ,Buena calidad y rápido envío,4,positivo,2024-01-25
+R00044,Webcam,Soluciones Inc,Está bien para el precio que tiene,3,neutro,2024-04-10
+R00045,Mouse,Tienda 123,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-10-19
+R00046,Laptop,Distribuidora ABC,"Excelente producto, muy recomendable",4,positivo,2024-05-15
+R00047,Mouse,Soluciones Inc,Muy buen rendimiento a este precio,5,positivo,2024-03-01
+R00048,Router,Venta Mostrador,Buena calidad y rápido envío,4,positivo,2024-08-18
+R00049,Teclado,Soluciones Inc,Muy buen rendimiento a este precio,5,positivo,2024-04-29
+R00050,Audífonos,Empresa Beta,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-01-22
+R00051,SSD,Empresa XYZ,"Mala calidad, se rompió en una semana",1,negativo,2024-02-17
+R00052,SSD,Cliente Corp,Muy buen rendimiento a este precio,4,positivo,2024-04-27
+R00053,Audífonos,Comprador Final,Cumple su función básica,3,neutro,2024-08-19
+R00054,Webcam,Grupo Gamma,Cumple su función básica,3,neutro,2024-03-18
+R00055,Webcam,Venta Mostrador,"Pésimo servicio, llegó dañado",2,negativo,2024-04-25
+R00056,Router,Empresa XYZ,Muy buen rendimiento a este precio,4,positivo,2024-04-09
+R00057,SSD,Comprador Final,Buena calidad y rápido envío,4,positivo,2024-03-12
+R00058,Mouse,Soluciones Inc,Buena calidad y rápido envío,4,positivo,2024-06-10
+R00059,Webcam,Mayorista JJ,"Cumple con lo prometido, estoy satisfecho",5,positivo,2024-03-09
+R00060,Mouse,Grupo Gamma,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-11-11
+R00061,Laptop,Comprador Final,"Sobrevalorado, no vale lo que cuesta",1,negativo,2024-01-18
+R00062,Teclado,Cliente Corp,"Cumple con lo prometido, estoy satisfecho",5,positivo,2024-04-28
+R00063,SSD,Distribuidora ABC,"Sobrevalorado, no vale lo que cuesta",1,negativo,2024-02-03
+R00064,Monitor,Grupo Gamma,"Mejor de lo que esperaba, volvería a comprar",4,positivo,2024-11-18
+R00065,Laptop,Comercial MX,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-03-28
+R00066,Audífonos,Soluciones Inc,"Mejor de lo que esperaba, volvería a comprar",5,positivo,2024-11-07
+R00067,SSD,Empresa Beta,"Excelente producto, muy recomendable",4,positivo,2024-12-25
+R00068,Laptop,Grupo Gamma,"Excelente producto, muy recomendable",4,positivo,2024-04-12
+R00069,SSD,Empresa XYZ,Muy buen rendimiento a este precio,4,positivo,2024-05-04
+R00070,Teclado,Venta Mostrador,Buena calidad y rápido envío,4,positivo,2024-04-09
+R00071,Teclado,Comercial MX,"Pésimo servicio, llegó dañado",2,negativo,2024-04-28
+R00072,Router,Soluciones Inc,"Mala calidad, se rompió en una semana",2,negativo,2024-02-11
+R00073,SSD,Grupo Gamma,Buena calidad y rápido envío,5,positivo,2024-06-01
+R00074,Laptop,Mayorista JJ,Cumple su función básica,3,neutro,2024-09-17
+R00075,SSD,Grupo Gamma,"No funciona como esperaba, defectuoso",2,negativo,2024-04-25
+R00076,Mouse,Distribuidora ABC,"Excelente producto, muy recomendable",4,positivo,2024-11-06
+R00077,SSD,Cliente Premium,"Mejor de lo que esperaba, volvería a comprar",5,positivo,2024-08-08
+R00078,SSD,Distribuidora ABC,Cumple su función básica,3,neutro,2024-07-15
+R00079,Webcam,Comercial MX,Muy buen rendimiento a este precio,5,positivo,2024-11-13
+R00080,SSD,Comprador Final,Muy buen rendimiento a este precio,4,positivo,2024-01-14
+R00081,Laptop,Grupo Gamma,"No funciona como esperaba, defectuoso",2,negativo,2024-03-21
+R00082,Router,Grupo Gamma,"Es lo que esperaba, ni más ni menos",3,neutro,2024-10-25
+R00083,Teclado,Comercial MX,Muy buen rendimiento a este precio,4,positivo,2024-12-25
+R00084,Audífonos,Venta Mostrador,"Excelente producto, muy recomendable",4,positivo,2024-01-07
+R00085,Webcam,Grupo Gamma,"Entrega a tiempo, el producto es normal",3,neutro,2024-03-17
+R00086,Mouse,Venta Mostrador,Muy buen rendimiento a este precio,4,positivo,2024-11-13
+R00087,Teclado,Cliente Corp,Muy buen rendimiento a este precio,4,positivo,2024-11-28
+R00088,Laptop,Empresa Beta,Está bien para el precio que tiene,3,neutro,2024-02-12
+R00089,Laptop,Grupo Gamma,Buena calidad y rápido envío,5,positivo,2024-04-14
+R00090,Mouse,Venta Mostrador,No cumple con las especificaciones,1,negativo,2024-08-20
+R00091,Laptop,Grupo Gamma,"Pésimo servicio, llegó dañado",2,negativo,2024-10-08
+R00092,Monitor,Comercial MX,"Es lo que esperaba, ni más ni menos",3,neutro,2024-04-16
+R00093,Teclado,Comprador Final,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-05-18
+R00094,SSD,Cliente Corp,Buena calidad y rápido envío,5,positivo,2024-05-15
+R00095,SSD,Comprador Final,No cumple con las especificaciones,2,negativo,2024-04-29
+R00096,Audífonos,Grupo Gamma,Muy buen rendimiento a este precio,4,positivo,2024-10-29
+R00097,Audífonos,Soluciones Inc,"Pésimo servicio, llegó dañado",1,negativo,2024-03-19
+R00098,Mouse,Soluciones Inc,"Cumple con lo prometido, estoy satisfecho",4,positivo,2024-06-29
+R00099,Teclado,Distribuidora ABC,Podría ser mejor pero es aceptable,3,neutro,2024-07-31
+R00100,Laptop,Cliente Premium,Muy buen rendimiento a este precio,4,positivo,2024-06-05

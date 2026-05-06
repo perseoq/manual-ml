@@ -1,0 +1,201 @@
+orden_id,fecha_orden,fecha_entrega,proveedor_id,proveedor,calidad_proveedor,sku,producto,categoria,cantidad,costo_unitario,costo_total,dias_estimados,dias_reales,retraso,entregado,puntual
+OC-00001,2024-01-12,2024-01-16,PROV005,Logística Integral de Cómputo,88,MUE002,Escritorio Eléctrico,Muebles,33,4741.27,156461.91,4,4.0,2.0,True,False
+OC-00002,2024-10-24,,PROV003,Suministros Empresariales C.A.,92,DIS001,SSD 1TB,Almacenamiento,41,1401.67,57468.47,2,,,False,False
+OC-00003,2024-05-19,2024-05-31,PROV004,TecnoPartes del Sur,60,DIS001,SSD 1TB,Almacenamiento,20,1315.59,26311.8,10,12.0,0.0,True,True
+OC-00004,2024-03-03,2024-03-21,PROV004,TecnoPartes del Sur,60,MUE001,Silla Ergonómica,Muebles,22,3960.02,87120.44,10,18.0,4.0,True,False
+OC-00005,2024-04-30,2024-05-04,PROV002,Importaciones Globales Ltda.,70,LAP002,Laptop Air 13,Electrónica,79,9663.62,763425.98,7,4.0,0.0,True,True
+OC-00006,2024-09-01,2024-09-02,PROV001,Distribuidora Tecnológica S.A.,85,SOF002,Antivirus 3 equipos,Software,50,382.53,19126.5,3,1.0,0.0,True,True
+OC-00007,2024-05-08,2024-05-10,PROV001,Distribuidora Tecnológica S.A.,85,MOU002,Mouse Gamer,Periféricos,30,637.37,19121.1,3,2.0,0.0,True,True
+OC-00008,2024-07-09,2024-07-18,PROV004,TecnoPartes del Sur,60,WEB001,Webcam HD,Cámaras,31,774.33,24004.23,10,9.0,0.0,True,True
+OC-00009,2024-01-06,2024-01-09,PROV003,Suministros Empresariales C.A.,92,MOU001,Mouse Ergonómico,Periféricos,44,315.91,13900.04,2,3.0,4.0,True,False
+OC-00010,2024-12-08,2024-12-12,PROV006,Comercializadora Digital Express,75,TEC001,Teclado Mecánico,Periféricos,33,749.31,24727.23,5,4.0,0.0,True,True
+OC-00011,2024-10-13,2024-10-16,PROV001,Distribuidora Tecnológica S.A.,85,WEB001,Webcam HD,Cámaras,11,821.94,9041.34,3,3.0,0.0,True,True
+OC-00012,2024-09-10,2024-09-14,PROV006,Comercializadora Digital Express,75,LAP001,Laptop Pro 15,Electrónica,29,13334.22,386692.38,5,4.0,2.0,True,False
+OC-00013,2024-12-20,2024-12-23,PROV005,Logística Integral de Cómputo,88,MUE001,Silla Ergonómica,Muebles,26,3362.29,87419.54,4,3.0,0.0,True,True
+OC-00014,2024-08-19,2024-08-28,PROV006,Comercializadora Digital Express,75,MON001,Monitor 27 4K,Electrónica,22,5856.22,128836.84,5,9.0,0.0,True,True
+OC-00015,2024-08-13,2024-08-23,PROV004,TecnoPartes del Sur,60,WEB002,Cámara Seguridad,Cámaras,27,1858.06,50167.62,10,10.0,0.0,True,True
+OC-00016,2024-02-14,,PROV007,Mayorista de Tecnología,95,MOU002,Mouse Gamer,Periféricos,21,579.83,12176.43,1,,,False,False
+OC-00017,2024-10-18,2024-10-21,PROV007,Mayorista de Tecnología,95,PAP002,Tinta Impresora,Papelería,85,241.63,20538.55,1,3.0,1.0,True,False
+OC-00018,2024-03-29,2024-04-03,PROV003,Suministros Empresariales C.A.,92,SOF002,Antivirus 3 equipos,Software,22,363.86,8004.92,2,5.0,3.0,True,False
+OC-00019,2024-11-29,2024-11-30,PROV007,Mayorista de Tecnología,95,PAP001,Papel Bond 5000 hojas,Papelería,34,189.19,6432.46,1,1.0,0.0,True,True
+OC-00020,2024-10-15,2024-10-18,PROV003,Suministros Empresariales C.A.,92,MON001,Monitor 27 4K,Electrónica,24,5502.12,132050.88,2,3.0,0.0,True,True
+OC-00021,2024-03-13,2024-03-22,PROV004,TecnoPartes del Sur,60,RED001,Router WiFi 6,Redes,25,1376.75,34418.75,10,9.0,0.0,True,True
+OC-00022,2024-02-29,2024-03-07,PROV006,Comercializadora Digital Express,75,RED002,Switch 8 puertos,Redes,36,550.38,19813.68,5,7.0,0.0,True,True
+OC-00023,2024-08-12,2024-08-16,PROV006,Comercializadora Digital Express,75,MOU002,Mouse Gamer,Periféricos,6,520.36,3122.16,5,4.0,0.0,True,True
+OC-00024,2024-05-09,2024-05-14,PROV002,Importaciones Globales Ltda.,70,WEB002,Cámara Seguridad,Cámaras,22,1552.03,34144.66,7,5.0,0.0,True,True
+OC-00025,2024-05-08,,PROV005,Logística Integral de Cómputo,88,RED001,Router WiFi 6,Redes,31,1366.73,42368.63,4,,,False,False
+OC-00026,2024-10-26,,PROV005,Logística Integral de Cómputo,88,DIS003,USB 64GB,Almacenamiento,38,171.45,6515.1,4,,,False,False
+OC-00027,2024-09-28,,PROV002,Importaciones Globales Ltda.,70,PAP002,Tinta Impresora,Papelería,51,240.69,12275.19,7,,,False,False
+OC-00028,2024-02-27,,PROV002,Importaciones Globales Ltda.,70,DIS002,HDD 4TB,Almacenamiento,24,1076.39,25833.36,7,,,False,False
+OC-00029,2024-09-08,,PROV005,Logística Integral de Cómputo,88,TEC001,Teclado Mecánico,Periféricos,18,851.31,15323.58,4,,,False,False
+OC-00030,2024-04-27,2024-04-28,PROV001,Distribuidora Tecnológica S.A.,85,RED002,Switch 8 puertos,Redes,15,671.93,10078.95,3,1.0,1.0,True,False
+OC-00031,2024-05-08,2024-05-18,PROV004,TecnoPartes del Sur,60,LAP001,Laptop Pro 15,Electrónica,16,11946.03,191136.48,10,10.0,3.0,True,False
+OC-00032,2024-03-25,2024-03-30,PROV001,Distribuidora Tecnológica S.A.,85,AUD001,Audífonos Bluetooth,Audio,6,1032.27,6193.62,3,5.0,1.0,True,False
+OC-00033,2024-04-26,2024-05-06,PROV004,TecnoPartes del Sur,60,MON001,Monitor 27 4K,Electrónica,34,5267.32,179088.88,10,10.0,1.0,True,False
+OC-00034,2024-11-19,2024-11-21,PROV003,Suministros Empresariales C.A.,92,WEB002,Cámara Seguridad,Cámaras,57,1985.8,113190.6,2,2.0,1.0,True,False
+OC-00035,2024-06-14,2024-06-18,PROV002,Importaciones Globales Ltda.,70,MON002,Monitor 24 HD,Electrónica,29,2534.43,73498.47,7,4.0,1.0,True,False
+OC-00036,2024-09-22,2024-10-06,PROV004,TecnoPartes del Sur,60,TEC002,Teclado Inalámbrico,Periféricos,42,435.1,18274.2,10,14.0,4.0,True,False
+OC-00037,2024-11-27,2024-12-06,PROV006,Comercializadora Digital Express,75,MUE003,Lámpara LED,Muebles,26,335.25,8716.5,5,9.0,0.0,True,True
+OC-00038,2024-09-30,2024-10-04,PROV005,Logística Integral de Cómputo,88,TEC002,Teclado Inalámbrico,Periféricos,55,402.14,22117.7,4,4.0,0.0,True,True
+OC-00039,2024-07-21,2024-07-24,PROV001,Distribuidora Tecnológica S.A.,85,MUE003,Lámpara LED,Muebles,10,299.85,2998.5,3,3.0,0.0,True,True
+OC-00040,2024-12-01,2024-12-02,PROV001,Distribuidora Tecnológica S.A.,85,WEB002,Cámara Seguridad,Cámaras,33,1993.19,65775.27,3,1.0,0.0,True,True
+OC-00041,2024-08-31,2024-09-02,PROV001,Distribuidora Tecnológica S.A.,85,LAP002,Laptop Air 13,Electrónica,24,8379.74,201113.76,3,2.0,0.0,True,True
+OC-00042,2024-03-20,2024-03-24,PROV005,Logística Integral de Cómputo,88,MUE003,Lámpara LED,Muebles,18,322.87,5811.66,4,4.0,2.0,True,False
+OC-00043,2024-05-26,2024-05-27,PROV003,Suministros Empresariales C.A.,92,LAP001,Laptop Pro 15,Electrónica,87,11459.63,996987.81,2,1.0,0.0,True,True
+OC-00044,2024-12-11,2024-12-12,PROV007,Mayorista de Tecnología,95,LAP002,Laptop Air 13,Electrónica,14,9918.97,138865.58,1,1.0,1.0,True,False
+OC-00045,2024-02-23,2024-02-28,PROV002,Importaciones Globales Ltda.,70,MOU001,Mouse Ergonómico,Periféricos,13,351.52,4569.76,7,5.0,0.0,True,True
+OC-00046,2024-02-19,2024-02-20,PROV007,Mayorista de Tecnología,95,AUD001,Audífonos Bluetooth,Audio,14,1372.36,19213.04,1,1.0,2.0,True,False
+OC-00047,2024-05-23,2024-05-24,PROV003,Suministros Empresariales C.A.,92,MON002,Monitor 24 HD,Electrónica,33,2320.58,76579.14,2,1.0,0.0,True,True
+OC-00048,2024-02-23,2024-02-27,PROV001,Distribuidora Tecnológica S.A.,85,AUD002,Parlante Portátil,Audio,4,770.78,3083.12,3,4.0,0.0,True,True
+OC-00049,2024-10-31,2024-11-11,PROV006,Comercializadora Digital Express,75,DIS003,USB 64GB,Almacenamiento,22,158.78,3493.16,5,11.0,5.0,True,False
+OC-00050,2024-10-30,2024-10-31,PROV007,Mayorista de Tecnología,95,MON001,Monitor 27 4K,Electrónica,20,5317.83,106356.6,1,1.0,0.0,True,True
+OC-00051,2024-10-16,2024-10-22,PROV006,Comercializadora Digital Express,75,WEB001,Webcam HD,Cámaras,14,784.23,10979.22,5,6.0,0.0,True,True
+OC-00052,2024-01-04,2024-01-10,PROV006,Comercializadora Digital Express,75,DIS003,USB 64GB,Almacenamiento,21,167.32,3513.72,5,6.0,0.0,True,True
+OC-00053,2024-06-09,2024-06-16,PROV005,Logística Integral de Cómputo,88,MUE001,Silla Ergonómica,Muebles,14,3329.44,46612.16,4,7.0,0.0,True,True
+OC-00054,2024-06-17,2024-06-22,PROV005,Logística Integral de Cómputo,88,RED001,Router WiFi 6,Redes,43,1353.97,58220.71,4,5.0,0.0,True,True
+OC-00055,2024-09-07,2024-09-17,PROV004,TecnoPartes del Sur,60,TEC002,Teclado Inalámbrico,Periféricos,19,456.81,8679.39,10,10.0,0.0,True,True
+OC-00056,2024-04-04,2024-04-07,PROV005,Logística Integral de Cómputo,88,MUE002,Escritorio Eléctrico,Muebles,45,5168.19,232568.55,4,3.0,3.0,True,False
+OC-00057,2024-12-20,2024-12-25,PROV006,Comercializadora Digital Express,75,MUE002,Escritorio Eléctrico,Muebles,31,4224.71,130966.01,5,5.0,0.0,True,True
+OC-00058,2024-06-28,2024-06-30,PROV001,Distribuidora Tecnológica S.A.,85,MOU002,Mouse Gamer,Periféricos,6,660.69,3964.14,3,2.0,0.0,True,True
+OC-00059,2024-04-07,2024-04-13,PROV004,TecnoPartes del Sur,60,MOU002,Mouse Gamer,Periféricos,21,644.34,13531.14,10,6.0,0.0,True,True
+OC-00060,2024-09-13,2024-09-19,PROV005,Logística Integral de Cómputo,88,AUD001,Audífonos Bluetooth,Audio,65,1112.24,72295.6,4,6.0,0.0,True,True
+OC-00061,2024-02-19,2024-02-22,PROV006,Comercializadora Digital Express,75,MUE003,Lámpara LED,Muebles,27,278.52,7520.04,5,3.0,0.0,True,True
+OC-00062,2024-08-13,2024-08-14,PROV005,Logística Integral de Cómputo,88,TEC001,Teclado Mecánico,Periféricos,60,892.79,53567.4,4,1.0,0.0,True,True
+OC-00063,2024-03-26,2024-04-07,PROV004,TecnoPartes del Sur,60,DIS002,HDD 4TB,Almacenamiento,25,1102.69,27567.25,10,12.0,0.0,True,True
+OC-00064,2024-02-06,2024-02-11,PROV004,TecnoPartes del Sur,60,DIS002,HDD 4TB,Almacenamiento,40,1232.74,49309.6,10,5.0,0.0,True,True
+OC-00065,2024-06-20,2024-06-29,PROV004,TecnoPartes del Sur,60,DIS002,HDD 4TB,Almacenamiento,33,1233.9,40718.7,10,9.0,2.0,True,False
+OC-00066,2024-05-29,2024-06-07,PROV002,Importaciones Globales Ltda.,70,DIS002,HDD 4TB,Almacenamiento,24,1100.78,26418.72,7,9.0,0.0,True,True
+OC-00067,2024-02-22,2024-02-23,PROV003,Suministros Empresariales C.A.,92,MOU001,Mouse Ergonómico,Periféricos,59,328.63,19389.17,2,1.0,0.0,True,True
+OC-00068,2024-02-26,2024-03-02,PROV002,Importaciones Globales Ltda.,70,MUE001,Silla Ergonómica,Muebles,32,3448.44,110350.08,7,5.0,3.0,True,False
+OC-00069,2024-04-30,2024-05-01,PROV007,Mayorista de Tecnología,95,MUE002,Escritorio Eléctrico,Muebles,12,5126.23,61514.76,1,1.0,4.0,True,False
+OC-00070,2024-10-13,,PROV006,Comercializadora Digital Express,75,PAP002,Tinta Impresora,Papelería,39,277.32,10815.48,5,,,False,False
+OC-00071,2024-01-29,2024-02-02,PROV003,Suministros Empresariales C.A.,92,MOU002,Mouse Gamer,Periféricos,50,531.16,26558.0,2,4.0,0.0,True,True
+OC-00072,2024-01-18,2024-01-26,PROV002,Importaciones Globales Ltda.,70,MUE002,Escritorio Eléctrico,Muebles,12,4936.45,59237.4,7,8.0,2.0,True,False
+OC-00073,2024-01-08,,PROV003,Suministros Empresariales C.A.,92,DIS002,HDD 4TB,Almacenamiento,16,1129.85,18077.6,2,,,False,False
+OC-00074,2024-11-22,,PROV002,Importaciones Globales Ltda.,70,MON001,Monitor 27 4K,Electrónica,40,5537.96,221518.4,7,,,False,False
+OC-00075,2024-11-20,2024-11-23,PROV001,Distribuidora Tecnológica S.A.,85,WEB001,Webcam HD,Cámaras,19,1006.77,19128.63,3,3.0,0.0,True,True
+OC-00076,2024-10-25,2024-10-27,PROV003,Suministros Empresariales C.A.,92,RED001,Router WiFi 6,Redes,30,1130.83,33924.9,2,2.0,2.0,True,False
+OC-00077,2024-05-07,2024-05-13,PROV002,Importaciones Globales Ltda.,70,MUE001,Silla Ergonómica,Muebles,27,3321.35,89676.45,7,6.0,2.0,True,False
+OC-00078,2024-10-04,2024-10-17,PROV004,TecnoPartes del Sur,60,PAP002,Tinta Impresora,Papelería,5,214.63,1073.15,10,13.0,2.0,True,False
+OC-00079,2024-10-22,2024-10-23,PROV007,Mayorista de Tecnología,95,AUD001,Audífonos Bluetooth,Audio,28,1301.7,36447.6,1,1.0,3.0,True,False
+OC-00080,2024-02-28,2024-03-09,PROV004,TecnoPartes del Sur,60,PAP002,Tinta Impresora,Papelería,54,235.31,12706.74,10,10.0,4.0,True,False
+OC-00081,2024-07-21,2024-07-22,PROV007,Mayorista de Tecnología,95,TEC001,Teclado Mecánico,Periféricos,36,912.16,32837.76,1,1.0,0.0,True,True
+OC-00082,2024-01-27,2024-01-29,PROV001,Distribuidora Tecnológica S.A.,85,DIS002,HDD 4TB,Almacenamiento,25,1080.67,27016.75,3,2.0,4.0,True,False
+OC-00083,2024-10-01,2024-10-05,PROV006,Comercializadora Digital Express,75,TEC002,Teclado Inalámbrico,Periféricos,46,408.5,18791.0,5,4.0,0.0,True,True
+OC-00084,2024-12-16,2024-12-21,PROV002,Importaciones Globales Ltda.,70,MON001,Monitor 27 4K,Electrónica,8,6099.94,48799.52,7,5.0,3.0,True,False
+OC-00085,2024-05-19,2024-05-24,PROV005,Logística Integral de Cómputo,88,LAP002,Laptop Air 13,Electrónica,11,9114.77,100262.47,4,5.0,0.0,True,True
+OC-00086,2024-02-13,2024-02-14,PROV007,Mayorista de Tecnología,95,RED002,Switch 8 puertos,Redes,68,531.89,36168.52,1,1.0,0.0,True,True
+OC-00087,2024-06-03,2024-06-05,PROV003,Suministros Empresariales C.A.,92,TEC002,Teclado Inalámbrico,Periféricos,44,461.52,20306.88,2,2.0,0.0,True,True
+OC-00088,2024-12-30,2025-01-05,PROV006,Comercializadora Digital Express,75,SOF002,Antivirus 3 equipos,Software,48,425.56,20426.88,5,6.0,0.0,True,True
+OC-00089,2024-05-15,2024-05-19,PROV005,Logística Integral de Cómputo,88,TEC001,Teclado Mecánico,Periféricos,27,859.66,23210.82,4,4.0,0.0,True,True
+OC-00090,2024-08-11,2024-08-17,PROV003,Suministros Empresariales C.A.,92,TEC002,Teclado Inalámbrico,Periféricos,28,491.54,13763.12,2,6.0,0.0,True,True
+OC-00091,2024-04-03,,PROV003,Suministros Empresariales C.A.,92,DIS001,SSD 1TB,Almacenamiento,45,1405.88,63264.6,2,,,False,False
+OC-00092,2024-10-31,2024-11-03,PROV005,Logística Integral de Cómputo,88,SOF002,Antivirus 3 equipos,Software,8,347.8,2782.4,4,3.0,0.0,True,True
+OC-00093,2024-12-30,2025-01-09,PROV004,TecnoPartes del Sur,60,SOF001,Office 365 1 año,Software,22,831.82,18300.04,10,10.0,0.0,True,True
+OC-00094,2024-11-26,2024-11-29,PROV001,Distribuidora Tecnológica S.A.,85,SOF002,Antivirus 3 equipos,Software,11,423.38,4657.18,3,3.0,0.0,True,True
+OC-00095,2024-07-11,2024-07-12,PROV003,Suministros Empresariales C.A.,92,WEB001,Webcam HD,Cámaras,51,837.09,42691.59,2,1.0,0.0,True,True
+OC-00096,2024-11-29,2024-12-01,PROV006,Comercializadora Digital Express,75,PAP002,Tinta Impresora,Papelería,27,272.84,7366.68,5,2.0,0.0,True,True
+OC-00097,2024-06-08,2024-06-14,PROV005,Logística Integral de Cómputo,88,LAP001,Laptop Pro 15,Electrónica,22,13513.33,297293.26,4,6.0,4.0,True,False
+OC-00098,2024-09-28,2024-10-01,PROV006,Comercializadora Digital Express,75,DIS003,USB 64GB,Almacenamiento,15,138.2,2073.0,5,3.0,0.0,True,True
+OC-00099,2024-10-27,2024-11-01,PROV001,Distribuidora Tecnológica S.A.,85,DIS001,SSD 1TB,Almacenamiento,14,1301.88,18226.32,3,5.0,0.0,True,True
+OC-00100,2024-03-07,2024-03-11,PROV004,TecnoPartes del Sur,60,WEB002,Cámara Seguridad,Cámaras,28,1617.34,45285.52,10,4.0,0.0,True,True
+OC-00101,2024-07-08,,PROV006,Comercializadora Digital Express,75,PAP002,Tinta Impresora,Papelería,41,237.31,9729.71,5,,,False,False
+OC-00102,2024-09-23,2024-09-25,PROV003,Suministros Empresariales C.A.,92,DIS001,SSD 1TB,Almacenamiento,33,1571.25,51851.25,2,2.0,2.0,True,False
+OC-00103,2024-11-19,2024-11-28,PROV004,TecnoPartes del Sur,60,PAP002,Tinta Impresora,Papelería,32,230.85,7387.2,10,9.0,0.0,True,True
+OC-00104,2024-06-03,2024-06-10,PROV002,Importaciones Globales Ltda.,70,SOF001,Office 365 1 año,Software,40,784.8,31392.0,7,7.0,0.0,True,True
+OC-00105,2024-02-23,2024-02-24,PROV007,Mayorista de Tecnología,95,TEC001,Teclado Mecánico,Periféricos,18,740.46,13328.28,1,1.0,0.0,True,True
+OC-00106,2024-01-09,2024-01-16,PROV006,Comercializadora Digital Express,75,SOF002,Antivirus 3 equipos,Software,27,345.22,9320.94,5,7.0,0.0,True,True
+OC-00107,2024-12-03,2024-12-06,PROV003,Suministros Empresariales C.A.,92,TEC001,Teclado Mecánico,Periféricos,13,724.72,9421.36,2,3.0,0.0,True,True
+OC-00108,2024-01-10,2024-01-11,PROV007,Mayorista de Tecnología,95,MUE003,Lámpara LED,Muebles,44,277.47,12208.68,1,1.0,0.0,True,True
+OC-00109,2024-05-31,2024-06-10,PROV004,TecnoPartes del Sur,60,TEC001,Teclado Mecánico,Periféricos,24,894.33,21463.92,10,10.0,2.0,True,False
+OC-00110,2024-07-30,2024-07-31,PROV003,Suministros Empresariales C.A.,92,AUD003,Micrófono USB,Audio,11,1366.19,15028.09,2,1.0,2.0,True,False
+OC-00111,2024-10-18,2024-10-21,PROV005,Logística Integral de Cómputo,88,RED001,Router WiFi 6,Redes,23,1166.09,26820.07,4,3.0,1.0,True,False
+OC-00112,2024-08-16,2024-08-20,PROV001,Distribuidora Tecnológica S.A.,85,PAP001,Papel Bond 5000 hojas,Papelería,10,190.55,1905.5,3,4.0,2.0,True,False
+OC-00113,2024-04-16,2024-04-19,PROV003,Suministros Empresariales C.A.,92,RED001,Router WiFi 6,Redes,27,1211.64,32714.28,2,3.0,0.0,True,True
+OC-00114,2024-04-28,2024-05-03,PROV006,Comercializadora Digital Express,75,LAP002,Laptop Air 13,Electrónica,18,10107.05,181926.9,5,5.0,0.0,True,True
+OC-00115,2024-01-07,2024-01-08,PROV007,Mayorista de Tecnología,95,DIS002,HDD 4TB,Almacenamiento,34,1057.89,35968.26,1,1.0,0.0,True,True
+OC-00116,2024-06-21,,PROV003,Suministros Empresariales C.A.,92,WEB001,Webcam HD,Cámaras,27,895.72,24184.44,2,,,False,False
+OC-00117,2024-08-09,2024-08-14,PROV005,Logística Integral de Cómputo,88,AUD003,Micrófono USB,Audio,25,1359.6,33990.0,4,5.0,0.0,True,True
+OC-00118,2024-07-27,2024-07-30,PROV001,Distribuidora Tecnológica S.A.,85,MON002,Monitor 24 HD,Electrónica,42,2653.83,111460.86,3,3.0,4.0,True,False
+OC-00119,2024-05-04,2024-05-05,PROV003,Suministros Empresariales C.A.,92,SOF002,Antivirus 3 equipos,Software,29,414.29,12014.41,2,1.0,0.0,True,True
+OC-00120,2024-11-25,2024-11-27,PROV001,Distribuidora Tecnológica S.A.,85,MUE002,Escritorio Eléctrico,Muebles,38,4226.89,160621.82,3,2.0,0.0,True,True
+OC-00121,2024-12-27,2025-01-04,PROV006,Comercializadora Digital Express,75,SOF002,Antivirus 3 equipos,Software,10,410.47,4104.7,5,8.0,0.0,True,True
+OC-00122,2024-01-17,2024-01-25,PROV002,Importaciones Globales Ltda.,70,MON001,Monitor 27 4K,Electrónica,23,5412.0,124476.0,7,8.0,3.0,True,False
+OC-00123,2024-01-21,2024-01-23,PROV005,Logística Integral de Cómputo,88,MOU001,Mouse Ergonómico,Periféricos,26,336.46,8747.96,4,2.0,0.0,True,True
+OC-00124,2024-06-03,2024-06-04,PROV003,Suministros Empresariales C.A.,92,DIS003,USB 64GB,Almacenamiento,33,132.41,4369.53,2,1.0,0.0,True,True
+OC-00125,2024-07-20,2024-07-22,PROV003,Suministros Empresariales C.A.,92,MUE001,Silla Ergonómica,Muebles,33,3516.0,116028.0,2,2.0,0.0,True,True
+OC-00126,2024-10-11,2024-10-13,PROV001,Distribuidora Tecnológica S.A.,85,MOU002,Mouse Gamer,Periféricos,19,578.54,10992.26,3,2.0,4.0,True,False
+OC-00127,2024-01-21,2024-01-25,PROV001,Distribuidora Tecnológica S.A.,85,AUD001,Audífonos Bluetooth,Audio,25,1059.98,26499.5,3,4.0,0.0,True,True
+OC-00128,2024-01-04,,PROV007,Mayorista de Tecnología,95,AUD001,Audífonos Bluetooth,Audio,61,1036.42,63221.62,1,,,False,False
+OC-00129,2024-03-08,2024-03-09,PROV007,Mayorista de Tecnología,95,AUD002,Parlante Portátil,Audio,33,867.72,28634.76,1,1.0,0.0,True,True
+OC-00130,2024-12-19,2024-12-21,PROV005,Logística Integral de Cómputo,88,DIS001,SSD 1TB,Almacenamiento,19,1372.53,26078.07,4,2.0,2.0,True,False
+OC-00131,2024-10-12,2024-10-16,PROV001,Distribuidora Tecnológica S.A.,85,RED001,Router WiFi 6,Redes,9,1190.37,10713.33,3,4.0,0.0,True,True
+OC-00132,2024-06-20,2024-07-03,PROV004,TecnoPartes del Sur,60,AUD002,Parlante Portátil,Audio,18,800.88,14415.84,10,13.0,0.0,True,True
+OC-00133,2024-09-07,2024-09-08,PROV007,Mayorista de Tecnología,95,TEC001,Teclado Mecánico,Periféricos,28,807.66,22614.48,1,1.0,2.0,True,False
+OC-00134,2024-07-03,,PROV002,Importaciones Globales Ltda.,70,MUE001,Silla Ergonómica,Muebles,7,3786.39,26504.73,7,,,False,False
+OC-00135,2024-03-09,2024-03-27,PROV004,TecnoPartes del Sur,60,MON002,Monitor 24 HD,Electrónica,48,2388.32,114639.36,10,18.0,3.0,True,False
+OC-00136,2024-12-19,2024-12-25,PROV006,Comercializadora Digital Express,75,LAP001,Laptop Pro 15,Electrónica,32,11437.67,366005.44,5,6.0,0.0,True,True
+OC-00137,2024-08-27,2024-08-28,PROV007,Mayorista de Tecnología,95,MUE003,Lámpara LED,Muebles,29,287.0,8323.0,1,1.0,3.0,True,False
+OC-00138,2024-04-15,2024-04-19,PROV003,Suministros Empresariales C.A.,92,DIS001,SSD 1TB,Almacenamiento,33,1574.77,51967.41,2,4.0,0.0,True,True
+OC-00139,2024-01-28,2024-02-10,PROV004,TecnoPartes del Sur,60,MUE003,Lámpara LED,Muebles,33,276.26,9116.58,10,13.0,2.0,True,False
+OC-00140,2024-05-07,2024-05-12,PROV005,Logística Integral de Cómputo,88,MOU001,Mouse Ergonómico,Periféricos,24,332.84,7988.16,4,5.0,1.0,True,False
+OC-00141,2024-05-11,2024-05-16,PROV005,Logística Integral de Cómputo,88,MOU002,Mouse Gamer,Periféricos,44,684.4,30113.6,4,5.0,0.0,True,True
+OC-00142,2024-11-17,2024-11-24,PROV004,TecnoPartes del Sur,60,MUE002,Escritorio Eléctrico,Muebles,7,5063.36,35443.52,10,7.0,3.0,True,False
+OC-00143,2024-01-27,2024-02-03,PROV006,Comercializadora Digital Express,75,WEB001,Webcam HD,Cámaras,32,783.25,25064.0,5,7.0,1.0,True,False
+OC-00144,2024-11-06,2024-11-09,PROV005,Logística Integral de Cómputo,88,MUE003,Lámpara LED,Muebles,32,331.15,10596.8,4,3.0,0.0,True,True
+OC-00145,2024-10-31,,PROV005,Logística Integral de Cómputo,88,MUE002,Escritorio Eléctrico,Muebles,25,3891.98,97299.5,4,,,False,False
+OC-00146,2024-01-23,2024-01-24,PROV003,Suministros Empresariales C.A.,92,PAP002,Tinta Impresora,Papelería,44,262.31,11541.64,2,1.0,0.0,True,True
+OC-00147,2024-11-27,2024-11-30,PROV005,Logística Integral de Cómputo,88,RED001,Router WiFi 6,Redes,38,1212.68,46081.84,4,3.0,2.0,True,False
+OC-00148,2024-09-14,,PROV003,Suministros Empresariales C.A.,92,SOF001,Office 365 1 año,Software,14,909.84,12737.76,2,,,False,False
+OC-00149,2024-05-07,,PROV006,Comercializadora Digital Express,75,MOU001,Mouse Ergonómico,Periféricos,30,378.37,11351.1,5,,,False,False
+OC-00150,2024-09-03,2024-09-06,PROV007,Mayorista de Tecnología,95,RED001,Router WiFi 6,Redes,37,1303.96,48246.52,1,3.0,6.0,True,False
+OC-00151,2024-04-11,2024-04-18,PROV001,Distribuidora Tecnológica S.A.,85,MUE002,Escritorio Eléctrico,Muebles,30,5143.1,154293.0,3,7.0,2.0,True,False
+OC-00152,2024-09-23,2024-09-25,PROV006,Comercializadora Digital Express,75,PAP002,Tinta Impresora,Papelería,16,275.76,4412.16,5,2.0,2.0,True,False
+OC-00153,2024-03-04,2024-03-05,PROV007,Mayorista de Tecnología,95,WEB001,Webcam HD,Cámaras,25,777.69,19442.25,1,1.0,0.0,True,True
+OC-00154,2024-01-23,2024-01-27,PROV005,Logística Integral de Cómputo,88,TEC001,Teclado Mecánico,Periféricos,77,820.11,63148.47,4,4.0,0.0,True,True
+OC-00155,2024-01-07,,PROV004,TecnoPartes del Sur,60,AUD002,Parlante Portátil,Audio,28,903.42,25295.76,10,,,False,False
+OC-00156,2024-10-09,2024-10-19,PROV002,Importaciones Globales Ltda.,70,AUD001,Audífonos Bluetooth,Audio,55,1030.18,56659.9,7,10.0,0.0,True,True
+OC-00157,2024-03-18,,PROV001,Distribuidora Tecnológica S.A.,85,MON002,Monitor 24 HD,Electrónica,8,2331.57,18652.56,3,,,False,False
+OC-00158,2024-03-14,2024-03-17,PROV006,Comercializadora Digital Express,75,DIS003,USB 64GB,Almacenamiento,9,152.68,1374.12,5,3.0,0.0,True,True
+OC-00159,2024-01-07,2024-01-08,PROV007,Mayorista de Tecnología,95,MOU001,Mouse Ergonómico,Periféricos,15,389.13,5836.95,1,1.0,0.0,True,True
+OC-00160,2024-01-16,2024-01-24,PROV005,Logística Integral de Cómputo,88,MUE003,Lámpara LED,Muebles,28,331.04,9269.12,4,8.0,0.0,True,True
+OC-00161,2024-12-02,2024-12-17,PROV002,Importaciones Globales Ltda.,70,MON002,Monitor 24 HD,Electrónica,15,2156.97,32354.55,7,15.0,0.0,True,True
+OC-00162,2024-09-25,2024-09-26,PROV003,Suministros Empresariales C.A.,92,RED001,Router WiFi 6,Redes,53,1148.16,60852.48,2,1.0,0.0,True,True
+OC-00163,2024-11-09,2024-11-12,PROV003,Suministros Empresariales C.A.,92,LAP002,Laptop Air 13,Electrónica,8,8890.88,71127.04,2,3.0,1.0,True,False
+OC-00164,2024-11-04,2024-11-06,PROV003,Suministros Empresariales C.A.,92,SOF001,Office 365 1 año,Software,24,851.89,20445.36,2,2.0,1.0,True,False
+OC-00165,2024-07-16,2024-07-21,PROV001,Distribuidora Tecnológica S.A.,85,MOU001,Mouse Ergonómico,Periféricos,20,381.43,7628.6,3,5.0,1.0,True,False
+OC-00166,2024-08-12,,PROV004,TecnoPartes del Sur,60,WEB002,Cámara Seguridad,Cámaras,22,1976.27,43477.94,10,,,False,False
+OC-00167,2024-02-07,2024-02-15,PROV006,Comercializadora Digital Express,75,MOU001,Mouse Ergonómico,Periféricos,16,335.02,5360.32,5,8.0,0.0,True,True
+OC-00168,2024-10-29,2024-10-30,PROV007,Mayorista de Tecnología,95,MUE001,Silla Ergonómica,Muebles,17,3621.98,61573.66,1,1.0,3.0,True,False
+OC-00169,2024-08-25,2024-09-04,PROV004,TecnoPartes del Sur,60,DIS001,SSD 1TB,Almacenamiento,31,1392.1,43155.1,10,10.0,2.0,True,False
+OC-00170,2024-12-03,,PROV003,Suministros Empresariales C.A.,92,SOF001,Office 365 1 año,Software,26,834.04,21685.04,2,,,False,False
+OC-00171,2024-09-23,2024-10-07,PROV004,TecnoPartes del Sur,60,MOU001,Mouse Ergonómico,Periféricos,55,307.15,16893.25,10,14.0,1.0,True,False
+OC-00172,2024-10-14,2024-10-27,PROV004,TecnoPartes del Sur,60,PAP001,Papel Bond 5000 hojas,Papelería,29,219.89,6376.81,10,13.0,0.0,True,True
+OC-00173,2024-03-27,2024-03-29,PROV003,Suministros Empresariales C.A.,92,RED002,Switch 8 puertos,Redes,61,689.38,42052.18,2,2.0,7.0,True,False
+OC-00174,2024-12-13,2024-12-31,PROV004,TecnoPartes del Sur,60,SOF001,Office 365 1 año,Software,49,1000.62,49030.38,10,18.0,0.0,True,True
+OC-00175,2024-09-29,2024-10-02,PROV005,Logística Integral de Cómputo,88,MUE001,Silla Ergonómica,Muebles,9,3900.96,35108.64,4,3.0,1.0,True,False
+OC-00176,2024-03-03,2024-03-08,PROV006,Comercializadora Digital Express,75,MUE003,Lámpara LED,Muebles,19,307.54,5843.26,5,5.0,0.0,True,True
+OC-00177,2024-10-20,,PROV002,Importaciones Globales Ltda.,70,PAP001,Papel Bond 5000 hojas,Papelería,61,215.28,13132.08,7,,,False,False
+OC-00178,2024-08-25,2024-08-29,PROV002,Importaciones Globales Ltda.,70,LAP002,Laptop Air 13,Electrónica,41,8055.05,330257.05,7,4.0,5.0,True,False
+OC-00179,2024-03-27,2024-03-29,PROV007,Mayorista de Tecnología,95,DIS003,USB 64GB,Almacenamiento,70,137.41,9618.7,1,2.0,1.0,True,False
+OC-00180,2024-10-24,2024-10-28,PROV006,Comercializadora Digital Express,75,MUE002,Escritorio Eléctrico,Muebles,36,3882.03,139753.08,5,4.0,0.0,True,True
+OC-00181,2024-04-29,2024-04-30,PROV005,Logística Integral de Cómputo,88,DIS002,HDD 4TB,Almacenamiento,76,1318.25,100187.0,4,1.0,0.0,True,True
+OC-00182,2024-08-18,2024-08-19,PROV006,Comercializadora Digital Express,75,DIS001,SSD 1TB,Almacenamiento,72,1415.8,101937.6,5,1.0,0.0,True,True
+OC-00183,2024-05-01,2024-05-02,PROV007,Mayorista de Tecnología,95,TEC002,Teclado Inalámbrico,Periféricos,13,459.69,5975.97,1,1.0,0.0,True,True
+OC-00184,2024-07-01,2024-07-06,PROV005,Logística Integral de Cómputo,88,SOF001,Office 365 1 año,Software,37,938.8,34735.6,4,5.0,0.0,True,True
+OC-00185,2024-08-05,2024-08-13,PROV004,TecnoPartes del Sur,60,LAP002,Laptop Air 13,Electrónica,28,9601.35,268837.8,10,8.0,0.0,True,True
+OC-00186,2024-02-13,2024-02-15,PROV001,Distribuidora Tecnológica S.A.,85,AUD002,Parlante Portátil,Audio,23,901.11,20725.53,3,2.0,0.0,True,True
+OC-00187,2024-01-08,2024-01-13,PROV004,TecnoPartes del Sur,60,PAP001,Papel Bond 5000 hojas,Papelería,6,183.12,1098.72,10,5.0,0.0,True,True
+OC-00188,2024-04-07,2024-04-14,PROV001,Distribuidora Tecnológica S.A.,85,DIS003,USB 64GB,Almacenamiento,54,139.29,7521.66,3,7.0,0.0,True,True
+OC-00189,2024-08-11,2024-08-20,PROV004,TecnoPartes del Sur,60,RED001,Router WiFi 6,Redes,18,1111.95,20015.1,10,9.0,0.0,True,True
+OC-00190,2024-10-08,,PROV007,Mayorista de Tecnología,95,LAP001,Laptop Pro 15,Electrónica,16,11576.67,185226.72,1,,,False,False
+OC-00191,2024-06-18,2024-06-28,PROV002,Importaciones Globales Ltda.,70,AUD001,Audífonos Bluetooth,Audio,27,1022.3,27602.1,7,10.0,0.0,True,True
+OC-00192,2024-09-12,2024-09-21,PROV006,Comercializadora Digital Express,75,AUD002,Parlante Portátil,Audio,28,737.11,20639.08,5,9.0,0.0,True,True
+OC-00193,2024-12-04,2024-12-07,PROV007,Mayorista de Tecnología,95,WEB002,Cámara Seguridad,Cámaras,23,1547.84,35600.32,1,3.0,2.0,True,False
+OC-00194,2024-08-19,2024-08-28,PROV002,Importaciones Globales Ltda.,70,DIS003,USB 64GB,Almacenamiento,56,140.16,7848.96,7,9.0,5.0,True,False
+OC-00195,2024-09-15,2024-09-22,PROV002,Importaciones Globales Ltda.,70,DIS002,HDD 4TB,Almacenamiento,40,1216.46,48658.4,7,7.0,1.0,True,False
+OC-00196,2024-01-28,2024-01-29,PROV003,Suministros Empresariales C.A.,92,MUE002,Escritorio Eléctrico,Muebles,18,4705.93,84706.74,2,1.0,0.0,True,True
+OC-00197,2024-08-23,2024-08-28,PROV003,Suministros Empresariales C.A.,92,MUE002,Escritorio Eléctrico,Muebles,4,4857.22,19428.88,2,5.0,1.0,True,False
+OC-00198,2024-12-07,2024-12-10,PROV006,Comercializadora Digital Express,75,LAP001,Laptop Pro 15,Electrónica,23,10375.36,238633.28,5,3.0,0.0,True,True
+OC-00199,2024-07-26,2024-08-06,PROV002,Importaciones Globales Ltda.,70,WEB002,Cámara Seguridad,Cámaras,8,1960.42,15683.36,7,11.0,0.0,True,True
+OC-00200,2024-01-15,2024-01-17,PROV001,Distribuidora Tecnológica S.A.,85,SOF002,Antivirus 3 equipos,Software,58,407.69,23646.02,3,2.0,0.0,True,True
